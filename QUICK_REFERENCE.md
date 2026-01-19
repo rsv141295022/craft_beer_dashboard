@@ -14,7 +14,7 @@ python src/preprocess_recipes.py
 
 ---
 
-## All Available Commands
+## All Available Commands 
 
 ### Extract Recipes (optional - already done with 1,395 recipes)
 ```bash
