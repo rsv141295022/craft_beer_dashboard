@@ -1,0 +1,8 @@
+numpy
+pandas
+pydantic
+openai
+python-dotenv
+tqdm
+openpyxl
+selenium

@@ -1,0 +1,1355 @@
+recipe_id,recipe_title,style,year,yeast_name,yeast_canonical,brand,product_code,primary_temp_F,secondary_temp_F,total_fermentation_days
+0,Big Blimp! Barleywine (2019),UK/US STRONG ALE,2019.0,1056 American Ale,1056 American Ale,Wyeast,,,,26
+1,Freya’s Locks Blonde Ale,BLONDE ALE,,neutral ale yeast (Chico strain),neutral ale yeast (Chico strain),,,68.0,68.0,10
+2,Lines on the Map English Strong Ale,UK/US STRONG ALE,2023.0,English ale yeast starter,English ale yeast starter,,,70.0,,19
+3,Wee Heavy/Strong Scotch Ale,AMBER ALE,2017.0,White Labs WLP028 Edinburgh Scottish Ale,White Labs WLP028 Edinburgh Scottish Ale,White Labs,,63.0,36.0,32
+4,O’Davey Irish Red Ale,AMBER ALE,2021.0,Lallemand Nottingham Yeast,Lallemand Nottingham Yeast,,,64.0,,0
+5,Nearly Nirvana Pale Ale,AMERICAN PALE ALE,2023.0,LalBrew BRY-97,LalBrew BRY-97,Lallemand,,66.0,,14
+6,Opus Coffee Baltic Porter,COFFEE BEER,2019.0,White Labs WLP833 German Bock Lager Yeast,White Labs WLP833 German Bock Lager Yeast,White Labs,,48.0,,46
+7,LTHD22 Hoppy Amber Ale,AMBER ALE,2022.0,"dry ale yeast (e.g., Mangrove Jack\u2019s M42 New World Strong Ale)","dry ale yeast (e.g., Mangrove Jack\u2019s M42 New World Strong Ale)",,,,,0
+8,Star Gazer Hazy Double IPA,IMPERIAL / DOUBLE IPA,2021.0,Fermentis SafAle K-97,Fermentis SafAle K-97,Fermentis,SafAle K-97,68.0,,0
+9,Dark Inception Imperial Porter,PORTER,2022.0,LalBrew\u00ae BRY-97 West Coast Ale Yeast,LalBrew\u00ae BRY-97 West Coast Ale Yeast,Lallemand,BRY-97,64.0,,28
+10,Cherry Chica Stout with Julia Herz,STOUT,1998.0,English Ale,English Ale,,,,,0
+11,Raison d’Saison with Elizabeth Burgess,SAISON,,WLP565 Saison Ale or Wyeast 3724 Belgian Saison,WLP565 Saison Ale or Wyeast 3724 Belgian Saison,,,68.0,,0
+12,American Pale Ale with Shawna Cormier,AMERICAN PALE ALE,,"WLP001, 1056, Safale US-05","WLP001, 1056, Safale US-05",,,67.0,,0
+13,Kuhn’s Pilsner,GERMAN PILSNER,2021.0,W-34/70,W-34/70,Wyeast,,66.0,,21
+15,Winter Bock,BOCK,2011.0,Weihenstephan 34/70,Weihenstephan 34/70,Wyeast or WLP,,48.0,,48
+16,Yellow Rose SMaSH,AMERICAN IPA,2021.0,WLP001 California Ale,WLP001 California Ale,White Labs,,65.0,,0
+17,Lucky 13 Dark Mild,MILD,2021.0,WLP005 British Ale Yeast or Mangrove Jack\u2019s M36 Liberty Bell Ale Yeast,WLP005 British Ale Yeast or Mangrove Jack\u2019s M36 Liberty Bell Ale Yeast,,,68.0,,14
+18,Canoe-Chuck Lager,AMERICAN LAGER,2021.0,Fermentis SafLager W-34/70,Fermentis SafLager W-34/70,Fermentis,,,,0
+19,Black Is Beautiful Imperial Stout (Countdown Brewing Version),IMPERIAL STOUT,2021.0,BRY-97 & American West Coast Ale Yeast,BRY-97 & American West Coast Ale Yeast,,,66.0,,21
+20,Fuller’s Chiswick Bitter Clone,ENGLISH BITTER,2021.0,London ESB Ale Yeast or London Ale Yeast,London ESB Ale Yeast or London Ale Yeast,,,63.0,50.0,28
+21,Mad About Saison,BELGIAN ALE,2018.0,Mad Fermentationist Saison Blend,Mad Fermentationist Saison Blend,,,68.0,,2
+22,Witty Dutchman Witbier,BELGIAN ALE,2019.0,Wyeast 3944 Belgian Witbier,Wyeast 3944 Belgian Witbier,Wyeast,3944,65.0,65.0,21
+23,Summer Wheat,AMERICAN WHEAT,2021.0,Fermentis SafAle US-05,Fermentis SafAle US-05,Fermentis,,67.0,,0
+24,Em Day’s Pale Ale,AMERICAN PALE ALE,2021.0,SafAle US-05,SafAle US-05,Fermentis,unknown,68.0,,16
+25,"Quad-Boiled, Non-Stopped, Big Hopped & Pretzel-Topped Double India Pale Ale",SPECIALTY IPA,2006.0,1056 American Ale Yeast,Chico/US-05 (American Ale),Wyeast,1056,,,0
+26,Janet’s Brown Ale – Big Brew 2021,AMERICAN BROWN ALE,2021.0,LalBrew BRY-97 West Coast Ale Yeast,LalBrew BRY-97 West Coast Ale Yeast,Lallemand,BRY-97,68.0,,0
+27,Big Bimp! American Barleywine,BARLEYWINE,2019.0,Wyeast 1056 American Ale,Chico/US-05 (American Ale),Wyeast,1056,62.0,,26
+28,Baltic Bliss,PORTER,2021.0,WLP810 San Francisco Lager,WLP810 San Francisco Lager,,,60.0,,2
+29,Easy Peasy American Lager,PALE LAGER,2021.0,SafLager W-34/70,SafLager W-34/70,Fermentis,,50.0,,21
+30,Full Stop Stout,IRISH STOUT,2021.0,Imperial A10 Darkness,Imperial A10 Darkness,,,64.0,,0
+31,Old School Barleywine,UK/US STRONG ALE,,,,,,68.0,68.0,18
+32,Columbus Pale Ale,PALE ALE,,California V Ale,California V Ale,White Labs,WLP051,68.0,68.0,18
+33,Zek’s Porter,Baltic Porter,,"WLP885 Zurich Lager, WLP830 German Lager, Wyeast 2206 Bavarian Lager, or Saflager S-23","WLP885 Zurich Lager, WLP830 German Lager, Wyeast 2206 Bavarian Lager, or Saflager S-23",,,,,0
+34,Mad Jack’s Hoppy Amber Ale,AMBER ALE,,Safale S-04,Safale S-04,,,63.0,68.0,10
+35,Stale Doughnut Belgian Pale Ale,BELGIAN ALE,2020.0,WLP510 Bastogne Belgian Ale Yeast,WLP510 Bastogne Belgian Ale Yeast,White Labs,WLP510,68.0,,0
+36,Kumquat Citra Sour,FRUIT BEER,2020.0,Fermentis SafAle S-04,Fermentis SafAle S-04,Fermentis,S-04,68.0,68.0,180
+37,Nilsson American Wheat Ale,WHEAT & RYE BEER,2020.0,Fermentis SafAle K-97,Fermentis SafAle K-97,Fermentis,,,,0
+38,Simply Bone Idle Bitter,AMBER ALE,2020.0,Lallemand London ESB,Lallemand London ESB,Lallemand,,,,0
+39,West Seattle Amber Ale,AMBER ALE,2020.0,Dry English Ale Yeast,Dry English Ale Yeast,White Labs,WLP007,66.0,66.0,19
+40,Surly Coffee Bender,BROWN ALE,2020.0,WLP007 Dry English Ale,WLP007 Dry English Ale,White Labs,,67.0,,0
+41,Avocado Saison,BELGIAN ALE,2019.0,Saison yeast,Saison yeast,,,67.0,67.0,14
+42,Saison Tropicale,BELGIAN ALE,2012.0,Belgian Style Saison Ale Yeast Blend / Safbrew S-33,Belgian Style Saison Ale Yeast Blend / Safbrew S-33,,,70.0,,21
+43,Monroe Weiss,BERLINER WEISSE,2018.0,Fermentis Safale S-04,Fermentis Safale S-04,Fermentis,,90.0,,5
+44,Cariño Sour,BERLINER WEISSE,2016.0,Fermentis Safbrew F2,Fermentis Safbrew F2,Fermentis,,85.0,,35
+45,Golden Goblet Gruit Ale,HISTORICAL BEER,2011.0,Belgian Strong Ale yeast,Belgian Strong Ale yeast,Wyeast Labs,1338,,,0
+46,Dubious Dubbel,BELGIAN ALE,2012.0,WLP500 or Wyeast 1214 Trappist Ale,WLP500 or Wyeast 1214 Trappist Ale,,,68.0,,0
+47,Mild Ale #3,AMBER ALE,2013.0,WLP002 or WLP023,WLP002 or WLP023,White Labs,,62.0,,14
+48,Quarantine American IPA,AMERICAN IPA,,BRY-97,BRY-97,Lallemand,,,,0
+49,Solstice American Stout,AMERICAN STOUT,2020.0,WLP090 San Diego Super Yeast,WLP090 San Diego Super Yeast,White Labs,,65.0,68.0,9
+50,One-Ply Rye IPA,AMERICAN IPA,2020.0,Lallemand Nottingham,Lallemand Nottingham,Lallemand,,64.0,,14
+51,Tim’s Sweet Stout,STOUT,2019.0,White Labs WLP005 British Ale Yeast,White Labs WLP005 British Ale Yeast,White Labs,,67.0,,0
+52,Pangaea Proxima Polar IPA,AMERICAN IPA,2020.0,Lallemand LalBrew Voss Kveik Ale Yeast,Lallemand LalBrew Voss Kveik Ale Yeast,Lallemand,,95.0,,0
+53,Espresso Stout,COFFEE BEER,2010.0,Irish Ale,Irish Ale,Wyeast 1084 or White Labs WLP004,,68.0,,0
+54,Easy Amber Ale,SPECIALTY IPA,,dry ale yeast,dry ale yeast,Lallemand,Not specified,,,0
+55,Tuxedo Speedo Black IPA,IPA,2013.0,American ale yeast,American ale yeast,,,,,0
+56,Stone-Faced IPA,AMERICAN IPA,2017.0,Wyeast 1056 American Ale or White Labs WLP001 California Ale or Safale US-05,Wyeast 1056 American Ale or White Labs WLP001 California Ale or Safale US-05,,,64.0,64.0,10
+57,Jack’s Classic American Pilsner,AMERICAN PILSNER,2020.0,Wyeast 2124 Bohemian Lager,Wyeast 2124 Bohemian Lager,Wyeast,2124,50.0,,14
+58,Double White IPA,IMPERIAL / DOUBLE IPA,2020.0,SafBrew S-33,SafBrew S-33,Fermentis,,66.0,,18
+59,Toto Stout,STOUT,2020.0,SafAle US-05,SafAle US-05,Fermentis,,68.0,,14
+60,Atahsaia Barleywine,BARLEYWINE,2015.0,Safale US-05,Chico/US-05 (American Ale),Fermentis,US-05,68.0,,14
+61,Thames Porter,AMERICAN PORTER,2014.0,London Ale yeast,London Ale yeast,,,68.0,,14
+62,Bruce Stott’s Dortmunder Export,HELLES,2007.0,WLP802 Czech Budejovice Lager Yeast,WLP802 Czech Budejovice Lager Yeast,White Labs,WLP802,50.0,50.0,39
+63,WTG? Stout,STOUT,2020.0,Fermentis Saflager S-33,Fermentis Saflager S-33,Fermentis,,,,14
+65,Little Red Bird Braggot,BRAGGOT,2020.0,Saison yeast,Saison yeast,,,,,0
+67,Chess with Checkers,BELGIAN ALE,2019.0,Trappist High Gravity yeast,Trappist High Gravity yeast,Wyeast,3787,68.0,,21
+68,Leicht,PALE LAGER,2019.0,Jasper Yeast Augustiner Lager or Omega Augustiner Lager yeast,Jasper Yeast Augustiner Lager or Omega Augustiner Lager yeast,,,54.0,,9
+69,Distemper Sour Ale,SOUR ALE,2019.0,WLP540 Abbey IV Ale Yeast,WLP540 Abbey IV Ale Yeast,White Labs,,,,0
+70,I Got Your Nukey Brown Ale,BROWN ALE,2020.0,Lallemand Nottingham,Lallemand Nottingham,,,,,0
+71,Dodgy Wanker,ENGLISH PALE ALE,2020.0,Wyeast 1968 London ESB Ale,Wyeast 1968 London ESB Ale,Wyeast,1968,,,0
+72,Newtonian ESB,ENGLISH PALE ALE,2015.0,London ESB ale yeast,London ESB ale yeast,Wyeast Labs,1968,68.0,,20
+73,Majestic Sea Cow American Pale Ale,AMERICAN PALE ALE,2019.0,WLP007,WLP007,White Labs,,,,0
+74,Triple-X,STOUT,,WLP006 Bedford British,WLP006 Bedford British,White Labs,WLP006,68.0,,14
+75,Ginger Dinger 2017 Dark Lager,DARK LAGER,2017.0,German- or Bavarian-type lager yeast,German- or Bavarian-type lager yeast,,,,,0
+76,Rogue Chocolate Stout Clone,SPICE & HERB BEER,2009.0,1764 Pacman Ale or WLP001 California Ale,1764 Pacman Ale or WLP001 California Ale,,,60.0,50.0,14
+77,Future Forward Sour Saison,BELGIAN ALE,2019.0,Lallemand Belle Saison and Sato yeast ball,Lallemand Belle Saison and Sato yeast ball,,,73.0,,14
+78,Peppermint Porter,COFFEE BEER,2019.0,Nottingham Ale Yeast,Nottingham Ale Yeast,,11 g sachet,64.0,,0
+79,Mike’s Mild,BROWN ALE,2019.0,1469 Yorkshire Square Ale Yeast,1469 Yorkshire Square Ale Yeast,Wyeast,1469,67.0,,0
+80,Wry Smile Rye IPA,IPA,2019.0,Wyeast 1450 Denny\u2019s Favorite 50,Wyeast 1450 Denny\u2019s Favorite 50,Wyeast,1450,65.0,,0
+81,Valhalla Honey Beer,BRAGGOT,2019.0,SafAle S-04 or Wyeast 3787 Trappist High Gravity,SafAle S-04 or Wyeast 3787 Trappist High Gravity,,,65.0,65.0,21
+82,Chomolungma Brown Ale,AMERICAN BROWN ALE,2019.0,English ale strain,English ale strain,,,65.0,,7
+83,Klosterman,HYBRID BEER,2019.0,WLP830 German Lager,WLP830 German Lager,White Labs,,55.0,,14
+84,Holiday Pumpkin Ale,SPICE & HERB BEER,2008.0,White Labs 002 English Ale Yeast,White Labs 002 English Ale Yeast,White Labs,002,68.0,68.0,21
+85,Schwarzer Geist Dark Lager,DARK LAGER,2019.0,Wyeast Labs 2124 Bohemian Lager,Wyeast Labs 2124 Bohemian Lager,Wyeast,2124,50.0,,21
+86,Barrel-Aged Mark of the Beast Doppelbock,BOCK,2019.0,Omega OYL-113 Mexican Lager,Omega OYL-113 Mexican Lager,,,51.0,,51
+87,Four-Two-Oh NEIPA,HAZY / NEW ENGLAND IPA,2019.0,Omega Yeast OYL-052 DIPA Ale,Omega Yeast OYL-052 DIPA Ale,,,66.0,,4
+88,Briess RoastOat Red,ENGLISH IPA,2019.0,"Irish Ale Yeast (White Labs WLP004, Wyeast 1084, or Omega OYL-005)","Irish Ale Yeast (White Labs WLP004, Wyeast 1084, or Omega OYL-005)",,,66.0,,0
+89,Princesse Beer 1866,HISTORICAL BEER,2019.0,Fermentis SafAle S-33,Fermentis SafAle S-33,Fermentis,,63.0,,14
+90,Bjørne Røthe’s Vossaøl,HISTORICAL BEER,2019.0,"Kveik #2 Rivenes (preferred) or Kveik #1 Sigmund\u2019s Voss, Omega Yeast Labs OYL-061 Voss Kveik, The Yeast Bay Sigmund\u2019s Voss Kveik, East Coast Yeast ECY43 Nordic Farmhouse, Inland Island Yeast INIS-441 Norwegian Farmhouse","Kveik #2 Rivenes (preferred) or Kveik #1 Sigmund\u2019s Voss, Omega Yeast Labs OYL-061 Voss Kveik, The Yeast Bay Sigmund\u2019s Voss Kveik, East Coast Yeast ECY43 Nordic Farmhouse, Inland Island Yeast INIS-441 Norwegian Farmhouse",,,,,0
+91,Joker’s #1 Light Lager,AMERICAN LAGER,2019.0,WLP840 American Lager Yeast,WLP840 American Lager Yeast,White Labs,,51.0,,19
+92,Old Helen Helles Exportbier,HELLES,2019.0,White Labs WLP833 German Bock Lager Yeast,White Labs WLP833 German Bock Lager Yeast,White Labs,WLP833,50.0,,20
+93,SunRaker German Pils,GERMAN PILSNER,2019.0,Wyeast 2124 Bohemian Lager,Wyeast 2124 Bohemian Lager,Wyeast,2124,50.0,,16
+94,Winnebago International Amber Lager,Amber Lager,2019.0,WLP800 Pilsner Lager Yeast,WLP800 Pilsner Lager Yeast,White Labs,,50.0,,7
+95,May the Schwartz Be With You,DARK LAGER,2019.0,Wyeast 2206 Bavarian Lager,Wyeast 2206 Bavarian Lager,Wyeast,,50.0,,16
+96,Four the Win (FTW) Belgian Dark Strong,BELGIAN ALE,2019.0,WLP500 Monastery Ale,WLP500 Monastery Ale,White Labs,,67.0,,0
+97,Tropic Sun Sour,FRUIT BEER,2019.0,Wyeast 3711 French Saison,Wyeast 3711 French Saison,Wyeast,3711,70.0,65.0,10
+98,Richard’s Brownie Batter Imperial Stout,IMPERIAL STOUT,2019.0,Manchester Ale,Manchester Ale,RVA132,,66.0,,36
+99,Blootered Bastart Barrel-aged Wee Heavy,AMBER ALE,2019.0,Edinburgh Ale,Scottish Ale,White Labs,WLP028,68.0,,14
+100,Catharina’s Passion Sour,FRUIT BEER,2019.0,SafAle US-05,SafAle US-05,Fermentis,,65.0,,5
+101,Angie’s Bursting Citra II (AKA Juice),AMERICAN PALE ALE,2017.0,California Ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,68.0,,14
+102,Pickelhaube Festbier,MARZEN,2016.0,Bavarian or Munich lager yeast,Bavarian or Munich lager yeast,,,48.0,,70
+104,Three Floyds Brewing Zombie Dust IPA Clone,IPA,2019.0,SafAle S-04,SafAle S-04,Fermentis,SafAle S-04,62.0,,17
+105,Cigar City Jai Alai IPA Classic Clone,IPA,2019.0,Thames Valley Ale Yeast,Thames Valley Ale Yeast,Wyeast,1275,65.0,,21
+106,Curse Stout,CHOCOLATE BEER,2019.0,California Ale Yeast,Chico/US-05 (American Ale),White Labs,WLP001,68.0,,14
+107,Boscos Famous Flaming Stone,HISTORICAL BEER,2019.0,Saflager W-34/70,Saflager W-34/70,Fermentis,,48.0,,45
+108,Saison Capitale,BELGIAN ALE,2019.0,Belle Saison,Belle Saison,Lallemand,,67.0,,9
+109,Tropicalia Catharina Sour,FRUIT BEER,2019.0,Safale US-05,Chico/US-05 (American Ale),Fermentis,US-05,66.0,,12
+110,We Don’t Need No Stinkin’ IBUs,AMERICAN PALE ALE,2019.0,Fermentis Saflager S-189 or your favorite ale yeast,Fermentis Saflager S-189 or your favorite ale yeast,,,,,21
+111,Blinky Session IPA,IPA,,Cry Havoc or American Ale,Cry Havoc or American Ale,,,,,0
+112,Eubayanus Brown Porter,AMERICAN PORTER,2016.0,S. eubayanus,S. eubayanus,,,,,0
+113,Austrian Expat Dark Mexican Lager,DARK LAGER,2017.0,Mexican lager yeast,Mexican lager yeast,,,50.0,,42
+114,Probably the Best Beer in the…House,HELLES,2019.0,Imperial Pilgrimage or other German lager yeast,Imperial Pilgrimage or other German lager yeast,,,62.0,,10
+115,Trappist Tripel,BELGIAN ALE,2019.0,WLP500 Monastery Ale,WLP500 Monastery Ale,White Labs,WLP500,62.0,72.0,12
+116,Mt. Brandon Irish Stout,IRISH STOUT,2016.0,WLP007 Dry English Ale Yeast,WLP007 Dry English Ale Yeast,White Labs,,,,0
+117,Aztec-style Brown Ale,BROWN ALE,2016.0,,,,,67.0,,14
+118,Two Blue Dogs Barleywine,BARLEYWINE,2011.0,California ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,65.0,45.0,104
+119,Battlecow Galacticose New England IPA (Partial Mash),HAZY / NEW ENGLAND IPA,2019.0,WLP066 London Fog Ale Yeast,WLP066 London Fog Ale Yeast,White Labs,WLP066,70.0,,14
+120,Trans-Atlantic Blonde Ale,BLONDE ALE,2019.0,,,,,62.0,65.0,17
+121,Helicious Helles,HELLES,2010.0,Private Collection 2247 European Lager,Private Collection 2247 European Lager,Wyeast,2247,50.0,,35
+122,Fortis Exordium Strong English Ale,OLD ALE,2019.0,WLP 007 Dry English Ale Yeast,WLP 007 Dry English Ale Yeast,White Labs,WLP007,,,0
+124,Black Hole Sun Baltic Porter,BALTIC PORTER,2019.0,.,.,,WLP830 or 2124 or SafLager W-34/70,50.0,,2
+125,Funkwerks Saison,BELGIAN ALE,2019.0,Farmhouse Ale,Farmhouse Ale,Wyeast,3726,65.0,,7
+126,Corporal Catbox New England IPA,HAZY / NEW ENGLAND IPA,2019.0,London Ale III,London Ale III,Wyeast,1318,65.0,,10
+127,La Bomba Belgian Golden Strong,BELGIAN ALE,2018.0,Inland Island INIS-222 Belgian Gnome Ale,Inland Island INIS-222 Belgian Gnome Ale,,,63.0,,7
+128,Gone for a Burton Brown Ale,BROWN ALE,2018.0,Fermentis S-04 SafAle English Ale,Fermentis S-04 SafAle English Ale,,,63.0,65.0,17
+129,Deer Crossing Kellerbier,HELLES,2019.0,Wyeast 2308 Munich Lager,Wyeast 2308 Munich Lager,Wyeast,,49.0,,12
+130,A2 Brew Tay,IPA,2019.0,Wyeast 1056,Chico/US-05 (American Ale),Wyeast,1056,68.0,68.0,21
+131,Amahl’s English Brown Ale,BROWN ALE,2019.0,WLP007 Dry English ale or WLP002 English ale yeast,WLP007 Dry English ale or WLP002 English ale yeast,White Labs,WLP007 or WLP002,64.0,,7
+132,Strength In Numbers Dark Vienna Lager,AMBER LAGER,2019.0,WLP029 Kolsch Yeast,WLP029 Kolsch Yeast,White Labs,,58.0,,48
+133,Betty’s Brown Ale,AMERICAN BROWN ALE,2019.0,English Ale,English Ale,White Labs,WLP002,66.0,,14
+134,Sierra Nevada Resilience IPA,AMERICAN IPA,2018.0,American ale yeast or Imperial Dry Hop yeast of your choice,American ale yeast or Imperial Dry Hop yeast of your choice,,,,,0
+135,Puna Coast Black Lager,DARK LAGER,2002.0,lager yeast for German style lagers,lager yeast for German style lagers,,,55.0,,35
+136,Stone 7th Anniversary Ale,AMERICAN PALE ALE,2006.0,Dry English Ale Yeast or Nottingham,Dry English Ale Yeast or Nottingham,,,72.0,,0
+137,Velveteen Caramel,AMBER ALE,2012.0,Irish Ale,Irish Ale,White Labs,WLP004,,,2
+138,Bell’s Two Hearted Ale Clone,AMERICAN IPA,,WLP001 California Ale Yeast,Chico/US-05 (American Ale),White Labs,WLP001,64.0,,14
+139,Sun-Dried Sour,FRUITED SOUR,2018.0,French Saison 3711,French Saison 3711,Wyeast,3711,68.0,,120
+140,Great Feats of Strength Imperial Stout,IMPERIAL STOUT,2017.0,SafAle US-05,SafAle US-05,Fermentis,,65.0,,28
+141,Lupulin Madness IPA,AMERICAN IPA,2018.0,SafAle US-05,SafAle US-05,Fermentis,,64.0,,14
+142,Melissa and Patty’s Saison,BELGIAN ALE,2018.0,Wyeast 3711 French Saison,Wyeast 3711 French Saison,Wyeast,3711,65.0,,21
+143,Honey Squished IPA,HAZY / NEW ENGLAND IPA,2018.0,WLP008 East Coast Ale,WLP008 East Coast Ale,White Labs,,68.0,68.0,21
+144,Charlie’s Visionary Mild,AMERICAN BROWN ALE,2016.0,White Labs WLP862 Cry Havoc yeast,White Labs WLP862 Cry Havoc yeast,White Labs,WLP862,70.0,55.0,14
+145,Storm Surge Baltic Porter,BALTIC PORTER,2011.0,,,,,64.0,,14
+146,Tropical Haze New England IPA,HAZY / NEW ENGLAND IPA,2018.0,Wyeast 1318 English Ale III,Wyeast 1318 English Ale III,Wyeast,,66.0,,14
+147,Alright Already Amber,AMBER ALE,2009.0,WLP001 California Ale or S-05,WLP001 California Ale or S-05,,,,,0
+148,The Big Hopper Imperial IPA,IMPERIAL / DOUBLE IPA,2010.0,1056 American ale yeast,1056 American ale yeast,Wyeast,,72.0,72.0,28
+149,Corrales Piñon Porter,PORTER,2018.0,Safale S-04,Safale S-04,Fermentis,,,,0
+150,Flubadub (partial-mash),AMERICAN PORTER,2018.0,WLP862 Cry Havoc,WLP862 Cry Havoc,White Labs,WLP862,70.0,55.0,7
+151,"Tall, Dark and Bready",DUNKELWEIZEN,2018.0,WLP 380 Hefewizen IV or Wyeast German Wheat 3333-PC,WLP 380 Hefewizen IV or Wyeast German Wheat 3333-PC,,,64.0,,0
+152,Brother Levonian Saison,BELGIAN ALE,2009.0,White Labs WLP566 Belgian Saison II Yeast,White Labs WLP566 Belgian Saison II Yeast,White Labs,,76.0,76.0,14
+153,Quick & Easy Malted Cider,SPECIALTY CIDER & PERRY,2016.0,English ale yeast,English ale yeast,,,68.0,,14
+154,Just Rye’te,AMERICAN PALE ALE,2016.0,Wyeast 1272 American Ale II,Wyeast 1272 American Ale II,Wyeast,,68.0,70.0,19
+155,Bell’s Brewery Expedition Stout Clone,IMPERIAL STOUT,2002.0,1056 American Ale yeast,Chico/US-05 (American Ale),Wyeast,1056,72.0,55.0,19
+156,Jack of All Saisons,BELGIAN ALE,2018.0,Wyeast 3711 French Saison,Wyeast 3711 French Saison,Wyeast,,68.0,,2
+157,Smoked Pumpkin Saison,BELGIAN ALE,2018.0,Wyeast 3711 French Saison,Wyeast 3711 French Saison,Wyeast,,68.0,,2
+158,Count Orloque Saison,BELGIAN ALE,2018.0,Omega Labs Saisonstein\u2019s Monster,Omega Labs Saisonstein\u2019s Monster,,slurry from 3 L starter,68.0,,2
+159,WeldWerks Brewing Juicy Bits NEIPA,HAZY / NEW ENGLAND IPA,2018.0,Wyeast 1318 London ale III yeast,Wyeast 1318 London ale III yeast,Wyeast,1318,67.0,,14
+161,Allagash White Clone,BELGIAN ALE,2018.0,WLP400 Belgian Wit ale yeast,WLP400 Belgian Wit ale yeast,White Labs,,63.0,,7
+163,Anchor Brewing Old Foghorn,BARLEYWINE,2018.0,American ale yeast (Chico),American ale yeast (Chico),California Ale Yeast,Chico,65.0,,17
+164,Sierra Nevada Bigfoot Barleywine (ver. 2),BARLEYWINE,2018.0,Chico American or California ale yeast,Chico American or California ale yeast,,,65.0,,7
+165,Caliente Tejano Pepper Cream Ale,CREAM ALE,2018.0,Chico American or California ale yeast,Chico American or California ale yeast,,,65.0,,0
+166,Embracing Sunset Lager,AMBER LAGER,2002.0,Oktoberfest style lager yeast,Oktoberfest style lager yeast,,,55.0,,35
+167,Peach IPA,FRUIT BEER,2016.0,White Labs ale yeast variants,White Labs ale yeast variants,White Labs,"WLP001, WLP002, WLP007",72.0,,0
+168,The Blue Devils BGSA,BELGIAN ALE,2016.0,Belgian Golden Ale Yeast,Belgian Golden Ale Yeast,,,64.0,,8
+169,"The Kernel Imperial Brown Stout, London 1856",HISTORICAL BEER,2013.0,London ale yeast,London ale yeast,,,65.0,,0
+170,Rocky Raccoon’s Honey Lager,AMERICAN LAGER,2016.0,Cry Havoc yeast,Cry Havoc yeast,White Labs,,55.0,,28
+171,Dusty Mud Irish-Style Stout,STOUT,2000.0,Irish Ale Yeast,Irish Ale Yeast,,,70.0,,7
+172,Kathleen’s Spruce Ale,AMERICAN PALE ALE,2018.0,Chico ale yeast,Chico ale yeast,,,68.0,,7
+173,Oregon Super Dank,AMERICAN PALE ALE,2018.0,A18 Joystick,A18 Joystick,Imperial Yeast,,,,0
+174,Two Flamingoes Strawberry Milkshake IPA,HAZY / NEW ENGLAND IPA,2018.0,Imperial Yeast A04 Barbarian,Imperial Yeast A04 Barbarian,,,65.0,70.0,17
+175,Grisette de Saison,BELGIAN ALE,2018.0,Saison or Belgian Ale yeast,Saison or Belgian Ale yeast,,,,,74
+176,Ordinary Grisette,BELGIAN ALE,2018.0,Saison or Belgian Ale yeast,Saison or Belgian Ale yeast,,,,,8
+177,Stew’s Brew Imperial Black IPA,IPA,2018.0,California Ale Yeast,Chico/US-05 (American Ale),White Labs,WLP001,68.0,,7
+178,Stew’s Brew Hefeweizen,HEFEWEIZEN,2018.0,WLP300 Hefeweizen Ale Yeast,WLP300 Hefeweizen Ale Yeast,White Labs,WLP300,65.0,,7
+179,Westbound Quad,BELGIAN ALE,2018.0,WLP530 Abbey Ale yeast,WLP530 Abbey Ale yeast,White Labs,WLP530,67.0,,40
+180,Bleu Reserve,BELGIAN ALE,2018.0,WLP500 Monastery Ale yeast,WLP500 Monastery Ale yeast,White Labs,WLP500,62.0,,2
+181,Big Star Lager,AMERICAN PILSNER,2018.0,Munich Helles (WLP 860),Munich Helles (WLP 860),White Labs,WLP 860,52.0,58.0,42
+182,Simple Pils,GERMAN PILSNER,2018.0,Wyeast 2352PC Munich lager II,Wyeast 2352PC Munich lager II,Wyeast,2352PC,52.0,,14
+183,Chrysanthemum Flower Tea Kölsch,HYBRID BEER,2018.0,Saflager S-23,Saflager S-23,Fermentis,,60.0,60.0,14
+184,TukTukTea IPA,IPA,2018.0,Wyeast 1056,Wyeast 1056,Wyeast,,,,0
+185,Choc Full O’ Cherry Porter,FRUIT BEER,2007.0,European Ale Yeast,European Ale Yeast,,,,,14
+186,John’s “World Famous” Dark Lager,DARK LAGER,,Wyeast 2633 Oktoberfest Blend,Wyeast 2633 Oktoberfest Blend,Wyeast,,55.0,,0
+187,Smokey the Beer II (Partial-Mash),RAUCHBIER,2018.0,White Labs Cry Havoc yeast,White Labs Cry Havoc yeast,White Labs,,,,0
+188,Just Another Pretty Face,BARLEYWINE,2017.0,WLP028 Edinburgh Ale Yeast,WLP028 Edinburgh Ale Yeast,White Labs,,68.0,,0
+189,American-Style Cascadian India Dark Double Black IPA (ASCIDDBIPA),IPA,2018.0,American/Chico ale yeast,American/Chico ale yeast,,,65.0,,2
+190,Bru’n Dry Stout,IRISH STOUT,2013.0,Irish ale yeast (WLP004 or WYEAST 1084),Irish ale yeast (WLP004 or WYEAST 1084),,,68.0,,14
+191,Organic Juniper Porter,BALTIC PORTER,2005.0,English Ale liquid yeast,English Ale liquid yeast,,,68.0,68.0,14
+192,Right on Hoover Hefeweizen,HEFEWEIZEN,2018.0,Wyeast 3068 Weihenstephan Weizen or White Labs WLP300 Hefeweizen Ale,Wyeast 3068 Weihenstephan Weizen or White Labs WLP300 Hefeweizen Ale,,,64.0,,14
+193,Weekday Bock (Malt Extract),BOCK,2018.0,White Labs Cry Havoc,White Labs Cry Havoc,White Labs,,,,0
+194,Psychedelic Weisse (Berliner Weisse with Dragon Fruit and Guava),BERLINER WEISSE,2017.0,Ale yeast (unspecified),Ale yeast (unspecified),,,,,29
+195,American IPA con Pomelo Rosado (Pink Grapefruit American IPA),AMERICAN IPA,2017.0,American ale yeast,American ale yeast,,,66.0,,5
+196,Barley Phillip Irish Red,AMBER ALE,2018.0,WLP039 Nottingham ale yeast,WLP039 Nottingham ale yeast,White Labs,WLP039,65.0,60.0,14
+197,Terre au Verre,BELGIAN ALE,2018.0,WLP568 Belgian Style Saison Ale Yeast Blend,WLP568 Belgian Style Saison Ale Yeast Blend,White Labs,,70.0,,3
+198,Pirate of the Baltic Porter,Baltic Porter,2012.0,.,.,,,64.0,64.0,52
+199,Cherry Dubbel,BELGIAN ALE,2007.0,WLP500 Trappist Ale Yeast,WLP500 Trappist Ale Yeast,White Labs,WLP500,,,0
+200,Sparrow Hawk Porter,BALTIC PORTER,2013.0,American Ale yeast or White Labs Cry Havoc yeast,American Ale yeast or White Labs Cry Havoc yeast,,,,,0
+201,Höfter’s Blanc Pale Ale,AMERICAN PALE ALE,2017.0,Safale US-05,Chico/US-05 (American Ale),Fermentis,US-05,65.0,,6
+202,Boeing Smoked Apple Lager (extract),AMBER LAGER,2017.0,Oktoberfest/M\u00e4rzen lager yeast or White Labs Cry Havoc yeast,Oktoberfest/M\u00e4rzen lager yeast or White Labs Cry Havoc yeast,,,70.0,55.0,42
+203,Squeeze the Day,FRUITED SOUR,2017.0,Safale US-05,Chico/US-05 (American Ale),Fermentis,US-05,,,0
+204,Imperial Rice Pilsner,PILSNER,2017.0,WLP802 Czech Budejovice Lager Yeast,WLP802 Czech Budejovice Lager Yeast,White Labs,WLP802,65.0,50.0,59
+205,SMASH Bohemian Pils,CZECH / BOHO PILS,2017.0,WLP802 Czech Budejovice Lager Yeast,WLP802 Czech Budejovice Lager Yeast,White Labs,WLP802,48.0,,19
+206,Siebte Flasche,HEFEWEIZEN,2017.0,Wyeast 3068 Weihenstephan Weizen and White Labs WLP300 Hefeweizen Ale Yeast,Wyeast 3068 Weihenstephan Weizen and White Labs WLP300 Hefeweizen Ale Yeast,Wyeast / White Labs,3068 / WLP300,62.0,,5
+207,No Fail Extract IPA,AMERICAN IPA,2017.0,Fermentis Safale S-04,Fermentis Safale S-04,Fermentis,S-04 English Ale,,,9
+208,Rye the Heck Not?,WHEAT & RYE BEER,2012.0,German Ale or D\u00fcsseldorf Alt Ale Yeast,German Ale or D\u00fcsseldorf Alt Ale Yeast,,,,,0
+209,Super Nice Day IPA,IPA,2017.0,Safale US-05,Chico/US-05 (American Ale),Fermentis,US-05,66.0,60.0,19
+210,Jamil’s Extra Yellow,AMERICAN LAGER,,",",",",,,,,0
+211,Continental-Style Baltic Porter,BALTIC PORTER,2017.0,WLP802 Budejovice lager yeast,WLP802 Budejovice lager yeast,White Labs,WLP802,48.0,50.0,53
+212,London-Style Baltic Porter,BALTIC PORTER,2017.0,K\u00f6lsch or Irish Ale yeast,K\u00f6lsch or Irish Ale yeast,,,65.0,,14
+213,Golden Ale,ENGLISH PALE ALE,2017.0,Fermentis Safale S-04,Fermentis Safale S-04,,,65.0,,0
+214,GP75 Pale Ale,AMERICAN PALE ALE,2017.0,Fermentis Safale S-04,Fermentis Safale S-04,,,65.0,,0
+215,Prost Bock,BOCK,2011.0,German bock lager yeast,German bock lager yeast,White Labs,WLP833,50.0,,56
+216,Boulevard Brewing Co. Tank 7,BELGIAN ALE,,WLP670 American Farmhouse Blend ale yeast,WLP670 American Farmhouse Blend ale yeast,White Labs,,70.0,,0
+217,Big Beach Brewing Co. For the Love of…Mosaic,AMERICAN PALE ALE,,Safale US-05,Safale US-05,,,67.0,,0
+218,Focal Point (Inspired by The Alchemist’s Focal Banger),HAZY / NEW ENGLAND IPA,,WLP095 Burlington Ale Yeast,WLP095 Burlington Ale Yeast,,,,,0
+219,Great Lakes Brewing Edmund Fitzgerald Porter,BALTIC PORTER,,,,,,68.0,,0
+220,New Glarus Brewing Belgian Red Ale,BELGIAN ALE,,Belgian Wheat Ale yeast or Ale yeast,Belgian Wheat Ale yeast or Ale yeast,,,65.0,65.0,56
+221,More Fun Blonde,BELGIAN ALE,2011.0,Westmalle ale yeast,Westmalle ale yeast,,,75.0,,0
+222,Solstice Spice,BELGIAN ALE,2006.0,London Ale Yeast,London Ale Yeast,Wyeast,1028,65.0,,14
+223,Kölsch,HYBRID BEER,2017.0,WLP029 K\u00f6lsch/German ale yeast,WLP029 K\u00f6lsch/German ale yeast,White Labs,WLP029,,,0
+224,The Cure from Cork,Irish Stout,2017.0,WLP007 Dry English Ale,WLP007 Dry English Ale,White Labs,,70.0,,14
+225,Copper Ale,AMBER ALE,2017.0,California Ale,Chico/US-05 (American Ale),White Labs,WLP001,68.0,,1
+226,80 Shilling Scottish Ale,AMBER ALE,2017.0,WLP028 Edinburgh Scottish Ale or Wyeast 1728 Scottish Ale,WLP028 Edinburgh Scottish Ale or Wyeast 1728 Scottish Ale,,,63.0,36.0,28
+227,Spice Trade Brewing Sun Temple IPA,AMERICAN IPA,2017.0,GigaYeast Vermont IPA Yeast,GigaYeast Vermont IPA Yeast,,,68.0,,0
+228,Lawson’s Sip of Sunshine IPA Clone,HAZY / NEW ENGLAND IPA,2017.0,Chico ale yeast (American or California ale yeast),Chico ale yeast (American or California ale yeast),,,65.0,,4
+229,Sierra Nevada Celebration Ale (Version 2),AMERICAN IPA,2017.0,Chico ale yeast,Chico ale yeast,,,65.0,,4
+230,Smoked Habanero IPA,IPA,2017.0,WLP001 California Ale,WLP001 California Ale,White Labs,,65.0,65.0,21
+231,Brighid’s Irish Red Ale,AMBER ALE,2009.0,London Ale Yeast,London Ale Yeast,White Labs,WLP013,62.0,,21
+232,Fuller’s ESB Clone,ENGLISH PALE ALE,2006.0,English Ale Yeast,English Ale Yeast,White Labs,WLP002,65.0,,30
+233,Klang Freudenfest Oktoberfest (Extract),OKTOBERFEST,2017.0,German lager yeast,German lager yeast,,,52.0,48.0,41
+234,Rushmore IPA (Extract),AMERICAN IPA,2017.0,,,,,,,0
+235,Battre L’oie Saison (Extract),BELGIAN ALE,,Belgian saison yeast,Belgian saison yeast,,,62.0,68.0,17
+236,Ommegang Abbey Clone,BELGIAN ALE,2008.0,,,,,77.0,,14
+237,Montezuma’s Revenge Mexican Dark Lager with Coffee,COFFEE BEER,2010.0,California Lager or San Francisco Lager Yeast,California Lager or San Francisco Lager Yeast,,Wyeast 2112 or WLP810,65.0,65.0,28
+238,Dirk Diggler New England Pale Ale,HAZY / NEW ENGLAND IPA,,London ale III,London ale III,Wyeast,1318,68.0,,28
+239,Arrogant Bastard Clone,UK/US STRONG ALE,2011.0,WLP007 Dry English Ale Yeast,WLP007 Dry English Ale Yeast,White Labs,,,,0
+240,Bitter Beer Face Session IPA,IPA,2013.0,WLP001 California/Wyeast 1056 American/Safale US-05 Ale Yeast,WLP001 California/Wyeast 1056 American/Safale US-05 Ale Yeast,,,,,0
+241,Harvest Ale Saison,BELGIAN ALE,2008.0,Dupont Saison yeast,Dupont Saison yeast,White Labs,WLP-565,,,0
+242,Whale’s Tail Pale Ale,AMERICAN PALE ALE,,California Ale Yeast,Chico/US-05 (American Ale),White Labs,WLP001,70.0,,4
+243,Maverick India Black Ale,IPA,2005.0,German Ale yeast,German Ale yeast,,,,,0
+244,Dogfish Head 120 Minute IPA,IPA,2005.0,WLP001 California Ale or Wyeast 1056 American Ale,WLP001 California Ale or Wyeast 1056 American Ale,,,72.0,,3
+245,Pressure Drop Stokey Brown,BROWN ALE,2013.0,Safale US-05,Safale US-05,,,,,0
+246,Gone But Not Forgotten Burton Old Ale,ENGLISH PALE ALE,2012.0,ESB Ale Yeast or White Labs WLP002 English Ale Yeast,ESB Ale Yeast or White Labs WLP002 English Ale Yeast,,,,,0
+247,Christmas Cinderella Double Brown Ale,SPICE & HERB BEER,1997.0,Wyeast 1275 Thames Valley ale yeast,Wyeast 1275 Thames Valley ale yeast,,,64.0,,10
+248,The Fall (Cranberry Saison),BELGIAN ALE,2006.0,Belgian Saison I,Belgian Saison I,White Labs,WLP565,,,0
+249,Ale of Asgard,BARLEYWINE,,Wyeast 1056 American Ale,Wyeast 1056 American Ale,Wyeast,,68.0,,0
+250,Maltonator Doppelbock,BOCK,2009.0,Bavarian lager yeast,Bavarian lager yeast,,White Labs 833 German Bock or Wyeast 2124 Bohemian Lager,,,14
+251,Epic Stout,IMPERIAL STOUT,2014.0,not specified,not specified,,,,,0
+252,Julie: A Pumpkin Belgian Strong Ale,BELGIAN ALE,2006.0,1388 Belgian Strong Ale Yeast,1388 Belgian Strong Ale Yeast,Wyeast,1388,,,0
+253,Ekuanot HBC 366 American Pale Ale,AMERICAN PALE ALE,,American ale yeast,American ale yeast,,,67.0,,14
+254,3 Floyds Alpha King Clone,AMERICAN PALE ALE,,#1056 American Ale Yeast,Chico/US-05 (American Ale),Wyeast,1056,68.0,,5
+255,Sierra Nevada Bigfoot Barleywine,BARLEYWINE,2006.0,1056 American Ale Yeast,1056 American Ale Yeast,Wyeast,,68.0,68.0,14
+256,Sippin’ on the Dock of the Bay IPA,AMERICAN IPA,2009.0,1056 American Ale,1056 American Ale,Wyeast,,68.0,,7
+257,Deschutes Chainbreaker White IPA Clone,IPA,2012.0,Trappist High Gravity ale yeast,Trappist High Gravity ale yeast,Wyeast 3787,,66.0,,2
+258,Evil Twin,AMBER ALE,2006.0,WLP001 California Ale,WLP001 California Ale,White Labs,,68.0,,14
+259,Russian River Blind Pig IPA Clone,IPA,2012.0,California Ale Yeast or American Ale,California Ale Yeast or American Ale,,"WLP001, Wyeast 1056",68.0,,0
+260,Victory Brewing Co. Prima Pils Clone,GERMAN PILSNER,,German lager yeast,German lager yeast,,,50.0,,14
+261,Collective Hoppiness,Imperial / Double IPA,2012.0,British ale yeast,British ale yeast,,,,,0
+262,Kalyke Blonde,BELGIAN ALE,2015.0,Belgian Ardennes yeast,Belgian Ardennes yeast,,,68.0,,0
+263,Summertime Ginger Ale,SPICE & HERB BEER,,K\u00f6lsch Yeast or WLP029 German Ale/K\u00f6lsch yeast,K\u00f6lsch Yeast or WLP029 German Ale/K\u00f6lsch yeast,,,65.0,65.0,15
+264,LAB Coconut Porter,PORTER,2013.0,Safale US-05,Safale US-05,,,68.0,,14
+265,Jeff’s Untitled Dortmunder,HELLES,2011.0,WLP830 German Lager Yeast,WLP830 German Lager Yeast,White Labs,,70.0,,46
+266,Pickelhaube Märzen,AMBER LAGER,,Bavarian or Munich lager yeast,Bavarian or Munich lager yeast,,,48.0,,63
+267,Oskar Blues Dale’s Pale Ale,AMERICAN PALE ALE,2009.0,California Ale yeast,California Ale yeast,,,70.0,60.0,0
+268,Odell IPA,AMERICAN IPA,2007.0,Nottingham ale yeast,Nottingham ale yeast,,,68.0,60.0,7
+269,(512) Brewing Co. Pecan Porter,PORTER,,American ale yeast,American ale yeast,,16M cells/ml,68.0,,14
+270,Sour Blonde with Apricot,BELGIAN ALE,2015.0,,,,,68.0,62.0,8
+271,Founders Kentucky Breakfast Stout,Imperial Stout,,American or California Ale yeast,American or California Ale yeast,,,65.0,,14
+272,Browneywine (Maltose Falcons & Firestone Walker),BARLEYWINE,1974.0,WLP005 British ale yeast,WLP005 British ale yeast,,,,,0
+273,North Coast Old Rasputin Russian Imperial Stout Clone,IMPERIAL STOUT,2007.0,American or California ale yeast,American or California ale yeast,,,68.0,,0
+274,Gordon Biersch Winter Bock,BOCK,2011.0,Wyeast 2124 or WLP830,Wyeast 2124 or WLP830,,,48.0,,48
+275,Sierra Nevada Celebration Ale,IPA,2003.0,Wyeast American Ale or White Labs California Ale yeast,Wyeast American Ale or White Labs California Ale yeast,,,,,0
+276,Dark Winter Saison IV,BELGIAN ALE,2014.0,WLP670,WLP670,White Labs,WLP670,75.0,60.0,208
+277,Green Flash West Coast IPA,AMERICAN IPA,2013.0,California ale yeast WLP001,California ale yeast WLP001,White Labs,,68.0,,7
+278,Chodsko Pivo Bohemian Pilsner,CZECH / BOHO PILS,2015.0,Urquell Lager and Bohemian Lager,Urquell Lager and Bohemian Lager,,,,,44
+279,Lagunitas Brown Shugga’ Clone,BARLEYWINE,,WLP002 or Wyeast1968,WLP002 or Wyeast1968,,,64.0,,0
+280,Delirium Oat Rosemary Pale Ale Recipe,IPA,,White Labs Cry Havoc,White Labs Cry Havoc,,,70.0,,7
+281,Alaskan Smoked Porter Clone,PORTER,,Chico Ale,Chico Ale,,,65.0,,7
+282,Left Hand Milk Stout Clone,STOUT,,California ale yeast,California ale yeast,,,70.0,60.0,14
+283,Lagunitas Little Sumpin’ Sumpin’ Clone,AMERICAN PALE ALE,,WLP007 Dry English ale yeast,WLP007 Dry English ale yeast,White Labs,,67.0,,7
+284,Ardley Brown Ale,BROWN ALE,2012.0,Danstar Nottingham ale yeast,Danstar Nottingham ale yeast,,,67.0,,0
+285,Charlie’s Brown Ale,BROWN ALE,2013.0,White Labs WLP002 English Ale Yeast,White Labs WLP002 English Ale Yeast,,,68.0,38.0,28
+286,Bonnie Prince Charlie’s 80/- Shilling,AMBER ALE,2014.0,Edinburgh Ale,Edinburgh Ale,White Labs,,62.0,36.0,28
+287,Deschutes’ Fresh Squeezed IPA Clone,AMERICAN IPA,,WLP001 California Ale yeast,WLP001 California Ale yeast,White Labs,,67.0,,7
+288,Sierra Nevada Ruthless Rye Clone,IPA,2012.0,Ale yeast,Ale yeast,,,68.0,,3
+289,Ugly Pug Schwarzbier Clone,DARK LAGER,2010.0,San Francisco lager yeast,San Francisco lager yeast,White Labs,WLP810,,,0
+290,Dogfish Head Raison D’Etre Clone,BELGIAN ALE,,Belgian Ardennes or WLP510 Belgian Bastogne,Belgian Ardennes or WLP510 Belgian Bastogne,,,70.0,,0
+291,Oh My Eye! Grapefruit Hefeweizen,FRUIT BEER,2008.0,Hefeweizen IV ale yeast,Hefeweizen IV ale yeast,White Labs,WLP380,70.0,70.0,10
+292,Gold,German Pilsner,2015.0,WLP830 German Lager yeast,WLP830 German Lager yeast,White Labs,WLP830,52.0,,27
+293,Isaac’s Standard Lager,AMERICAN LAGER,2015.0,WLP840 American Lager,WLP840 American Lager,White Labs,,48.0,52.0,42
+294,Vienna Lager,AMBER LAGER,2015.0,WLP833 German Bock lager,WLP833 German Bock lager,White Labs,WLP833,48.0,35.0,104
+295,May The Schwarz Be With You,DARK LAGER,2015.0,Wyeast 2124 Bohemian Lager,Wyeast 2124 Bohemian Lager,Wyeast,,48.0,,14
+296,Saint Martin Doppel,BOCK,2015.0,WLP 833 German Bock lager yeast,WLP 833 German Bock lager yeast,White Labs,WLP 833,48.0,,100
+297,Cream of the Crop,Cream Ale,2015.0,US-05,US-05,Fermentis,,65.0,,14
+298,Gate Keeper,AMBER LAGER,2015.0,San Francisco Lager yeast or Wyeast 2112 California Lager yeast,San Francisco Lager yeast or Wyeast 2112 California Lager yeast,White Labs/Wyeast,,62.0,35.0,42
+299,Ordinarily Bitter,ENGLISH PALE ALE,2015.0,White Labs WLP002 English ale yeast,White Labs WLP002 English ale yeast,White Labs,WLP002,62.0,,7
+300,3 Angels Kilt Lifter,AMBER ALE,2015.0,Scottish Ale yeast,Scottish Ale,Wyeast,1728,68.0,,90
+301,Prenup Pale Ale,AMERICAN PALE ALE,2015.0,Safale US-05,Safale US-05,,,68.0,,14
+302,Kerry’s Session Mild,BROWN ALE,2015.0,English Ale yeast,English Ale yeast,White Labs,WLP002,68.0,,14
+303,Dyson’s Chocolate Porter,AMERICAN PORTER,2015.0,1056 American ale yeast,Chico/US-05 (American Ale),Wyeast,1056,65.0,65.0,54
+304,Spokonoy Nochi 13,IMPERIAL STOUT,2015.0,WLP001 California Ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,64.0,,14
+305,Over The Top 7 Hop IPA,AMERICAN IPA,2015.0,American Ale yeast,Chico/US-05 (American Ale),Wyeast,1056,65.0,65.0,21
+306,Weize-Ass Bock,BOCK,2015.0,WLP380 Hefewiezen IV ale,WLP380 Hefewiezen IV ale,White Labs,,66.0,70.0,11
+307,Raspberry Flanders,FLANDERS RED,2015.0,Safale US-05,Chico/US-05 (American Ale),Fermentis,US-05,66.5,66.5,502
+308,Oskar’s Gueuze,GUEUZE,2015.0,Wyeast 3278 Belgian Lambic Blend,Wyeast 3278 Belgian Lambic Blend,Wyeast,,70.0,,60
+309,Tridevils Tripel T’s,BELGIAN ALE,2015.0,WLP500 Monastery Ale yeast,WLP500 Monastery Ale yeast,White Labs,,67.0,74.0,9
+310,Merica F%#K Yeah!,BARLEYWINE,2015.0,Wyeast 1056 American Ale,Chico/US-05 (American Ale),Wyeast,1056,64.0,60.0,121
+311,Raspberry Tart,ENGLISH PALE ALE,2015.0,English Ale yeast,English Ale yeast,White Labs,WLP002,65.0,68.0,25
+312,Mark’s Chipotle Lichtenhainer,HISTORICAL BEER,2015.0,WLP677 Lactobacillus delbruecki starter,WLP677 Lactobacillus delbruecki starter,White Labs,,90.0,68.0,184
+313,Whales BBDS (Blended Belgian Dark Strong),BELGIAN ALE,2015.0,Monastery Ale yeast,Monastery Ale yeast,White Labs,WLP500,68.0,68.0,238
+314,Citra Session IPA,AMERICAN IPA,2015.0,American ale yeast,Chico/US-05 (American Ale),Wyeast,1056,62.0,66.0,14
+315,J-Lo & Chew-zacca’s Wild Ride Pale Ale,AMERICAN PALE ALE,,Safale US-05 or Danstar BRY-97,Safale US-05 or Danstar BRY-97,,,,,0
+316,Gunnawanna ‘Toberfest,PALE LAGER,2015.0,Cry Havoc lager,Cry Havoc lager,"German, Bavarian or White Labs",,55.0,,7
+317,San Diego Dark Session Ale,BROWN ALE,,WLP 002 English Ale or Wyeast equivlanet or SafAle 04,WLP 002 English Ale or Wyeast equivlanet or SafAle 04,,,68.0,68.0,19
+318,The Bruery’s Black Orchard Wit,BELGIAN ALE,2009.0,Belgian Ale strain,Belgian Ale strain,,,66.0,,7
+319,The Tsar’s Kvass,HISTORICAL BEER,,Fermentis T-58,Fermentis T-58,,,65.0,,0
+320,Czeslaw Dzielak’s Imperial IPA,IMPERIAL / DOUBLE IPA,2015.0,1056 American Ale,Chico/US-05 (American Ale),Wyeast,1056,66.0,54.0,14
+321,Russian River Pliny the Elder Clone,AMERICAN IPA,,California Ale Yeast,Chico/US-05 (American Ale),White Labs,WLP001,67.0,,0
+322,Firestone Walker Wookey Jack Clone,IPA,2014.0,WLP007 Dry English Ale yeast,WLP007 Dry English Ale yeast,White Labs,,62.0,,10
+323,Deschutes Black Butte Porter Clone,AMERICAN PORTER,,,,White Labs/Wyeast,WLP 002 / 1968 London ESB,65.0,,14
+324,Dogfish Head 90 Minute IPA Clone,IMPERIAL / DOUBLE IPA,,1056 American Ale Yeast,Chico/US-05 (American Ale),Wyeast,1056,72.0,,0
+325,Bastage English Summer Ale,BLONDE ALE,2011.0,Wyeast 1028 London Ale,Wyeast 1028 London Ale,Wyeast,,65.0,,0
+326,Nazz Session IPA,AMERICAN IPA,,Wyeast 1056 American ale yeast,Wyeast 1056 American ale yeast,Wyeast,,,,0
+327,Matt’s Sour Brown,BROWN ALE,2011.0,Belgian-style ale strain,Belgian-style ale strain,,WLP 515 or Wyeast 3522,68.0,,0
+328,2015 Big Brew Recipe #3: Killer Kölsch,HYBRID BEER,2015.0,WLP029 German Ale/K\u00f6lsch,WLP029 German Ale/K\u00f6lsch,White Labs,,58.0,,64
+329,Dollar to Döllnitz Gose,HISTORICAL BEER,2015.0,Hefeweizen yeast,Hefeweizen yeast,,,68.0,,14
+330,Dan’s Märzen,AMBER LAGER,2011.0,Weihenstephan 34/70,Weihenstephan 34/70,Wyeast/WLP,2124/WLP830,,,46
+331,Ryed Hard American Rye Ale,AMERICAN PALE ALE,2010.0,California Ale Yeast,Chico/US-05 (American Ale),White Labs,WLP001,,,0
+332,Pagosa’s Shreddin’ Red IPA Clone,AMERICAN IPA,,English Ale yeast,English Ale yeast,White Labs,WLP002,68.0,,0
+333,Newcastle Brown Ale Clone,BROWN ALE,2001.0,Wyeast No. 1028 Special London or White Labs English ale yeast,Wyeast No. 1028 Special London or White Labs English ale yeast,,,64.0,,0
+334,My Smoked Dark Heart Lager,DARK LAGER,2009.0,Wyeast 2124 Bohemian Lager / WLP838 South German Lager,Wyeast 2124 Bohemian Lager / WLP838 South German Lager,,,,,0
+335,Valymber Strong Bitter,ENGLISH PALE ALE,2002.0,1056 American ale yeast,Chico/US-05 (American Ale),Wyeast,1056,66.0,36.0,50
+336,Stout Trousers,AMERICAN STOUT,2009.0,Wyeast 1272 American Ale II,Wyeast 1272 American Ale II,Wyeast,1272,64.0,66.0,10
+337,Sweet Mischief Vienna-Mild,AMBER LAGER,2012.0,White Labs Cry Havoc,White Labs Cry Havoc,White Labs,,55.0,35.0,28
+338,Düsseldorf Altbier,ALTBIER,2009.0,Yeast 1007 German Ale Yeast/WLP036 Dusseldorf Alt/WLP029 German Ale/K\u00f6lsch,Yeast 1007 German Ale Yeast/WLP036 Dusseldorf Alt/WLP029 German Ale/K\u00f6lsch,,,65.0,65.0,14
+339,Jabberwocky Maibock,BOCK,2004.0,German or Bavarian lager yeast,German or Bavarian lager yeast,,,55.0,,28
+340,Better Red Than Dead,AMBER ALE,2009.0,Irish Ale Yeast,Irish Ale Yeast,White Labs or Wyeast,004 or 1084,65.0,,14
+341,American Malt Liquor (Olde English Clone),AMERICAN LAGER,,Wyeast 2007 Pilsen Lager yeast,Wyeast 2007 Pilsen Lager yeast,Wyeast,1057,55.0,50.0,18
+342,Black is Back,BELGIAN ALE,2013.0,Strong Belgian-style ale yeast,Strong Belgian-style ale yeast,,,,,0
+343,Yak & Yeti’s Chai Milk Stout Clone,SPICE & HERB BEER,2013.0,Wyeast 1728 Scottish Ale,Scottish Ale,Wyeast,1728,68.0,,7
+344,Ruabeoir Red Ale,AMBER ALE,,WLP004 Irish Ale,WLP004 Irish Ale,,,66.0,,0
+345,Hop Hammer,IMPERIAL / DOUBLE IPA,,California Ale,Chico/US-05 (American Ale),White Labs,WLP001,67.0,70.0,17
+346,Doktor Schnurrbart Schwarzbier,DARK LAGER,,Bavarian lager yeast,Bavarian lager yeast,,,,,0
+347,Belgian Bombshell,BELGIAN ALE,2009.0,Belgian Ale WLP550,Belgian Ale WLP550,White Labs,WLP550,66.0,66.0,21
+348,Victory and Chaos IPA,ENGLISH IPA,,London Ale yeast,London Ale yeast,White Labs,WLP013,,,0
+349,Polka Dot Pilsner,GERMAN PILSNER,,Czech lager yeast,Czech lager yeast,,,,,0
+350,ZAITH Weizen,HEFEWEIZEN,,WLP300 or Wyeast 3068,WLP300 or Wyeast 3068,White Labs/Wyeast,,,,14
+351,Falconclaws (Samichlaus),BOCK,,Zurich Lager Yeast,Zurich Lager Yeast,WLP,885,,,0
+352,Belgian IPA,BELGIAN ALE,2011.0,WY 3522 Belgian Ardennes,WY 3522 Belgian Ardennes,Wyeast,WLP550,,,0
+353,"I’m Not Bitter, I’m Thirsty!",ENGLISH PALE ALE,,Wyeast 1968 London ESB or WLP002 English Ale or Safale S-04,Wyeast 1968 London ESB or WLP002 English Ale or Safale S-04,,,68.0,68.0,21
+354,Weizenbock,BOCK,,Weihenstephan Weizen,Weihenstephan Weizen,Wyeast,3068 Wyeast 3068,,,0
+355,Hoppiness is an IPA,AMERICAN IPA,,WLP001 California ale yeast,WLP001 California ale yeast,White Labs,,,,0
+356,Yellow Diamond Belgian Pale Ale,BELGIAN ALE,,Belgian Style yeast,Belgian Style yeast,,,66.0,,0
+357,Uncommonly Lucky,AMBER LAGER,,San Francisco Lager or California Lager,San Francisco Lager or California Lager,,WLP810 or WY2112,62.0,,0
+358,Hibiscus Mango Blonde,BLONDE ALE,2012.0,US-05 dry yeast,Chico/US-05 (American Ale),Fermentis,US-05,68.0,68.0,44
+359,Classic American Pilsner,PILSNER,2012.0,WLP840 or Wyeast 2035,WLP840 or Wyeast 2035,,,48.0,,3
+360,Orpheo Roja (Chimay Red Clone),BELGIAN ALE,2000.0,/,/,,,68.0,,0
+362,Rogue Dead Guy Ale Clone,BOCK,2003.0,BrewTek California Pub Ale (CL-50) yeast or equivalent,BrewTek California Pub Ale (CL-50) yeast or equivalent,,,60.0,,0
+363,Weisse Not?,BERLINER WEISSE,2012.0,European ale yeast,European ale yeast,Wyeast,1338,68.0,,222
+364,Not-So Pilsener,PILSNER,2005.0,lager yeast,lager yeast,,,55.0,,7
+365,Baltic Porter,BALTIC PORTER,2006.0,Wyeast 2124 Bohemian Lager,Wyeast 2124 Bohemian Lager,Wyeast,2124,77.0,,49
+366,Nirvana Chanterelle Ale,SPICE & HERB BEER,,Belgian abbey yeast,Belgian abbey yeast,,,,,0
+367,Sticke Alt,ALTBIER,,Wyeast 1007 or equivalent,Wyeast 1007 or equivalent,Wyeast,,60.0,,21
+368,Quarter Session Bitter,ENGLISH PALE ALE,,London Ale,London Ale,Wyeast,1028,,,0
+369,Lampo Bianco (White Lightning),BELGIAN ALE,2012.0,Belgian Wit Ale Yeast (WLP550 or Wyeast 3944 or 3942),Belgian Wit Ale Yeast (WLP550 or Wyeast 3944 or 3942),,,75.0,,0
+370,100% Brettanomyces Farmhouse,FARMHOUSE BEER,2012.0,Brettanomyces yeast,Brettanomyces yeast,,,,,0
+371,Caribbean Stout,FOREIGN / TROPICAL STOUT,,Irish Ale,Irish Ale,Wyeast or White Labs,1084 or White Labs Irish Ale,,,0
+372,Smoked Robust Porter,PORTER,,WLP001 California Ale or Wyeast 1056 American Ale or Safale US-05,WLP001 California Ale or Wyeast 1056 American Ale or Safale US-05,,,67.0,,0
+373,So Very Cherry White,BELGIAN ALE,2011.0,Wyeast 3944 Belgian Witbier or WLP400 Belgian Wit Ale,Wyeast 3944 Belgian Witbier or WLP400 Belgian Wit Ale,Wyeast or White Labs,,68.0,,0
+374,Pliny the Toddler,AMERICAN IPA,2011.0,California Ale Yeast,California Ale Yeast,White Labs,WLP 001,65.0,,0
+375,McZainasheff’s Wee,AMBER ALE,,WLP028 Edinburgh Ale,WLP028 Edinburgh Ale,White Labs,,65.0,,0
+376,Belgian Golden Strong Ale,BELGIAN ALE,2009.0,Wyeast 1388 Belgian Strong Ale,Wyeast 1388 Belgian Strong Ale,Wyeast,1388,,,0
+377,Griffin Spit IPA,Imperial / Double IPA,2007.0,Wyeast 1968 London ESB Yeast / White Labs WLP002 English Ale Yeast,Wyeast 1968 London ESB Yeast / White Labs WLP002 English Ale Yeast,Wyeast / White Labs,,,,0
+378,Munich Madness,AMBER LAGER,,Wyeast 2206 Bavarian Lager,Wyeast 2206 Bavarian Lager,Wyeast,2206,50.0,,28
+379,Carla’s Oat Brown Ale,BROWN ALE,2010.0,English Ale yeast or Cry Havoc yeast,English Ale yeast or Cry Havoc yeast,,,70.0,,7
+380,Dubbel Trouble,BELGIAN ALE,2009.0,White Labs 530 Abbey yeast,White Labs 530 Abbey yeast,White Labs,,68.0,40.0,21
+381,English Pale Ale,ENGLISH PALE ALE,2011.0,Wyeast 1098 British Ale yeast,Wyeast 1098 British Ale yeast,Wyeast,,,,0
+382,Passionfruit-Mango Wildfire Wheat,AMERICAN WHEAT,2010.0,American Ale yeast,American Ale yeast,,,68.0,,14
+383,Bohemian Thriller,CZECH / BOHO PILS,2010.0,Cry Havoc White Labs yeast,Cry Havoc White Labs yeast,White Labs,,55.0,,35
+384,Rocket Rod Romanak’s Positively Porter,BALTIC PORTER,,1056 American ale yeast or WLP001 California Ale Yeast,1056 American ale yeast or WLP001 California Ale Yeast,,,66.0,66.0,28
+385,American Barleywine,BARLEYWINE,,California ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,70.0,70.0,26
+386,Maibock,BOCK,2002.0,2633 (or 2124 Bohemian Lager),2633 (or 2124 Bohemian Lager),Wyeast,2633,50.0,,12
+387,Irish Red Ale,AMBER ALE,,Irish Ale or WLP004 Irish Ale,Irish Ale or WLP004 Irish Ale,White Labs/Wyeast,WLP004/WYEAST 1084,65.0,,14
+388,Munich Helles,HELLES,,Bavarian lager yeast,Bavarian lager yeast,Wyeast,2206,55.0,55.0,28
+389,Big Black’s Revenge,DARK LAGER,,No. 2206 Bavarian lager yeast,No. 2206 Bavarian lager yeast,Wyeast,,55.0,45.0,42
+390,Hailbrau Dopplebock,BOCK,,"WLP 820 or 830; or Wyeast 2112, 2178 or 2308","WLP 820 or 830; or Wyeast 2112, 2178 or 2308",,,,,0
+391,Danny’s Bock,BOCK,2009.0,Wyeast No. 2206 Bavarian lager yeast,Wyeast No. 2206 Bavarian lager yeast,Wyeast,2206,50.0,44.0,30
+392,Scott’s Scottish Heavy,AMBER ALE,2009.0,California ale yeast,California ale yeast,White Labs,WLP 001,66.0,,7
+393,Ms. Helen’s Peche Passion,FRUIT BEER,2009.0,Wyeast No. 3278 Belgian Lambic Blend,Wyeast No. 3278 Belgian Lambic Blend,Wyeast,3278,66.0,66.0,360
+394,Phil’s Belgian Dubbel,BELGIAN ALE,2009.0,Wyeast No. 1214 Belgian ale yeast,Wyeast No. 1214 Belgian ale yeast,Wyeast,,71.0,71.0,40
+395,Strike Team Chanukah Altbier,ALTBIER,2006.0,Wyeast No. 1007 German ale yeast starter,Wyeast No. 1007 German ale yeast starter,,,65.0,30.0,32
+396,Hot Chihuahua,Blonde Ale,2005.0,Doric ale yeast,Doric ale yeast,,,68.0,64.0,14
+397,A Day in Vienna (Vienna Lager),VIENNA LAGER,2023.0,WLP830 German Lager Yeast,WLP830 German Lager Yeast,White Labs,WLP830,50.0,,21
+398,Rainforest Dark Sweet Stout,SWEET / MILK STOUT,,London English Ale,London English Ale,,,65.0,,7
+399,The Induction IPA,SPECIALTY IPA,2023.0,WLP001 California Ale,WLP001 California Ale,White Labs,,66.0,,17
+400,Degobah Dunkel,DARK LAGER,2024.0,LalBrew NovaLager\u2122,LalBrew NovaLager\u2122,Lallemand,,,,0
+401,Jabba Juice Hazy IPA,HAZY / NEW ENGLAND IPA,2024.0,Verdant IPA\u2122 yeast,Verdant IPA\u2122 yeast,LalBrew Verdant,,68.0,,8
+402,Critter Milk Stout,STOUT,2023.0,SafAle US-05,SafAle US-05,Fermentis,,70.0,,14
+403,SFB 21 Wild Ale,WILD ALE,2023.0,Roeselare Ale Blend,Roeselare Ale Blend,Wyeast,3763,72.0,70.0,210
+404,Bière Vide Lambic,SOUR ALE,2023.0,Wyeast 3763 Roeselare Ale Blend,Wyeast 3763 Roeselare Ale Blend,Wyeast,3763,62.0,62.0,365
+405,Mark3 Australian Sparkling Ale,PALE ALE,2023.0,WLP009 Australian Ale,WLP009 Australian Ale,White Labs,,56.0,,0
+406,The Most Gluggable Czech Dark Lager,DARK LAGER,2023.0,SafLager Western European Lager (S-23),SafLager Western European Lager (S-23),,,54.0,,14
+407,A Mild Case Dark Mild,MILD,2023.0,White Labs English Ale Yeast,White Labs English Ale Yeast,White Labs,WLP 002,65.0,,0
+408,Cliftyfest Festbier,FESTBIER,2023.0,German Bock Lager yeast,German Bock Lager yeast,,WLP833,52.0,60.0,10
+409,Zecks Panther Dunkles Bock,BOCK,2023.0,Omega OYL-111 German Bock,Omega OYL-111 German Bock,,,51.0,,7
+410,Maxwell Porter,ENGLISH PORTER,2023.0,Omega British Ale I OYL-006,Omega British Ale I OYL-006,,,64.0,,14
+411,Pumpkin Pie Ale,PUMPKIN BEER,2023.0,Wyeast 1968 London ESB,Wyeast 1968 London ESB,Wyeast,,62.0,,7
+412,Baltischer Baltic Porter,BALTIC PORTER,2023.0,Fermentis SafLager W-34/70,Fermentis SafLager W-34/70,,,52.0,,28
+413,MI Blonde Baby (Blonde Ale),BLONDE ALE,2023.0,California Ale,Chico/US-05 (American Ale),White Labs,WLP001,60.0,68.0,14
+414,Sable Porter (2023 version),AMERICAN PORTER,2023.0,Fermentis SafAle US-05,Fermentis SafAle US-05,Fermentis,,63.0,,13
+415,Goats in a Tree in a Mezcal Barrel,WOOD-AGED BEER,2023.0,Imperial L133 (Global),Imperial L133 (Global),,,45.0,,24
+416,Like Falling Off a Bike IPA,AMERICAN IPA,2023.0,Imperial Flagship A07,Imperial Flagship A07,,,65.0,,6
+417,Between 18 and 50 Ryezenbock,BOCK,2023.0,Omega OYL-022 Hefeweizen Ale II,Omega OYL-022 Hefeweizen Ale II,,,62.0,,8
+418,British Mats Irish Red Ale,IRISH RED ALE,2023.0,Irish Ale,Irish Ale,Wyeast,1084,71.0,,16
+419,XXM (Double Extra Medium) Hazy IPA,HAZY / NEW ENGLAND IPA,2023.0,Bootleg Biology BBUSA2 Classic New England,Bootleg Biology BBUSA2 Classic New England,,,68.0,,6
+420,Big Blimp! American Barleywine,BARLEYWINE,2023.0,Chico,Chico,,Not specified,66.0,,25
+421,3 Day Berliner Weisse,SOUR ALE,2023.0,White Labs Dry English Ale Yeast (WLP007),White Labs Dry English Ale Yeast (WLP007),White Labs,WLP007,,,2
+422,Saw Down Unda (New Zealand-style Pilsner),PILSNER,2023.0,Imperial Yeast Pilgrimage (L26),Imperial Yeast Pilgrimage (L26),,,55.0,55.0,6
+423,Your First SMaSH Ale,PALE ALE,2023.0,,,,,68.0,,14
+424,Chicken Scratch Cream Ale,PALE LAGER,2023.0,White Labs WLP080 Cream Ale Blend,White Labs WLP080 Cream Ale Blend,White Labs,,66.0,,11
+425,Nick’s Munich Lager,AMBER LAGER,2023.0,Saflager W-34/70,Saflager W-34/70,Fermentis,,52.0,,21
+426,One-To-One American IPA,AMERICAN IPA,2023.0,Novalager dry yeast,Novalager dry yeast,Lallemand,,62.0,,16
+427,Dunkeles Meisterwerk Munich Dunkel,MUNICH DUNKEL,2023.0,Wyeast 2308 Munich Lager,Wyeast 2308 Munich Lager,Wyeast,,48.0,,47
+428,Now That’s What I Call Hazy! Vol. 1,IPA,2023.0,Wyeast London Ale III,Wyeast London Ale III,Wyeast,WLP002,68.0,,1
+429,LILO’s Lager (New Zealand Pilsner),PILSNER,2023.0,Omega Lunar Crush,Omega Lunar Crush,,,50.0,,14
+430,Inspired by a President (Russian Imperial Stout),IMPERIAL STOUT,2023.0,Fermentis SafAle S-04,Fermentis SafAle S-04,Fermentis,,65.0,,0
+431,Doctor Dark (International Dark Lager),DARK LAGER,2023.0,L28 \u2013 Urkel,L28 \u2013 Urkel,Imperial Yeast,,52.0,,0
+432,Alt Ale Altbier,ALTBIER,2022.0,Wyeast 1007 German Ale,Wyeast 1007 German Ale,Wyeast,,62.0,62.0,17
+433,Kaltrauch Rauchbier,RAUCHBIER,2022.0,Fermentis SafLager S-23,Fermentis SafLager S-23,,,56.0,,19
+434,Tree House Brewing Company Julius,HAZY / NEW ENGLAND IPA,2019.0,SafAle S-04,SafAle S-04,Fermentis,SafAle S-04,70.0,64.0,4
+435,Len’s American Light Lager,PALE LAGER,2022.0,Imperial L17 Harvest,Imperial L17 Harvest,,,,,0
+436,Return of the Jedi Pale Ale,AMERICAN PALE ALE,2024.0,California Ale Yeast,California Ale Yeast,,,65.0,,15
+437,The Empire Strikes Back Dark Ale,PALE ALE,2024.0,California Ale Yeast,California Ale Yeast,,,65.0,,15
+438,A New Hope Pale Ale,PALE ALE,1977.0,Kveik Yeast (ex: OYL-061) or California Ale Yeast,Kveik Yeast (ex: OYL-061) or California Ale Yeast,,,65.0,,15
+439,Rye Edition: Any Porter in a Storm,AMERICAN PORTER,2021.0,WLP002 English Ale Yeast,WLP002 English Ale Yeast,White Labs,WLP002,68.0,,0
+440,Whiplash Slow Life Dry Irish Stout,STOUT,2023.0,WLP007 Dry English Ale Yeast,WLP007 Dry English Ale Yeast,White Labs,WLP007,66.0,,7
+441,Monk’s Ration Trappist-style Single,BELGIAN ALE,2023.0,Abbaye,Abbaye,Lallemand,,65.0,,23
+442,1904 American Sparkling Ale,HISTORICAL BEER,2023.0,WLP023 Burton Ale Yeast,WLP023 Burton Ale Yeast,White Labs,WLP023,59.0,,0
+443,Powerful Pils,GERMAN PILSNER,2023.0,Lallemand Diamond,Lallemand Diamond,,,52.0,,30
+444,I Left Rome Trappist Single,BELGIAN ALE,2022.0,Bootleg Biology OB Belgian Ale,Bootleg Biology OB Belgian Ale,,,65.0,,22
+445,Domo Arigato (Hoppy Japanese-style Rice Lager),PALE LAGER,2022.0,Various,Various,,,50.0,,4
+446,Bush Telly Modern Australian Sparkling Ale,PALE ALE,2022.0,WLP009 Australian Ale,WLP009 Australian Ale,White Labs,,66.0,,10
+447,Blade Runner Szechuan Pepper Beer,SPICE & HERB BEER,2022.0,Bohemian lager yeast,Bohemian lager yeast,,,65.0,,14
+448,‘It Goes to 11’ Stout,STOUT,2022.0,English Ale,English Ale,WLP,WLP002,65.0,,10
+449,"Soet Bier, 1683",HISTORICAL BEER,2022.0,European top-fermenting beer yeast,European top-fermenting beer yeast,,,65.0,,0
+450,Hello Darkness Dry Oat Stout,STOUT,2022.0,Lallemand Nottingham ale yeast,Lallemand Nottingham ale yeast,,,,,8
+451,She Fancies Herself a Litte Bit French,SAISON,2022.0,White Labs WLP568 Belgian Style Saison Blend,White Labs WLP568 Belgian Style Saison Blend,White Labs,,72.0,,14
+452,Lou Pep Pep Wild Beer with Peaches,FRUIT BEER,2022.0,"Imperial Rustic, Wyeast 3724 Belgian Saison","Imperial Rustic, Wyeast 3724 Belgian Saison",,,65.0,,7
+453,Eis Eis Baby Wood-Aged Beer,WOOD-AGED BEER,2022.0,Bohemian Lager,Bohemian Lager,,,50.0,,26
+454,Lichten My Hiney Lichtenhainer,SMOKE BEER,2022.0,Wyeast 1056 American Ale,Chico/US-05 (American Ale),Wyeast,1056,,,4
+455,"Sterling, Cooper, Draper, Santa (Winter Seasonal)",Winter Warmer,2022.0,Cellar Science Cali,Cellar Science Cali,,,,,0
+456,Chipotle Lichtenhainer,SPICE & HERB BEER,2022.0,WLP029 German Ale/Kolsch,WLP029 German Ale/Kolsch,White Labs,,68.0,68.0,14
+457,Andanzas – Sangue de Dragão Fruit Beer,FRUIT BEER,2022.0,Levteck \u2013 TeckBrew 10,Levteck \u2013 TeckBrew 10,,,64.0,,11
+458,Adventure Time Gose,GOSE,2022.0,Verdant IPA yeast,Verdant IPA yeast,,,64.0,,8
+459,Concrete Bicycle Belgian Golden Strong Ale,BELGIAN GOLDEN STRONG ALE,2022.0,White Labs WLP545 Belgian Strong Ale,White Labs WLP545 Belgian Strong Ale,White Labs,,65.0,,1
+460,Arcane Alchemy Saison,SAISON,2022.0,Imperial Yeast B56 Rustic,Imperial Yeast B56 Rustic,,,67.0,,1
+461,Polk County Stout,Imperial Stout,2022.0,Wyeast 1056 American Ale,Chico/US-05 (American Ale),Wyeast,1056,,,0
+462,Seventh Coalition English Barley Wine,BARLEYWINE,2022.0,Wyeast 1318 London Ale III,Wyeast 1318 London Ale III,Wyeast,1318,68.0,,0
+463,T-Bock,BOCK,2022.0,WLP833 German Bock Lager,WLP833 German Bock Lager,White Labs,,50.0,,66
+464,Contrived Spontaneity Wheatwine,WHEAT & RYE BEER,2022.0,Safale US-05,Safale US-05,Fermentis,,68.0,,150
+465,Hanella Hazy IPA,HAZY / NEW ENGLAND IPA,2022.0,Imperial Yeast A38 Juice,Imperial Yeast A38 Juice,,,68.0,,0
+466,Go Bigger IPA,SPECIALTY IPA,2022.0,Wyeast 1056 American Ale,Chico/US-05 (American Ale),Wyeast,1056,,,0
+467,NELSON! American IPA,AMERICAN IPA,2022.0,California Ale,Chico/US-05 (American Ale),White Labs,WLP001,65.0,,5
+468,KAW Porter,AMERICAN PORTER,2022.0,Yeast propagated from Stone Brewing Enjoy By in 2017,Yeast propagated from Stone Brewing Enjoy By in 2017,,,68.0,,13
+469,Paul’s Irish Extra Stout,IRISH STOUT,2022.0,Safale S-04,Safale S-04,Fermentis,,64.0,,18
+470,West Michigan Milk Stout,SWEET / MILK STOUT,2022.0,White Labs WLP002 English Ale,White Labs WLP002 English Ale,White Labs,,67.0,,8
+471,Connection English Porter,ENGLISH PORTER,2022.0,WLP013 London Ale,WLP013 London Ale,White Labs,,64.0,,24
+472,Sunset DayDreamer American Amber Ale,AMERICAN AMBER ALE,2022.0,Wyeast 1056 Chico Ale Yeast,Chico/US-05 (American Ale),Wyeast,1056,65.0,,7
+473,Little Moonfinder American Pale Ale,AMERICAN PALE ALE,2022.0,WLP090 San Diego Super Yeast,WLP090 San Diego Super Yeast,,,62.0,,0
+474,Stand Sure Scottish Export,SCOTTISH ALE,2022.0,Wyeast 1728 Scottish Ale,Wyeast 1728 Scottish Ale,Wyeast,,60.0,,8
+475,Herbal Joe’s Best Bitter,PALE ALE,2022.0,White Labs WLP 002 English Ale,White Labs WLP 002 English Ale,White Labs,WLP002,67.0,,5
+476,Oak City Weissbier,WHEAT & RYE BEER,2022.0,Omega OYL-021,Omega OYL-021,,,,,0
+477,American Beauty Wheat Beer,WHEAT & RYE BEER,2022.0,Wyeast 1056 American Ale,Wyeast 1056 American Ale,Wyeast,,65.0,65.0,24
+478,Czech Josef Dark Lager,DARK LAGER,2022.0,WLP802 Czech Budejovice,WLP802 Czech Budejovice,White Labs,,50.0,,12
+479,Belly Spots Kellerbier,AMBER LAGER,2022.0,RVA/TMB-308 Franconia,RVA/TMB-308 Franconia,,,50.0,,13
+480,Keith’s German Blonde,PALE LAGER,2022.0,Wyeast 2308 Munich Lager,Wyeast 2308 Munich Lager,Wyeast,2308,50.0,50.0,29
+481,Sweet As John Quincy Pilsner,PILSNER,2022.0,Imperial 13 Global,Imperial 13 Global,,,45.0,,0
+482,Carmelo’s German Leichtbier,PALE LAGER,2022.0,Saflager W-34/70,Saflager W-34/70,,,54.0,,30
+483,Down Derry Down Colonial Pumpkin Ale,PUMPKIN BEER,2020.0,Saison yeast or White Labs WLP011 European Ale,Saison yeast or White Labs WLP011 European Ale,White Labs or other,,,,0
+484,Sleep Now in the Fire Winter Seasonal,WINTER WARMER,2021.0,Inland Island INIS-001 Northern California Ale Yeast,Inland Island INIS-001 Northern California Ale Yeast,,,62.0,,186
+485,Gluten-Free Chico Pale Ale,PALE ALE,,Fermentis SafAle S-04,Fermentis SafAle S-04,,,68.0,,17
+486,I’ll Be Back Barleywine,BARLEYWINE,2022.0,White Labs WLP002 English Ale,White Labs WLP002 English Ale,White Labs,WLP002,65.0,,10
+487,Quinc-y Jones (American Amber with Membrillo),AMBER ALE,2022.0,Chico ale yeast,Chico ale yeast,,,68.0,,21
+488,Twin Pines Piney IPA,IPA,2022.0,White Labs WLP001 California Ale,Chico/US-05 (American Ale),White Labs,WLP001,65.0,,10
+489,Zamba Pale Ale,AMERICAN PALE ALE,,WLP002 English Ale,WLP002 English Ale,White Labs,,,,0
+490,Tha CommUNITY American Lager,AMERICAN LAGER,2022.0,LalBrew Diamond\u2122 \u2013 Lager yeast or Yeast Pilsner lager yeast,LalBrew Diamond\u2122 \u2013 Lager yeast or Yeast Pilsner lager yeast,Lallemand,WLP 800,59.0,,25
+491,Anne and Rod’s Gruit Wit,WITBIER,2016.0,Wyeast 3944 Belgian Wit,Wyeast 3944 Belgian Wit,Wyeast,3944,,,0
+493,Home Is Where Your Zoigl Is,AMBER LAGER,2022.0,White Labs WLP835 German X Lager Yeast,White Labs WLP835 German X Lager Yeast,White Labs,WLP835,48.0,,42
+494,Hopfeather IPA,SPECIALTY IPA,2021.0,Omega OYL-501 Gulo Ale,Omega OYL-501 Gulo Ale,,,68.0,,5
+495,Maui Brewing Co. Imperial Coconut Porter,AMERICAN PORTER,2016.0,Chico ale yeast,Chico ale yeast,,,65.0,,0
+496,Simplicity Quad,BELGIAN DARK STRONG ALE,2015.0,WLP500 Trappist Ale,WLP500 Trappist Ale,White Labs,,,,0
+497,Herbal Tea Pale Ale,SPICE & HERB BEER,2016.0,American ale yeast,American ale yeast,,,68.0,,7
+498,Thyme Has Come Today IPA,IPA,,1056,1056,Wyeast,,,,0
+499,Conflux #2 White IPA Clone,SPECIALTY IPA,2012.0,Forbidden Fruit ale yeast,Forbidden Fruit ale yeast,Wyeast,3463,65.0,74.0,7
+500,Korova Cream Stout,SWEET / MILK STOUT,2007.0,Mountain Sun ale yeast or American/California ale yeast,Mountain Sun ale yeast or American/California ale yeast,,,,,0
+501,Double Black Imperial Black IPA,IPA,2012.0,White Labs 001 California Yeast,White Labs 001 California Yeast,White Labs,,68.0,,0
+502,Fuil Croi Irish Red Ale,IRISH RED ALE,,Irish ale yeast,Irish ale yeast,,,65.0,,14
+503,Sour Squash Ale,SPICE & HERB BEER,,1056 American Ale,Chico/US-05 (American Ale),Wyeast,1056,65.0,,0
+504,Charismatic MangoFauna,FRUIT BEER,2021.0,Cream Ale Blend,Cream Ale Blend,White Labs,WLP080,68.0,,-1
+505,King of the Nubtars Imperial White Ale,WHEAT & RYE BEER,2021.0,Lallemand Abbaye Belgian Ale Yeast,Lallemand Abbaye Belgian Ale Yeast,,,67.0,,7
+506,Pew! Pew! Wild Ale,WILD ALE,2021.0,/Appropriated cultures from more than 10 commercial wild beers/,/Appropriated cultures from more than 10 commercial wild beers/,,,,,0
+507,Three Witches Wood-Aged Beer,WOOD-AGED BEER,2021.0,Imperial Yeast A31 Tartan,Imperial Yeast A31 Tartan,,,68.0,,14
+508,Lagerfeuer Smoke Beer,SMOKE BEER,2021.0,WLP833 German Bock Lager,WLP833 German Bock Lager,White Labs,,52.0,,44
+509,Serrano Pale Ale,SPICE & HERB BEER,2021.0,Fermentis SafAle US-05,Fermentis SafAle US-05,Fermentis,,,,23
+510,Blue Gueuze,GUEUZE,2021.0,Fermentis SafAle T-58,Fermentis SafAle T-58,,,75.0,,14
+511,Kraken Belgian Dark Strong Ale,BELGIAN DARK STRONG ALE,2021.0,Imperial Yeast B63 Monastic,Imperial Yeast B63 Monastic,Imperial Yeast,,67.0,,0
+512,Listen to the Lion Witbier,WITBIER,2021.0,WLP410 Belgian Wit II,WLP410 Belgian Wit II,,,65.0,,2
+513,Mark’s Saison,SAISON,2021.0,Wyeast 3724 Belgian Saison,Wyeast 3724 Belgian Saison,Wyeast,3724,78.0,,8
+514,Mandy & Wesley’s Imperial Stout,IMPERIAL STOUT,2021.0,WLP007 Dry English Ale,WLP007 Dry English Ale,White Labs,,66.0,,0
+515,Granny’s Tipple English Barleywine,BARLEYWINE,2021.0,WLP007 Dry English Ale,WLP007 Dry English Ale,White Labs,,66.0,,10
+516,Googly Eis Eisbock,EISBOCK,2021.0,White Labs WLP833 German Bock Lager,White Labs WLP833 German Bock Lager,,,50.0,,11
+517,Big O! New England IPA,HAZY / NEW ENGLAND IPA,2021.0,Wyeast 1318 London Ale III,Wyeast 1318 London Ale III,Wyeast,,68.0,,0
+518,Forgiveness Machine White IPA,SPECIALTY IPA,2021.0,Wyeast 3944 Belgian Witbier,Wyeast 3944 Belgian Witbier,Wyeast,,68.0,,3
+519,Old Mission IPA,AMERICAN IPA,2021.0,Imperial Yeast A07 Flagship,Imperial Yeast A07 Flagship,Imperial Yeast,,70.0,,14
+520,Sable Porter,AMERICAN PORTER,2021.0,SafAle US-05,SafAle US-05,Fermentis,,63.0,,13
+521,Deep Focus Irish Stout,IRISH STOUT,2021.0,White Labs WLP004 Irish Ale Yeast,White Labs WLP004 Irish Ale Yeast,White Labs,WLP004,64.0,66.0,14
+522,Herbal Joe’s Tropical Stout,FOREIGN / TROPICAL STOUT,2021.0,London ESB Ale / American Ale,London ESB Ale / American Ale,,,66.0,,0
+523,Chocolate Macadamia Nut Porter,ENGLISH PORTER,2021.0,Wyeast 1028 London Ale,Wyeast 1028 London Ale,Wyeast,1028,62.0,,16
+524,Tall Tines Brown Ale,AMERICAN BROWN ALE,2021.0,Wyeast 1450 Denny\u2019s Favorite,Wyeast 1450 Denny\u2019s Favorite,Wyeast,1450,66.0,72.0,5
+525,You and the Hops You Rode In On Pale Ale,AMERICAN PALE ALE,2021.0,White Labs WLP001 California Ale Yeast,White Labs WLP001 California Ale Yeast,White Labs,,64.0,,16
+526,Beam Me Up Scotty Scottish Export,SCOTTISH ALE,2021.0,White Labs WLP005 British Ale,White Labs WLP005 British Ale,White Labs,,68.0,,10
+527,Herbal Joe’s Best Bitter,ENGLISH BITTER,2021.0,Wyeast 1968 London ESB Ale,Wyeast 1968 London ESB Ale,Wyeast,1968,,,5
+528,Jeff The Hefe Weissbier,HEFEWEIZEN,2021.0,White Labs WLP300 Hefeweizen Ale Yeast,White Labs WLP300 Hefeweizen Ale Yeast,White Labs,WLP300,75.0,,14
+529,Willow Run Wheat Beer,AMERICAN WHEAT,2021.0,WLP830 German Lager,WLP830 German Lager,White Labs,,50.0,,2
+530,Temny Czech Dark Lager,DARK LAGER,2021.0,Imperial Yeast L28 Urkel,Imperial Yeast L28 Urkel,,,51.0,,16
+531,Helles This,,2021.0,Wyeast 2308 Munich Lager,Wyeast 2308 Munich Lager,Wyeast,,55.0,,10
+532,Tougher than the Sun Pale Lager,CZECH / BOHO PILS,2021.0,Wyeast 2124 Bohemian Lager,Wyeast 2124 Bohemian Lager,Wyeast,,48.0,,46
+533,Rombergpark German Helles Exportbier,HELLES,2021.0,Imperial Yeast L17 Harvest,Imperial Yeast L17 Harvest,,,52.0,,13
+534,PTQ Barbecue Rauchbier,RAUCHBIER,2021.0,SafAle S-04,SafAle S-04,Fermentis,,,,0
+535,Dry Dock Docktoberfest,MARZEN,,Imperial Harvest L17,Imperial Harvest L17,Imperial,,52.0,,14
+536,Dobrý Den Czech Amber Lager,AMBER LAGER,2021.0,Omega Yeast OYL-101 Pilsner 1,Omega Yeast OYL-101 Pilsner 1,,,50.0,60.0,21
+537,Tarty Passions Berliner Weisse,FRUIT BEER,2019.0,German Ale Wyeast 1007,German Ale Wyeast 1007,Wyeast,,65.0,65.0,14
+538,Brookline Barleywine,UK/US STRONG ALE,2019.0,Wyeast 1056 American Ale Yeast,Chico/US-05 (American Ale),Wyeast,1056,,,0
+540,Oceania & Homegrown IPA (Split Batch),AMERICAN IPA,2021.0,White Labs WLP051 California V Ale Yeast,White Labs WLP051 California V Ale Yeast,White Labs,,68.0,,0
+541,"Double Diest, 1851",HISTORICAL BEER,2021.0,"unknown (top-fermenting, low attenuation)","unknown (top-fermenting, low attenuation)",,,,,0
+542,SMaSH Sensory Blonde Ale,BLONDE ALE,2021.0,SafAle US-05,Chico/US-05 (American Ale),Fermentis,US-05,,,0
+543,CicadAle (Ale with Cicadas),SPICE & HERB BEER,2004.0,English ale yeast,English ale yeast,,,65.0,65.0,63
+544,THC-Infused Tripel Royal Stag,BELGIAN ALE,2020.0,Imperial Yeast B48 Triple Double,Imperial Yeast B48 Triple Double,,,67.0,75.0,21
+545,Ube-Licious Lager,SPICE & HERB BEER,2019.0,Fermentis SafLager S-23,Fermentis SafLager S-23,,,68.0,,14
+546,Mow The Damn Lawn,PALE LAGER,2013.0,White Labs American lager,White Labs American lager,White Labs,,48.0,32.0,51
+547,A Kveiking We Will Go IPA,AMERICAN IPA,2021.0,Imperial A44 Kveiking,Imperial A44 Kveiking,,,86.0,,11
+548,Spelt Saison #2,BELGIAN ALE,2021.0,Wyeast 3711,Wyeast 3711,Wyeast,,68.0,,14
+549,Smokeska Porter,BALTIC PORTER,2021.0,Saflager W-34/70,Saflager W-34/70,Fermentis,,,,0
+550,Stone Ship Braggot,BRAGGOT,2019.0,West Coast Ale,West Coast Ale,Omega Yeast Labs,OYL-004,64.0,,14
+551,"Leuven White Beer, 1851",WITBIER,2020.0,Witbier yeast,Witbier yeast,,,,,0
+552,Gordon Strong’s American Porter,AMERICAN PORTER,,California ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,64.0,,0
+553,Mangose,Sour Ale,2020.0,SafAle US-05,SafAle US-05,Fermentis,,110.0,,9
+554,Olavi Viheroja’s Sahti,HISTORICAL BEER,,Suomen Hiiva yeast,Suomen Hiiva yeast,,,,,3
+555,THC-Infused Caramel Amber Ale,SPICE & HERB BEER,2020.0,Imperial Yeast A07 Flagship or White Labs WLP001 California Ale,Imperial Yeast A07 Flagship or White Labs WLP001 California Ale,,,,,0
+556,Black is Beautiful Homebrew Recipe,STOUT,,California Ale Yeast,Chico/US-05 (American Ale),White Labs,WLP001,,,0
+557,Liquid Breakfast Maple Stout,CHOCOLATE BEER,2019.0,Dry English Ale Yeast,Dry English Ale Yeast,White Labs,WLP007,,,0
+558,The Tropical Session White IPA,IPA,2016.0,San Diego ale yeast,San Diego ale yeast,White Labs,WLP090,,,0
+559,Let It Go Helles,HELLES,2015.0,WLP1983 Charlie's Fist Bump yeast,WLP1983 Charlie's Fist Bump yeast,White Labs,WLP1983,55.0,,28
+560,Black Old Sun IPA,IPA,,American Ale,Chico/US-05 (American Ale),Wyeast,1056,,,5
+561,Royal” Historical London Brown Ale,BROWN ALE,2017.0,Wyeast 1318 London III ale yeast,Wyeast 1318 London III ale yeast,Wyeast,1318,69.0,68.0,13
+562,The Singer’s Belgian-style Lambic,BELGIAN ALE,2014.0,Wyeast 3763 Roeselare Ale Blend,Wyeast 3763 Roeselare Ale Blend,Wyeast,3763,65.0,,0
+563,Anderfest Festbier,AMBER LAGER,2019.0,Saflager Lager,Saflager Lager,DCL/Fermentis,,54.0,,26
+564,Goedt Bier ca. 1679-1689,BELGIAN ALE,,Top-fermenting yeast,Top-fermenting yeast,,,,,0
+565,Mead Mamas BDS,BELGIAN ALE,2020.0,Imperial Yeast B63 Monastic,Imperial Yeast B63 Monastic,,,63.0,60.0,38
+566,Dunkelweizendoppelbock,BOCK,2016.0,Fermentis WB-06 or Safbrew Abbaye,Fermentis WB-06 or Safbrew Abbaye,,,,,28
+567,Bourbon Barrel Aged Full Eclipse II,IMPERIAL STOUT,2017.0,Wyeast 1028 London Ale Yeast,Wyeast 1028 London Ale Yeast,Wyeast,1028,65.0,,0
+568,Mango Maya Milkshake IPA,HAZY / NEW ENGLAND IPA,2018.0,VRA 132 Manchester (or London Ale III),VRA 132 Manchester (or London Ale III),,,68.0,68.0,22
+569,Brewin’ in Maillard Helles,HELLES,2019.0,Imperial Organic Yeast L17 Harvest,Imperial Organic Yeast L17 Harvest,Imperial,,50.0,52.0,0
+570,American Vienna Lager,AMBER LAGER,2019.0,Imperial L17 (Harvest) yeast,Imperial L17 (Harvest) yeast,,,52.0,,9
+571,Malty Boye Helles Bock,HELLES BOCK,2019.0,WLP830 German Lager,WLP830 German Lager,White Labs,,48.0,,25
+572,Where’s Fluffy Weissbier,HEFEWEIZEN,2019.0,WLP300 Hefeweizen Ale,WLP300 Hefeweizen Ale,White Labs,,64.0,66.0,5
+573,Up the Junction Bitter,ENGLISH PALE ALE,2019.0,Wyeast Labs 1469 West Yorkshire Ale,Wyeast Labs 1469 West Yorkshire Ale,Wyeast,1469,68.0,,0
+574,Finnegan’s Irish Ale,AMBER ALE,2019.0,Imperial Yeast A10 Darkness,Imperial Yeast A10 Darkness,,,64.0,,0
+575,Citra Summit American Pale Ale,AMERICAN PALE ALE,2019.0,English Ale WLP002,English Ale WLP002,White Labs,,68.0,,14
+576,Kilauea Punch American Amber Ale,AMBER ALE,2019.0,WLP090 San Diego Super Yeast,WLP090 San Diego Super Yeast,White Labs,,,,0
+577,BCJP Study Group Mild,BROWN ALE,2019.0,Wyeast 1335 British Ale 2,Wyeast 1335 British Ale 2,Wyeast,1335,64.0,,0
+578,The Singularity Stout,AMERICAN STOUT,2019.0,California Ale,Chico/US-05 (American Ale),White Labs,WLP001,66.0,,14
+579,Hammer of the Gord’s Imperial Stout,IMPERIAL STOUT,2019.0,Wyeast Labs 1335 British Ale II,Wyeast Labs 1335 British Ale II,Wyeast,,67.0,,3
+581,Clan MacIntosh Old Ale,OLD ALE,2019.0,Giga Yeast GY044 Scotch Ale One,Giga Yeast GY044 Scotch Ale One,,,63.0,,14
+582,David Allen’s Saison,BELGIAN ALE,2019.0,Wyeast 3724 / The Yeast Bay Saison II Blend,Wyeast 3724 / The Yeast Bay Saison II Blend,Wyeast and The Yeast Bay,3724/ Saison II,68.0,,0
+583,Brilliant Blond,BELGIAN ALE,2019.0,White Labs WL 500 Monastery Ale Yeast,White Labs WL 500 Monastery Ale Yeast,White Labs,,63.0,,14
+584,Jon Safadão BDSA,BELGIAN ALE,2019.0,WLP500 Trappist Ale,WLP500 Trappist Ale,White Labs,WLP500,-20.5,-23.0,38
+586,Ich bin ein Berliner,BERLINER WEISSE,2019.0,Red Star Premier Blanc,Red Star Premier Blanc,,,95.0,,0
+587,Smoked Wee Heavy,AMBER ALE,2019.0,US-05,US-05,Fermentis,Safale US-05,65.0,,21
+588,Via Blvd E Specialty Stout,COFFEE BEER,2019.0,WLP075 Hansen,WLP075 Hansen,White Labs,,68.0,,7
+589,Seventh Nature Hoppy Brett Ale,WILD ALE,2019.0,ECY08 Saison Brasserie Blend,ECY08 Saison Brasserie Blend,,,72.0,72.0,74
+590,Three Kings Wheat Eisbock,BOCK,2019.0,Fermentis SafAle T-58,Fermentis SafAle T-58,Fermentis,,68.0,,0
+591,Cream Corn Cream Ale,CREAM ALE,2019.0,White Labs Cream Ale Blend,White Labs Cream Ale Blend,White Labs,WLP080,60.0,,0
+592,Hot Schnitzel,HELLES,2019.0,WLP838,WLP838,White Labs,,50.0,,10
+593,Mitte Flüsse Pils,GERMAN PILSNER,2019.0,Wyeast Labs 2308 Munich Lager,Wyeast Labs 2308 Munich Lager,Wyeast,,45.0,,39
+594,Viva! Vienna!,AMBER LAGER,2019.0,"Imperial Global, 2nd Generation slurry","Imperial Global, 2nd Generation slurry",,,,,0
+595,Big & Beautiful Bock,BOCK,2019.0,Wyeast 2296 / Bavarian Lager,Wyeast 2296 / Bavarian Lager,Wyeast,2296,52.0,,20
+596,Winter Wave Weizenbock,BOCK,2019.0,WLP300 Hefeweizen Ale,WLP300 Hefeweizen Ale,White Labs,,,,0
+597,Zon Saison,BELGIAN ALE,2019.0,Escarpment Labs Ontario Farmhouse Ale Blend,Escarpment Labs Ontario Farmhouse Ale Blend,,,71.0,,0
+598,Don’t Look Up… Scottish Ale,AMBER ALE,2019.0,Scottish Ale (Wyeast Labs #1728),Scottish Ale,Wyeast,1728,59.0,59.0,28
+600,Wharf Busker Pale Ale,AMERICAN PALE ALE,2019.0,The Yeast Bay Funktown Pale Ale,The Yeast Bay Funktown Pale Ale,,,72.0,68.0,7
+601,Mike Dawson’s Wild Rice Mild,BROWN ALE,2019.0,Wyeast Labs 1968 London ESB Ale,Wyeast Labs 1968 London ESB Ale,Wyeast,1968,66.0,,3
+602,Veteran’s Day IPA,AMERICAN IPA,2019.0,A24 Dry Hop,A24 Dry Hop,,,70.0,,0
+603,Ben’s Belgian Pale Ale,BELGIAN ALE,2019.0,Wyeast 3522 Belgian Ardennes,Wyeast 3522 Belgian Ardennes,Wyeast,3522,68.0,74.0,20
+604,I See London English Barleywine,BARLEYWINE,2019.0,WY1968,WY1968,Wyeast,,66.0,,11
+605,Nuetnigenough Belgian Golden Strong,BELGIAN ALE,2019.0,Wyeast Labs 1388 Belgian Strong Ale,Wyeast Labs 1388 Belgian Strong Ale,Wyeast,1388,60.0,,0
+606,Gose with Everything,SOUR ALE,2019.0,Safale US-05,Chico/US-05 (American Ale),Fermentis,US-05,,,10
+607,Do You Even Haze Bro? New England IPA,HAZY / NEW ENGLAND IPA,2019.0,Imperial Yeast A04 Barbarian,Imperial Yeast A04 Barbarian,,,,,0
+608,Kaffee Vienna Lager,AMBER LAGER,2019.0,Omega German Lager I,Omega German Lager I,,,50.0,,21
+609,Mill ’em All Imperial Stout,IMPERIAL STOUT,2019.0,SafAle US-05,SafAle US-05,Fermentis,,65.0,,14
+610,Sour Blonde Ale with Blackberries and Raspberries,FRUIT BEER,2019.0,Mixed Culture yeast,Mixed Culture yeast,,,,,0
+611,The Void” Kutbier,HISTORICAL BEER,2019.0,Imperial G45 Gnome,Imperial G45 Gnome,,,68.0,,17
+612,Belgian Dip Chocolate Stout,CHOCOLATE BEER,2007.0,Mountain Sun ale yeast or American/California ale yeast,Mountain Sun ale yeast or American/California ale yeast,,,,,0
+613,Choco Red Rye Wedding Ale,WHEAT & RYE BEER,2016.0,American ale yeast,American ale yeast,White Labs Cry Havoc,,70.0,,14
+614,Saison de Liège 1851,BELGIAN ALE,2019.0,Fermentis SafAle S-33,Fermentis SafAle S-33,Fermentis,S-33,63.0,,14
+615,Luiks Beer 1690,HISTORICAL BEER,2019.0,Fermentis SafAle S-33,Fermentis SafAle S-33,Fermentis,,63.0,,0
+616,Terje Raftevold’s Kornøl,HISTORICAL BEER,2019.0,Kveik #5 Hornindal,Kveik #5 Hornindal,Omega Yeast Labs or Escarpment Laboratories,OYL-091 or Hornindal Kveik Blend,86.0,,3
+617,Odin’s Beard Baltic Porter,BALTIC PORTER,2019.0,WLP833 German Bock Lager; WLP838 Southern German Lager,WLP833 German Bock Lager; WLP838 Southern German Lager,White Labs,,50.0,,63
+618,Bigfoot’s (D)elight Weissbier,HEFEWEIZEN,2019.0,WLP300 Hefeweizen Ale,WLP300 Hefeweizen Ale,White Labs,,60.0,,21
+619,Craictastic Ordinary Bitter,ENGLISH PALE ALE,2019.0,WLP013 London Ale Yeast,WLP013 London Ale Yeast,White Labs,WLP013,60.0,,11
+620,Iowa Brewers Bevvy Scottish Light,AMBER ALE,2019.0,Wyeast 1098 British Ale,Wyeast 1098 British Ale,Wyeast,1098,67.0,,10
+621,Big Boi’s Booty Sweat American Pale Ale,AMERICAN PALE ALE,2019.0,WLP090 San Diego Super Yeast,WLP090 San Diego Super Yeast,White Labs,,68.0,,19
+622,Possibility and Promise Pacific Amber,AMBER ALE,2019.0,Imperial A07 Flagship,Imperial A07 Flagship,,,64.0,,44
+623,Sket English Porter,ENGLISH PORTER,2019.0,Wyeast 1335 British Ale II,Wyeast 1335 British Ale II,Wyeast,1335,65.0,67.0,7
+624,Sticky Faucet Oatmeal Milk Stout,OATMEAL STOUT,2019.0,White Labs WLP002 English Ale,White Labs WLP002 English Ale,White Labs,,67.0,,15
+625,Mid-Sember Knight’s Dream American Porter,AMERICAN PORTER,2019.0,SafAle US-05,Chico/US-05 (American Ale),Fermentis,US-05,66.0,,14
+626,Four Tsarinas and Two Tsarovich’s Imperial Stout,IMPERIAL STOUT,2019.0,Wyeast 1056 American Ale,Chico/US-05 (American Ale),Wyeast,1056,65.0,65.0,21
+627,Idaho Is One Giant Park IPA,AMERICAN IPA,2019.0,Imperial Yeast A24 Dry Hop,Imperial Yeast A24 Dry Hop,,,64.0,,21
+628,Summer Cloud Belgian IPA,BELGIAN ALE,2019.0,Omega Labs Saisonstein\u2019s Monster (OYL-500),Omega Labs Saisonstein\u2019s Monster (OYL-500),,,68.0,,5
+629,Knauf’s Old Ale #46,OLD ALE,2019.0,Fermentis T-58 SafBrew Specialty Ale,Fermentis T-58 SafBrew Specialty Ale,,,65.0,,30
+630,Birra Corina Saison,BELGIAN ALE,2019.0,WLP565 Belgian Saison I,WLP565 Belgian Saison I,White Labs,,64.0,,20
+631,Trail Dog Berliner Bites,BERLINER WEISSE,2019.0,French Saison yeast and Voss Kviek plus House bugs,French Saison yeast and Voss Kviek plus House bugs,,,90.0,65.0,69
+632,Andrew’s Grodziskie,HISTORICAL BEER,2019.0,GigaYeast GY029 NorCal Ale #5,GigaYeast GY029 NorCal Ale #5,,,67.0,,10
+633,Onyris English Ryewine,UK/US STRONG ALE,2019.0,Safale US-05,Chico/US-05 (American Ale),Fermentis,US-05,65.0,70.0,24
+634,Dragon of the Black Pool Experimental Beer,AMBER ALE,2016.0,San Diego Super Yeast,San Diego Super Yeast,White Labs,WLP090,65.0,,7
+635,Hobo BoHo Pilsner,CZECH / BOHO PILS,2019.0,Wyeast 2124 Bohemian Lager,Wyeast 2124 Bohemian Lager,Wyeast,2124,48.0,,29
+636,May the Bock Be with You,BOCK,2019.0,WLP833 German Bock Lager Yeast or Wyeast 2487 Hella Bock Lager,WLP833 German Bock Lager Yeast or Wyeast 2487 Hella Bock Lager,,,48.0,,49
+637,Meister Groll Bohemian Pils,CZECH / BOHO PILS,2019.0,Wyeast 2206 Bavarian Lager,Wyeast 2206 Bavarian Lager,Wyeast,2206,,,0
+638,Aspen Ridge Cream Ale,CREAM ALE,2019.0,Wyeast 2565 K\u00f6lsch yeast,Wyeast 2565 K\u00f6lsch yeast,Wyeast,2565,67.0,,0
+639,All-American Blonde Ale,HYBRID BEER,2019.0,1099 Whitbread Ale,1099 Whitbread Ale,Wyeast,1099,64.0,,0
+640,Cranberries for Sal New England IPA,HAZY / NEW ENGLAND IPA,,Imperial Yeast A07 Flagship,Imperial Yeast A07 Flagship,,,,,0
+641,Big Beach Brewing Co. King Cake Porter,PORTER,,/,/,,,67.0,,14
+642,Jack o’Lupe IPA,IPA,,Imperial Yeast A07 Flagship,Imperial Yeast A07 Flagship,,,,,0
+643,Oaked Wee Heavy,AMBER ALE,2019.0,Fermentis SafAle S-04,Fermentis SafAle S-04,Fermentis,S-04,64.0,,28
+644,Dad’s Red Ale,AMBER ALE,2019.0,SafAle US-05,SafAle US-05,Fermentis,,65.0,,0
+645,Mika Laitinen’s Sahti,AMBER ALE,2019.0,Baker's yeast or Kveik yeast,Baker's yeast or Kveik yeast,,,,,7
+646,Cane Toad Weisse,HEFEWEIZEN,2019.0,WLP380 Hefeweizen IV Ale Yeast,WLP380 Hefeweizen IV Ale Yeast,White Labs,WLP380,64.0,,3
+647,Chimay Dorée Clone,BELGIAN ALE,2019.0,WLP500 Monastery Ale Yeast,WLP500 Monastery Ale Yeast,White Labs,WLP500,72.0,,8
+648,Big Timber Brewing Porter,BALTIC PORTER,,English Ale Yeast,English Ale Yeast,,,68.0,,0
+649,Crow Peak Brewing Co. Pile ‘O Dirt Porter,BALTIC PORTER,,Pacific Northwest Ale,Pacific Northwest Ale,,,63.0,,0
+650,Earth Rider Brewery Precious Material Helles,HELLES,,German Lager yeast,German Lager yeast,,,52.0,,0
+651,Reuben’s Brews Robust Porter,BALTIC PORTER,2012.0,American Ale yeast,American Ale yeast,,,,,0
+652,Whetstone Station Brewery Whetstoner Session IPA,AMERICAN IPA,,American Ale yeast,American Ale yeast,,,65.0,,2
+653,Strangeways Brewing Martian Spring Biere de Mars,BIÈRE DE GARDE,,Bi\u00e8re de Garde yeast,Bi\u00e8re de Garde yeast,,,72.0,,70
+654,Red Rock Brewing Black Bier,DARK LAGER,2010.0,Lager yeast,Lager yeast,Wyeast,2124,49.0,,21
+656,Jester King Brewery Figlet Farmhouse Amber Ale,AMBER ALE,,French Saison Yeast,French Saison Yeast,,,,,0
+657,Roadhouse Brewing Co. Family Vacation Cream Ale,CREAM ALE,,American Ale yeast,American Ale yeast,,,69.0,,3
+658,Tennessee Valley Brewing Co. DIVARTY Redlegs,AMBER ALE,,Safale US-05,Safale US-05,,,68.0,,14
+659,IMBĪB Custom Brews Nevada Weisse,BERLINER WEISSE,,Berliner Weisse Blend,Berliner Weisse Blend,Wyeast,,70.0,70.0,14
+660,Biloxi Brewing Company Pale Ale,AMERICAN PALE ALE,,Safale US-05,Chico/US-05 (American Ale),Fermentis,US-05,67.0,,44
+661,Holy City Brewing Pluff Mud Porter,AMERICAN PORTER,,,,,,,,0
+662,Red Door Brewing Company New England IPA,HAZY / NEW ENGLAND IPA,,London ale III,London ale III,,,68.0,,6
+663,Missouri Beer Company English Dark Mild,BROWN ALE,,Wyeast 1968 Ale yeast,Wyeast 1968 Ale yeast,Wyeast,1968,65.0,,0
+664,Providence Brewing Company Battlecow Galacticose New England IPA,HAZY / NEW ENGLAND IPA,,Hazy Daze IPA Blend,Hazy Daze IPA Blend,The Yeast Bay,,,,0
+665,River Horse Brewing Company Tripel Horse,BELGIAN ALE,,Belgian Trappist Yeast,Belgian Trappist Yeast,,,72.0,72.0,14
+666,Lupulin Brewing Straight Hash Homie IPA,AMERICAN IPA,,Omega OYL-052,Omega OYL-052,,,66.0,,7
+667,Church Brew Works Pious Monk Dunkel,DARK LAGER,2012.0,Augustiner lager yeast,Augustiner lager yeast,,,50.0,,21
+668,Henniker Brewing Co. Rustique Saison,BELGIAN ALE,,French Saison yeast,French Saison yeast,,,70.0,,0
+669,Jolly Pumpkin Artisan Ales Bam Biére,FARMHOUSE BEER,,White Labs WLP 550,White Labs WLP 550,White Labs,,,80.0,0
+671,Boiler Brewing Co. Bobber’s Big Red Rye Pale Ale,AMBER ALE,,BRY-97,BRY-97,,,66.0,,0
+672,Bissel Brothers Brewing The Substance New England IPA,HAZY / NEW ENGLAND IPA,,California Common yeast,California Common yeast,,Wyeast 2112 / WLP 810 or similar,68.0,,0
+673,Iron Monk Brewing Co. Velvet Antler Amber,AMBER ALE,,Safale S-05,Safale S-05,,,68.0,68.0,0
+674,Fargo Brewing Company Wood Chipper IPA,AMERICAN IPA,,American Ale yeast,American Ale yeast,,,,,0
+675,Seventh Son Brewing Co. Oubliette Russian Imperial Stout,IMPERIAL STOUT,,British ale yeast,British ale yeast,,,,,0
+676,Wedge Brewing Co. Golem Belgian Strong Pale Ale,BELGIAN ALE,2000.0,/,/,,,66.0,,52
+677,Great South Bay Brewery Massive IPA,AMERICAN IPA,,American Ale yeast,American Ale yeast,,,,,0
+678,Outlaw Brewing Udder Madness Chocolate Milk Stout,CHOCOLATE BEER,,American ale yeast,American ale yeast,,,68.0,,0
+679,Dreaming Creek Brewery 1792 Kentucky Common,AMBER LAGER,,Safale US-05,Safale US-05,,,65.0,,0
+680,Perfect Plain Brewing Co. Holy Spin American IPA,AMERICAN IPA,,Chico/American Ale yeast,Chico/American Ale yeast,,Safale US-05,66.0,,19
+681,Denali Brewing Co. Mother Ale Blonde,BLONDE ALE,,SafLager 34/70,SafLager 34/70,Fermentis,,67.0,,0
+682,Nortons Brewing Co. Don’t Poke the Bear Milk Stout,STOUT,,London Ale,London Ale,Wyeast,1028,68.0,,0
+683,Crooked Hammock Brewery Haulin’ Oats Milk Stout,OATMEAL STOUT,,White Labs WLP001,White Labs WLP001,White Labs,,65.0,,0
+684,Triton Brewing Co. Fieldhouse Wheat,AMERICAN WHEAT,2017.0,Safale US-05,Safale US-05,,,68.0,,14
+685,Two Roads Brewing Co. Worker’s Comp Farmhouse Ale,BELGIAN ALE,,White Labs 3711 or BSI S-26,White Labs 3711 or BSI S-26,,,,,0
+686,Corridor Brewery Wizard Fight American IPA,AMERICAN IPA,,Brewing Science Institute London III (Ale),Brewing Science Institute London III (Ale),,,68.0,,0
+689,Ladyface Ale Companie La Grisette,BELGIAN ALE,2018.0,Belgian yeast or your favorite Belgian yeast,Belgian yeast or your favorite Belgian yeast,,,,,0
+690,Denizens Brewing Co. Lowest Lord ESB,AMBER ALE,,WLP007 Dry English Ale,WLP007 Dry English Ale,White Labs,,,,0
+692,Pedal Haus Brewery Biere Blanche Belgian Witbier,BELGIAN ALE,2018.0,Westmalle yeast,Westmalle yeast,,,65.0,,0
+693,Night Shift Brewing Matisse Classic Saison,BELGIAN ALE,2017.0,Belgian Saison yeast strain,Belgian Saison yeast strain,,,70.0,,28
+694,Honolulu BeerWorks CocoWeizen,HEFEWEIZEN,2018.0,3068 Weihenstephan Weizen,3068 Weihenstephan Weizen,Wyeast,,72.0,,10
+695,Ozark Beer Co. Belgian Golden Ale,BELGIAN ALE,,Belgian/French dry saison strain,Belgian/French dry saison strain,Omega Yeast Labs OYL-500 Saisonsteins Monster,OYL-500,80.0,,0
+696,Parleaux Beer Lab Lemony Sippit Lager,AMERICAN LAGER,,Wyeast 2278 Czech Pils Lager Yeast,Wyeast 2278 Czech Pils Lager Yeast,,,,,0
+697,Back Forty Beer Co. Truck Stop Honey Brown Ale,BROWN ALE,2011.0,US-05,Chico/US-05 (American Ale),Fermentis,US-05,68.0,,0
+698,Juniper Rye Bock,BOCK,,Danish Lager,Danish Lager,,,,,0
+699,I Am Broot” Brut IPA,IPA,2019.0,"Wyeast 1056, White Labs WLP001, or other clean, attenuative ale yeast","Wyeast 1056, White Labs WLP001, or other clean, attenuative ale yeast",,,68.0,,0
+700,Night Sky Black IPA,AMERICAN IPA,2018.0,North West Ale,North West Ale,Wyeast,,,,0
+701,Flubadub Gansett Porter (all-grain),AMERICAN PORTER,2018.0,Cry Havoc (WLP862),Cry Havoc (WLP862),White Labs,WLP862,55.0,70.0,35
+702,Kein Bier Light Lager,AMERICAN LAGER,2018.0,WLP840 or WLP838,WLP840 or WLP838,White Labs,,50.0,,15
+703,What The Helles!,HELLES,2018.0,WLP838 Southern German Lager,WLP838 Southern German Lager,White Labs,,50.0,,33
+704,7k Czech Pale Lager,HELLES,2018.0,WLP 802,WLP 802,White Labs,WLP802,50.0,,57
+705,Chris & Ryan’s Oktoberfest,AMBER LAGER,2018.0,Octoberfest/Marzen Lager,Octoberfest/Marzen Lager,White Labs,WLP820,50.0,,21
+706,Darkness Imprisoning Me Lager,DARK LAGER,2018.0,German Bock Lager WLP833,German Bock Lager WLP833,,,54.0,62.0,47
+707,Chew Bock-A Doppelbock,BOCK,2018.0,Wyeast 2206 Bavarian Lager,Wyeast 2206 Bavarian Lager,Wyeast,,50.0,,40
+708,Spicy Nana Weissbier,HEFEWEIZEN,2018.0,WLP300,WLP300,White Labs,300,58.0,,28
+709,Now That’s A Knife Australian Sparking Ale,GOLDEN ALE,2018.0,WLP023 Burton Ale,WLP023 Burton Ale,White Labs,WLP023,64.0,,12
+710,Scarlett O’Hara Irish Red Ale,AMBER ALE,2018.0,Irish Ale,Irish Ale,Wyeast,1084,68.0,,12
+711,Lee’s American Pale Ale,AMERICAN PALE ALE,2018.0,Imperial Yeast Flagship A07,Imperial Yeast Flagship A07,,,67.0,,5
+712,Cookie Dough Brown Ale,AMERICAN BROWN ALE,2018.0,WLP001 California Ale,Chico/US-05 (American Ale),White Labs,WLP001,66.0,,0
+713,Cat Scratch Cali,Foreign / Tropical Stout,2018.0,"Darkness Imperial yeast, Joystick Imperial yeast","Darkness Imperial yeast, Joystick Imperial yeast",,,67.0,,0
+714,Hop Burst IPA,AMERICAN IPA,2018.0,Brewster's BRY96 American Ale,Brewster's BRY96 American Ale,,,68.0,,21
+715,Star Maker Imperial Stout,IMPERIAL STOUT,2018.0,Safale-05,Safale-05,,,,,104
+716,Mendel’s Monster Double IPA,IMPERIAL / DOUBLE IPA,2018.0,White Labs WLP007 Dry English Ale,White Labs WLP007 Dry English Ale,White Labs,WLP007,65.0,,4
+717,Abbey Saison,BELGIAN ALE,2018.0,WLP590 French Saison,WLP590 French Saison,White Labs,,60.0,,3
+718,Neu Haus Belgian Dark Strong Ale,BELGIAN ALE,2018.0,Wyeast 1762 Belgian Abbey II,Wyeast 1762 Belgian Abbey II,Wyeast,1762,65.0,,0
+719,Cherry Weisse,BERLINER WEISSE,2018.0,German Ale 1007,German Ale 1007,Wyeast,1007,,,0
+720,Smoked Helles,HELLES,2018.0,Wyeast 2206 Bavarian Lager,Wyeast 2206 Bavarian Lager,Wyeast,2206,48.0,,3
+721,BlytheStone Light Cream Ale,Cream Ale,2018.0,Saflager W-34/70,Saflager W-34/70,Fermentis,,72.0,72.0,10
+723,Robert’s German Pils,GERMAN PILSNER,2018.0,WLP 830,WLP 830,White Labs,,48.0,,14
+724,Don’t Mess With Snickers Vienna Lager,AMBER LAGER,2018.0,Wyeast 830 German Lager,Wyeast 830 German Lager,,,48.0,34.0,56
+725,Jonathan’s Schwarzbier,DARK LAGER,2018.0,Wyeast 2124 Bohemian Lager,Wyeast 2124 Bohemian Lager,Wyeast,2124,52.0,,26
+726,HBock Helles Bock,BOCK,2018.0,German Lager WLP830,German Lager WLP830,White Labs,WLP830,62.0,,40
+727,The Bizarro Jerry Weissbier,HEFEWEIZEN,2018.0,WLP300,WLP300,White Labs,,58.0,,3
+728,More Special Strong Bitter,ENGLISH PALE ALE,2018.0,London Ale III,London Ale III,Wyeast Labs,1318,64.0,68.0,4
+729,Lost Art American Pale Ale,AMERICAN PALE ALE,2018.0,WLP001,WLP001,White Labs,,68.0,,16
+730,The Goatsman Kentucky Common,AMBER LAGER,2018.0,Safale US-05,Safale US-05,,,67.0,,7
+731,Candies Wit English Porter,ENGLISH PORTER,2018.0,Wyeast 1318 London Ale III,Wyeast 1318 London Ale III,Wyeast,1318,61.0,,4
+732,Shadow Monster Imperial Stout,IMPERIAL STOUT,2018.0,Wyeast 1728 Scottish Ale,Scottish Ale,Wyeast,1728,67.0,,21
+733,Black Out IPA,AMERICAN IPA,2018.0,San Diego Super Ale Yeast,San Diego Super Ale Yeast,WLP,090,68.0,68.0,21
+734,The Gunners Dream American Barleywine,BARLEYWINE,2018.0,Safale American Ale Yeast US-05,Safale American Ale Yeast US-05,Fermentis,,,,0
+735,BarleyQuad English Barleywine,BARLEYWINE,2018.0,Wyeast 3711 French Saison,Wyeast 3711 French Saison,Wyeast,,68.0,68.0,284
+736,Red Keep Biere de Garde,BIÈRE DE GARDE,2018.0,Belgian Abbey Style Ale II,Belgian Abbey Style Ale II,Wyeast,1762,63.0,,18
+737,Mmm Quad,BELGIAN ALE,2018.0,Wyeast 3522 Belgian Ardennes,Wyeast 3522 Belgian Ardennes,Wyeast,,65.0,,7
+738,Miss Mo’s Chocolate Raspberry Milk Stout,SPICE & HERB BEER,2018.0,1968 London ESB Ale,1968 London ESB Ale,Wyeast,1968,67.0,,14
+739,Ass Kicking Cream Ale (Tequila-aged Lime/Jalapeno Ale),FRUIT BEER,2018.0,Safale American,Chico/US-05 (American Ale),Fermentis,US-05,65.0,,4
+740,Wooden Bridge Barrel-aged Imperial Stout,IMPERIAL STOUT,2018.0,Imperial Yeast A10 Darkness,Imperial Yeast A10 Darkness,,,,,0
+741,Dregs Of The Loon Wild Ale,WILD ALE,2018.0,", yeast dregs of spontaneously fermented Belgian wild ales; optionally WLP655 White Labs Belgian Sour 1; Omega Yeast OY-212 Brett Blend #3 Bring On Da Funk",", yeast dregs of spontaneously fermented Belgian wild ales; optionally WLP655 White Labs Belgian Sour 1; Omega Yeast OY-212 Brett Blend #3 Bring On Da Funk",,,65.0,,28
+742,Mike’s Rye Weizenbock,BOCK,2018.0,Bavarian Weizen Yeast,Bavarian Weizen Yeast,White Labs,WLP351,63.0,63.0,18
+743,Daniel’s American IPA,AMERICAN IPA,2018.0,Omega OYL-052 DIPA yeast,Omega OYL-052 DIPA yeast,,,65.0,,4
+744,John’s American Lager,AMERICAN LAGER,2018.0,WLP840 American lager yeast,WLP840 American lager yeast,White Labs,,50.0,,17
+745,Hayden’s Lager,AMERICAN LAGER,2018.0,WLP940 Mexican lager,WLP940 Mexican lager,White Labs,,51.0,,23
+746,Han Solo Shot First Imperial Stout,IMPERIAL STOUT,2018.0,1469 West Yorkshire ale yeast,1469 West Yorkshire ale yeast,Wyeast,1469,,,0
+747,TOF Joe IPA,AMERICAN IPA,2018.0,Wyeast 1318 London ale,Wyeast 1318 London ale,Wyeast,1318,66.0,,15
+748,Nuclear Winter White IPA,AMERICAN IPA,2017.0,Wyeast 3787 Trappist High Gravity,Wyeast 3787 Trappist High Gravity,Wyeast,3787,68.0,68.0,18
+749,Suicide Mission Double IPA,IMPERIAL / DOUBLE IPA,2018.0,Imperial #A07 Flagship ale yeast,Imperial #A07 Flagship ale yeast,Imperial,A07,67.0,,4
+750,Don’t Swallow the Cap Barleywine,BARLEYWINE,2018.0,WLP002 English Ale,WLP002 English Ale,White Labs,,68.0,,22
+751,Paul and Nick’s Saison,BELGIAN ALE,2018.0,Belle Saison dry yeast,Belle Saison dry yeast,,,70.0,80.0,7
+752,Brunchmaster 2000 Witbier,BELGIAN ALE,2018.0,Wyeast 3944 Belgian Witbier,Wyeast 3944 Belgian Witbier,Wyeast,3944,,,14
+753,Golden Diablo Belgian Strong Ale,BELGIAN ALE,2018.0,WLP570 Belgian Golden Ale,WLP570 Belgian Golden Ale,White Labs,WLP570,64.0,32.0,28
+754,Cuvee 863 Gueuze,GUEUZE,2018.0,ECY01 BugFarm culture bottle dregs,ECY01 BugFarm culture bottle dregs,,,72.0,,365
+755,Das Pash Berliner Weisse,BERLINER WEISSE,2018.0,Wyeast 1318 London Ale III,Wyeast 1318 London Ale III,Wyeast,1318,64.0,,8
+756,Dr. Mantis Toboggan Winter Seasonal,SPICE & HERB BEER,2018.0,Inland Island NorCal yeast,Inland Island NorCal yeast,,,66.0,,0
+757,Death Spiral Barrel-aged Barleywine,BARLEYWINE,2018.0,WLP007 Dry English ale yeast,WLP007 Dry English ale yeast,White Labs,WLP007,68.0,,0
+758,1879 Kulmbacher Export,DARK LAGER,2018.0,WLP830 German Lager Yeast,WLP830 German Lager Yeast,,,,,0
+759,1834 Augsburger Lagerbier,DARK LAGER,2018.0,White Labs WLP820 Oktoberfest/M\u00e4rzen Lager or WLP920 Old Bavarian Lager,White Labs WLP820 Oktoberfest/M\u00e4rzen Lager or WLP920 Old Bavarian Lager,,,62.0,,14
+760,Old Ledger Lager,AMERICAN LAGER,2018.0,German Lager Yeast,German Lager Yeast,White Labs,WLP830,,,0
+761,Inadweissable Florida Weisse,BERLINER WEISSE,2018.0,White Labs WLP510 Bastogne Belgian Ale Yeast,White Labs WLP510 Bastogne Belgian Ale Yeast,White Labs,WLP510,67.0,,7
+762,Halpatter Florida Weisse,BERLINER WEISSE,2018.0,WLP029 German Ale/K\u00f6lsch Yeast,WLP029 German Ale/K\u00f6lsch Yeast,White Labs,,68.0,68.0,20
+763,Swamp Head Florida Weisse,BERLINER WEISSE,2018.0,Omega Yeast Lactobacillus Blend / Wyeast 1318 London Ale III,Omega Yeast Lactobacillus Blend / Wyeast 1318 London Ale III,,,66.0,66.0,6
+764,Stechen Florida Weisse,BERLINER WEISSE,2018.0,Lactobacillus brevis,Lactobacillus brevis,White Labs,WLP672,70.0,39.0,23
+765,Bourbon Piñon Wee Heavy,AMBER ALE,2018.0,Wyeast 1728 Scottish Ale yeast,Wyeast 1728 Scottish Ale yeast,,,68.0,55.0,42
+766,Basic Bohemian Pilsner,CZECH / BOHO PILS,2018.0,WLP802 Czech Budejovice lager yeast,WLP802 Czech Budejovice lager yeast,White Labs,WLP802,48.0,,3
+767,Dorada Pampeana Estilo Cerveza Zeppelin,Blonde Ale,2018.0,SafAle S-04,SafAle S-04,Fermentis,,19.0,,21
+768,Dorada Pampeana Estilo 1060 Cerveza,BLONDE ALE,2018.0,SafAle S-04,SafAle S-04,Fermentis,,61.0,,17
+769,Dorada Pampeana Estilo Cerveza Minga,Blonde Ale,2018.0,SafAle US-05,SafAle US-05,Fermentis,,68.0,,8
+770,IPA Argenta,AMERICAN IPA,2018.0,Fermentis SafAle US-05,Fermentis SafAle US-05,,,66.0,,0
+771,Peaks & Priorities Juicy IPA (All-Grain),AMERICAN IPA,2018.0,IPA yeast,IPA yeast,,,70.0,,7
+772,Van Dayum! Sour American Red Ale,AMBER ALE,2018.0,"Safale S-04, Safale K-97","Safale S-04, Safale K-97",Fermentis,,75.0,,11
+773,Little Boss Sour Wheat Ale,SOUR ALE,2018.0,Safale K-97,Safale K-97,,,65.0,,10
+774,The Charlie Citrus Pale Ale,AMERICAN PALE ALE,,Safale US-05,Safale US-05,Fermentis,,65.0,,0
+775,13th Day Imperial Stout,IMPERIAL STOUT,2018.0,American Ale 1056,American Ale 1056,Wyeast,,,,0
+776,Southern Highlander Wee Heavy,AMBER ALE,2010.0,Scottish Ale Yeast,Scottish Ale,Wyeast,1728,,,0
+777,Smokey the Beer II (All-Grain),RAUCHBIER,2018.0,White Labs Cry Havoc yeast,White Labs Cry Havoc yeast,White Labs,,55.0,55.0,14
+778,Exulansis Raspberry Sour,FRUIT BEER,2017.0,White Labs WLP648 Brettanomyces bruxellensis Troi Vrai,White Labs WLP648 Brettanomyces bruxellensis Troi Vrai,White Labs,WLP648,70.0,,0
+779,Lichtenhainer,HISTORICAL BEER,2017.0,California Ale Yeast,Chico/US-05 (American Ale),White Labs,WLP001,68.0,68.0,21
+780,Triple Down Belgian Tripel,BELGIAN ALE,2017.0,3787 Trappist High Gravity ale yeast,3787 Trappist High Gravity ale yeast,Wyeast,3787,70.0,72.0,28
+781,Dogfish Head Indian Brown Ale Clone,AMERICAN BROWN ALE,2011.0,Ringwood Ale Yeast,Ringwood Ale Yeast,,,70.0,60.0,14
+782,Toasted Coconut Black IPA,IPA,2017.0,Scottish ale yeast,Scottish ale yeast,,,68.0,65.0,28
+783,Double IPA,IMPERIAL / DOUBLE IPA,2017.0,White Labs WLP001 California ale yeast,White Labs WLP001 California ale yeast,White Labs,,72.0,65.0,27
+784,Flatbed Pale Ale,AMERICAN PALE ALE,2017.0,California Ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,68.0,65.0,20
+785,Phil’s Lager,AMERICAN LAGER,2017.0,Saflager W-34/70,Saflager W-34/70,Fermentis,,54.0,34.0,29
+786,Razzhole Sour,FRUIT BEER,2017.0,Wyeast 3711 French Saison and Wyeast 3724 Belgian Saison blend,Wyeast 3711 French Saison and Wyeast 3724 Belgian Saison blend,,,75.0,75.0,14
+787,Sunsphere IPA,AMERICAN IPA,2017.0,Wyeast 1450 Denny's favorite ale yeast,Wyeast 1450 Denny's favorite ale yeast,Wyeast,1450,64.0,,19
+788,Scottish Light,AMBER ALE,2017.0,Wyeast 1728 Scottish Ale,Scottish Ale,Wyeast,1728,62.0,,10
+790,Session RIS,IMPERIAL STOUT,2017.0,White Labs WLP001 California Ale yeast slurry,White Labs WLP001 California Ale yeast slurry,,,70.0,,8
+791,Rocket Surgeon Summer Ale,ENGLISH PALE ALE,2017.0,1056 American ale yeast,Chico/US-05 (American Ale),Wyeast,1056,68.0,60.0,14
+793,The Olga Milk Stout,STOUT,2017.0,California Ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,68.0,72.0,11
+794,Exsanguinator,BOCK,2017.0,Wyeast 2206 Bavarian Lager Yeast,Wyeast 2206 Bavarian Lager Yeast,Wyeast,,50.0,36.0,120
+795,Jeff’s Belgian Dark Strong Ale,BELGIAN ALE,2017.0,WLP500 Trappist ale yeast,WLP500 Trappist ale yeast,White Labs,WLP500,62.0,65.0,31
+796,Big Ben,ENGLISH PORTER,2017.0,London Ale,London Ale,White Labs,WLP013,66.0,,14
+797,Entry 2,Dark Lager,2017.0,WLP830 German Lager Yeast,WLP830 German Lager Yeast,White Labs,,50.0,60.0,21
+798,"Old Scotty"" Historical Scottish Heavy",AMBER ALE,2017.0,Scottish Ale yeast,Scottish Ale,Wyeast,1728,68.0,65.0,37
+799,3 Philosophers with Attitude,BELGIAN ALE,2017.0,Inland Island INIS-222 Belgian Gnome Yeast,Inland Island INIS-222 Belgian Gnome Yeast,,,68.0,68.0,93
+800,Elsie’s Marzen,AMBER LAGER,2017.0,White Labs WLP838 Southern German Lager Yeast,White Labs WLP838 Southern German Lager Yeast,White Labs,WLP838,48.0,,14
+801,American Grisette,BELGIAN ALE,2017.0,Sigmund's Voss Kviek ale yeast,Sigmund's Voss Kviek ale yeast,The Yeast Bay,,,,10
+802,Hackysack Superstar,HEFEWEIZEN,2017.0,WLP380 Hefeweizen IV ale yeast,WLP380 Hefeweizen IV ale yeast,White Labs,WLP380,62.0,,7
+803,VCR Brown Ale,AMERICAN BROWN ALE,2017.0,Denny's Favorite 50 ale yeast,Denny's Favorite 50 ale yeast,Wyeast,,64.0,,7
+804,Chickity Czech Yourself Pilsner,CZECH / BOHO PILS,2017.0,Saflager W-34/70,Saflager W-34/70,Fermentis,,50.0,65.0,12
+805,Resurrection” Historical Grodziskie,HISTORICAL BEER,2017.0,Safale US-05,Chico/US-05 (American Ale),Fermentis,US-05,66.0,,13
+806,Go Big Black IPA,AMERICAN IPA,2017.0,American Ale Yeast,Chico/US-05 (American Ale),Wyeast,1056,68.0,,14
+807,Townie Yacht Club,AMERICAN WHEAT,2017.0,Wyeast 1010 American Wheat Ale,Wyeast 1010 American Wheat Ale,Wyeast,,67.0,,21
+808,Munich Gold 2016,HELLES,2017.0,Gigayeast German Lager Yeast,Gigayeast German Lager Yeast,,,52.0,33.0,58
+809,Vitoria Vienna Pilsner,GERMAN PILSNER,2013.0,German lager yeast,German lager yeast,White Labs,Cry Havoc,70.0,,7
+810,Argentine Strong Scotch Ale,AMBER ALE,2007.0,Wyeast 1728 Scottish Ale,Scottish Ale,Wyeast,1728,50.0,,11
+811,Weekday Bock (All-Grain),BOCK,2018.0,German or Bavarian lager yeast,German or Bavarian lager yeast,White Labs,Cry Havoc,70.0,,7
+812,Saint Arnold Fancy Lawnmower Beer,HYBRID BEER,2017.0,K\u00f6lsch yeast,K\u00f6lsch yeast,,Wyeast 2565 or WLP029,60.0,,14
+813,Squatters Full Suspension Pale Ale,AMERICAN PALE ALE,2017.0,Ringwood Ale Yeast,Ringwood Ale Yeast,Wyeast,1187,67.0,58.0,14
+814,Izzy’s Freudian Schwarz,DARK LAGER,2010.0,Wyeast 2206 Bavarian Lager,Wyeast 2206 Bavarian Lager,Wyeast,2206,,,0
+815,Choconut Brown Porter,AMERICAN PORTER,2017.0,White Labs WLP005 British Ale Yeast,White Labs WLP005 British Ale Yeast,White Labs,WLP005,68.0,,10
+816,Joe Gillian’s Red,AMBER ALE,,1968 Special London ale yeast,1968 Special London ale yeast,Wyeast,,68.0,65.0,14
+817,Überbrew White Noise American Wheat Ale,AMERICAN WHEAT,2016.0,American Wheat yeast,American Wheat yeast,,,,,0
+818,Danado de Bom Oatmeal Stout,OATMEAL STOUT,2009.0,Cry Havoc yeast or English-style ale yeast,Cry Havoc yeast or English-style ale yeast,,,70.0,,7
+819,Coriandered Mild Brown Ale,BROWN ALE,2006.0,/favorite ale yeast/,/favorite ale yeast/,,,70.0,,7
+820,German WeizenBock,WEIZEN BOCK,2017.0,WLP380 Hefeweizen IV Ale,WLP380 Hefeweizen IV Ale,White Labs,,,,0
+821,American IPA Aged on Spanish Cedar Wood,AMERICAN IPA,2017.0,Wyeast 1056 American Ale/Chico,Chico/US-05 (American Ale),Wyeast,1056,,,0
+822,Hammonds 1903 XXXX,ENGLISH PALE ALE,2017.0,West Yorkshire flocculent yeast,West Yorkshire flocculent yeast,,,68.0,,0
+823,Brewlab 1995 Best Bitter,ENGLISH PALE ALE,2017.0,Brewlab Thames Valley 3 or another English ale strain,Brewlab Thames Valley 3 or another English ale strain,,,68.0,,0
+824,Elbro Nerkte Remake 2017 Brown Ale,BROWN ALE,2017.0,,,,,70.0,,7
+825,Roughtail Brewing Co. Hoptometrist Double IPA,IMPERIAL / DOUBLE IPA,,WLP001 or US-05,WLP001 or US-05,,,65.0,,4
+826,Adroit Theory Triptych Tart Rambutan Saison,BELGIAN ALE,,French Saison (Wyeast 3711),French Saison (Wyeast 3711),Wyeast,3711,64.0,,0
+827,Boxing Bear Brewing Co. The Red Glove Double Red Ale,AMBER ALE,2016.0,"Wyeast 1056, White Labs WLP001 or Safale US-05","Wyeast 1056, White Labs WLP001 or Safale US-05",,,,,0
+828,Big Dog’s Brewing Red Hydrant English Brown Ale,BROWN ALE,,Wyeast 1272,Wyeast 1272,Wyeast,,68.0,,0
+829,Boise Brewing Co. Down Down Extra Pale Ale,AMERICAN PALE ALE,2014.0,California Ale Yeast,Chico/US-05 (American Ale),White Labs,WLP001,,,0
+830,Back East Brewery Porter,AMERICAN PORTER,,Wyeast 1028 London Ale,Wyeast 1028 London Ale,Wyeast,1028,66.0,,0
+831,Firehouse Brewing Co. Swarthy Beaver English Pale Ale,ENGLISH PALE ALE,,1056 American Ale,1056 American Ale,Wyeast,,70.0,,7
+832,Fossil Cove Brewing La Brea Brown,BELGIAN ALE,,Safbrew S-33,Safbrew S-33,Fermentis,,77.0,,10
+833,Gnarly Barley Brewing Co. Korova Milk Porter,PORTER,,San Francisco Lager,San Francisco Lager,White Labs,WLP810,64.0,,0
+834,Jekyll Brewing Seven Bridges Oktoberfest,OKTOBERFEST,,WLP830 German Lager yeast,WLP830 German Lager yeast,White Labs,WLP830,65.0,,24
+835,Free State Brewing Co. Garden Party Lager,PALE LAGER,,Augstiner Lager yeast,Augstiner Lager yeast,,,55.0,,0
+836,Indeed Brewing Co. Day Tripper Pale Ale,AMERICAN PALE ALE,,US-05 or 1272,US-05 or 1272,,US-05 or Wyeast 1272,67.0,,0
+837,Brooklyn Brewery Brooklyn Lager,AMBER LAGER,,Lager Yeast,Lager Yeast,,,55.0,,10
+839,Coppertail Brewing Co. Unholy Trippel,BELGIAN ALE,,Belgian Strong yeast,Belgian Strong yeast,,,76.0,,0
+840,Flying Fish Brewing Co. Red Fish Hoppy Red Ale,AMBER ALE,,American Ale yeast,American Ale yeast,,,,,0
+841,Hutton & Smith Brewing Co. On-Sight Alt,ALTBIER,2016.0,WLP029 or Wyeast 2575,WLP029 or Wyeast 2575,,,60.0,,42
+842,Maui Brewing Company POG IPA,AMERICAN IPA,,California Ale yeast,California Ale yeast,,,68.0,,6
+843,Lazy Magnolia Brewery Southern Hops’pitality IPA,AMERICAN IPA,,Safale US-05 or WLP001,Safale US-05 or WLP001,,,65.0,,0
+844,Lynnwood Brewing Drop Bear APA,AMERICAN PALE ALE,,WLP001,WLP001,White Labs,,67.0,,0
+845,Lion Bridge Brewing Co. Compensation English Dark Mild,BROWN ALE,,Dusseldorf Alt,Dusseldorf Alt,White Labs,,68.0,,0
+846,Melvin Brewing Homebrewer’s Hop Bomb,IMPERIAL / DOUBLE IPA,,California Ale yeast,California Ale yeast,,,68.0,,7
+847,Maine Beer Co. Peeper Ale,AMERICAN PALE ALE,2009.0,1056,1056,Wyeast,,68.0,,0
+848,Maplewood Brewing Co. Charlatan American Pale Ale,AMERICAN PALE ALE,,Wyeast 1318 London ale III,Wyeast 1318 London ale III,Wyeast,1318,,,0
+849,Paducah Beer Werks Traditional English Pale Ale,ENGLISH PALE ALE,,American Ale Blend,American Ale Blend,White Labs,WLP060,65.0,,7
+850,Weathered Ground Brewery R.K. Double IPA,IMPERIAL / DOUBLE IPA,,WLP007,WLP007,White Labs,,68.0,,7
+851,Evolution Craft Brewing Co. Crystal Row,Old Ale,2015.0,WLP001 or Safale US-05,WLP001 or Safale US-05,,,,,0
+852,Revelry Brewing Co Oh My Darlyn! Scotch Ale,AMBER ALE,2016.0,Edinburgh yeast,Edinburgh yeast,,,64.0,,21
+853,Postdoc Brewing Demon Star Imperial Stout,IMPERIAL STOUT,,1056,1056,Wyeast,,,,0
+854,Uinta Brewing Co. Hop Nosh Tangerine,AMERICAN IPA,,Wyeast 1007,Wyeast 1007,Wyeast,1007,,,0
+855,Trinity Brewhouse Red Devils Belgian Pale Ale,BELGIAN ALE,,:Belgian Ale yeast,:Belgian Ale yeast,,,,,0
+856,Zipline Brewing Co. NZ IPA,AMERICAN IPA,,Not specified,Not specified,,,,,0
+857,Bale So Hard Dry-Hopped Saison,BELGIAN ALE,2016.0,WLP670,WLP670,White Labs,WLP670,72.0,67.0,10
+858,Terra Firma Brown IPA,AMERICAN BROWN ALE,,American Ale Yeast,American Ale Yeast,,,64.0,,7
+859,Vello’s Gotlandsdricke,HISTORICAL BEER,2017.0,Cake yeast,Cake yeast,,,65.0,55.0,14
+860,Oh Mama! American Pale Ale,AMERICAN PALE ALE,2017.0,Danstar Nottingham dry yeast,Danstar Nottingham dry yeast,Danstar,not provided,68.0,,14
+861,Brew-in-a-Bag Cranberry Ale,FRUIT BEER,2017.0,Danstar Nottingham dry yeast,Danstar Nottingham dry yeast,,,68.0,,14
+862,Pisswasser Lite,AMERICAN LAGER,2017.0,Wyeast 2035 American Lager,Wyeast 2035 American Lager,Wyeast,,50.0,,1
+863,Grodziskie,HISTORICAL BEER,2017.0,WLP036 Dusseldorf Alt Yeast,WLP036 Dusseldorf Alt Yeast,White Labs,WLP036,60.0,,14
+864,Oatmeal Belgian Pale Ale,BELGIAN ALE,2005.0,3787 Trappist High Gravity yeast,3787 Trappist High Gravity yeast,,,,,0
+865,Hobo Devil,CZECH / BOHO PILS,2015.0,Wyeast 1388 Belgian Strong Ale,Wyeast 1388 Belgian Strong Ale,Wyeast,1388,48.0,,29
+866,Rushmore IPA (All-Grain),IPA,2017.0,,,,,65.0,68.0,17
+867,Klang Freudenfest Oktoberfest (All-Grain),OKTOBERFEST,2017.0,German lager yeast with sufficient yeast starter,German lager yeast with sufficient yeast starter,,,52.0,,44
+868,Battre L’oie Saison (All-Grain),BELGIAN ALE,2017.0,Belgian saison yeast,Belgian saison yeast,,,62.0,65.0,21
+869,Ryan’s Schwarzbier,DARK LAGER,2016.0,Wyeast 2124 Bohemian Lager yeast,Wyeast 2124 Bohemian Lager yeast,Wyeast,,50.0,36.0,101
+870,Dream Steam California Common,AMBER LAGER,2016.0,WLP810 San Francisco Lager,WLP810 San Francisco Lager,White Labs,,62.0,55.0,35
+871,Dreg Pirate Roberts,WHEAT & RYE BEER,2016.0,US-05 dry yeast,US-05 dry yeast,,,70.0,70.0,755
+872,StOaked Brown,BROWN ALE,2016.0,London Ale yeast,London Ale yeast,Wyeast,1028,67.0,,14
+873,"Girl Scout Cookies"" Mint Chocolate Chip Sweet Stout",SPICE & HERB BEER,2016.0,London ESB ale,London ESB ale,Wyeast,1968,65.0,,30
+874,If You Like Pi Coladas Berliner Weisse,FRUIT BEER,2016.0,Wyeast 5335 Lactobacillus,Wyeast 5335 Lactobacillus,Wyeast,,90.0,69.0,27
+875,Split Thy Skull English Barleywine,BARLEYWINE,2016.0,WLP007 Dry English Ale,WLP007 Dry English Ale,White Labs,,67.0,,14
+876,Queen B*tch Belgian Dark Strong Ale,BELGIAN ALE,2016.0,Trappist High Gravity ale yeast,Trappist High Gravity ale yeast,Wyeast,3787,68.0,75.0,18
+877,This is Not a Gueuze Gueuze,GUEUZE,2016.0,Wyeast 1318 London Ale III yeast,Wyeast 1318 London Ale III yeast,Wyeast,,,,0
+878,Mandy & Wesley’s French Saison,BELGIAN ALE,2016.0,French Saison ale yeast,French Saison ale yeast,Wyeast,3711,70.0,77.0,11
+879,Barb’s Hef Weissbier,HEFEWEIZEN,2016.0,WLP380 Hefeweizen IV Ale,WLP380 Hefeweizen IV Ale,White Labs,WLP380,62.0,65.0,11
+880,The Duke English IPA,ENGLISH IPA,2016.0,English Ale yeast,English Ale yeast,,WLP005,66.0,,2
+881,Sandy American IPA,AMERICAN IPA,2016.0,London Ale III,London Ale III,Wyeast,1318,65.0,,14
+882,Kaos Returns,IMPERIAL STOUT,2016.0,San Diego super yeast,San Diego super yeast,White Labs,WLP090,65.0,70.0,44
+883,Padraig Irish Stout,IRISH STOUT,2016.0,Danstar Nottingham dry ale yeast,Danstar Nottingham dry ale yeast,,,64.0,36.0,17
+884,Old Hound Dog Pre-Prohibition Porter,AMERICAN PORTER,2016.0,Wyeast 1028 London ale yeast,Wyeast 1028 London ale yeast,Wyeast,1028,66.0,,49
+885,Blackson Brown Ale,BROWN ALE,2016.0,Wyeast 1098 British Ale,Wyeast 1098 British Ale,Wyeast,1098,68.0,,14
+886,Cali Amber,AMBER ALE,2016.0,California ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,66.0,,14
+887,Rainy Day American Pale Ale,AMERICAN PALE ALE,2016.0,California Ale Yeast,Chico/US-05 (American Ale),White Labs,WLP001,65.0,72.0,28
+888,D3 Scottish Ale,AMBER ALE,2016.0,Wyeast WLP028 Edinburgh ale yeast,Wyeast WLP028 Edinburgh ale yeast,Wyeast,,61.0,40.0,42
+889,Golden Delight,ENGLISH PALE ALE,2016.0,Wyeast 1469 West Yorkshire Ale,Wyeast 1469 West Yorkshire Ale,Wyeast,1469,66.0,,14
+890,Joe’s Kolsch,HYBRID BEER,2016.0,WLP830 German lager yeast,WLP830 German lager yeast,White Labs,,54.0,,14
+891,The King of Eisbocks!,BOCK,2016.0,Wyeast 2633 Oktoberfest Lager Blend yeast,Wyeast 2633 Oktoberfest Lager Blend yeast,Wyeast,,48.0,,23
+892,"Thanks for the (Decoction) Pot, Dan"" Vienna Lager",AMBER LAGER,2016.0,WLP833 German Bock lager yeast,WLP833 German Bock lager yeast,White Labs,,50.0,33.0,34
+893,Pilz Czech Pale Lager,CZECH / BOHO PILS,2016.0,WLP833 German Bock Lager,WLP833 German Bock Lager,White Labs,WLP833,50.0,63.0,70
+894,Barstool Blues American Lite Lager,AMERICAN LAGER,2016.0,Wyeast 2042 Danish Lager yeast,Wyeast 2042 Danish Lager yeast,Wyeast,,48.0,33.0,35
+895,Sean’s Bock Doppelbock,BOCK,2016.0,WLP833 German Bock Lager Yeast,WLP833 German Bock Lager Yeast,White Labs,,,,0
+896,Weavers Gold British Golden Ale,ENGLISH PALE ALE,2016.0,White Labs WLP007 Dry English Ale yeast,White Labs WLP007 Dry English Ale yeast,,,65.0,,0
+897,Lov-a-ly Bunch of Coconuts,SPICE & HERB BEER,2016.0,WLP028 Edinburgh Ale or Wyeast 1728 Scottish Ale,WLP028 Edinburgh Ale or Wyeast 1728 Scottish Ale,,,68.0,,0
+898,Jared’s Galaxy Pale Ale,AMERICAN PALE ALE,2016.0,California Ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,66.0,,13
+899,Gunn Clan Scotch Ale,AMBER ALE,2011.0,White Labs WLP028 Edinburgh ale yeast,White Labs WLP028 Edinburgh ale yeast,,,,,0
+900,Stairway to Heaven Belgian Specialty Ale,BELGIAN ALE,2008.0,Belgian Ardennes,Belgian Ardennes,Wyeast,3522,72.0,70.0,0
+901,Bill’s Farmhouse Ale,BELGIAN ALE,2005.0,Saison Yeast,Saison Yeast,,,72.0,70.0,28
+903,#BiggestSmallBeerEver Porter,AMERICAN PORTER,2016.0,Irish Ale yeast,Irish Ale yeast,,,66.0,,0
+904,Snowdrop (Kottbusser),FARMHOUSE BEER,2015.0,German Ale/Kolsch Yeast,German Ale/Kolsch Yeast,White Labs,WLP029,63.0,,0
+905,English Pale Ale (ESB) by AHA Members,ENGLISH PALE ALE,,London Ale Yeast (1028),London Ale Yeast (1028),,,68.0,,0
+906,"Milk Stout with Pumpkin, Coffee & Vanilla",COFFEE BEER,,San Diego Super Yeast,San Diego Super Yeast,White Labs,WLP090,,,0
+907,Spencer Brewery Trappist Ale,BELGIAN ALE,,"Belgian yeast (Wyeast 1214, 1388, 1762 or WLP 530, 550)","Belgian yeast (Wyeast 1214, 1388, 1762 or WLP 530, 550)",Wyeast/WLP,,66.0,,14
+908,Saison D’Potiron,BELGIAN ALE,2013.0,East Coast Yeast Saison Brasserie Blend,East Coast Yeast Saison Brasserie Blend,East Coast Yeast,WLP 565 or Wyeast 3711,68.0,78.0,28
+909,Duck Slippers Session Helles,HELLES,2014.0,German or Bavarian type lager yeast,German or Bavarian type lager yeast,,,55.0,,7
+910,Summer Rye,WHEAT & RYE BEER,,California Ale Yeast,Chico/US-05 (American Ale),White Labs,WLP001,66.0,,0
+911,An English Braggot,BRAGGOT,,,,,,,,245
+912,Dave’s Dreaded Sunday Steam Beer,AMBER LAGER,1999.0,No. 2112 California lager yeast,No. 2112 California lager yeast,,,60.0,40.0,80
+913,Beast Mauler Tripel,BELGIAN ALE,2005.0,Wyeast 3787 Belgian Trappist Yeast,Wyeast 3787 Belgian Trappist Yeast,Wyeast,3787,72.0,,0
+914,Easter Quad,BELGIAN ALE,,WLP530 Abbey Ale,WLP530 Abbey Ale,White Labs,,63.0,63.0,10
+915,Matt’s Flanders Brown Ale,BROWN ALE,2001.0,Wyeast 1388 Belgian Strong,Wyeast 1388 Belgian Strong,Wyeast,,68.0,68.0,187
+916,AG24 Oktoberfest,OKTOBERFEST,2012.0,Wyeast 2206 Bavarian Lager,Wyeast 2206 Bavarian Lager,Wyeast,,62.0,,53
+917,Anchor Steam Clone,Amber Lager,2003.0,San Francisco or California lager yeast,San Francisco or California lager yeast,White Labs / Wyeast,WLP810 / 2112,60.0,,7
+918,Joe’s Tripel,BELGIAN ALE,2013.0,WLP500 Trappist Ale,WLP500 Trappist Ale,White Labs,,70.0,64.0,21
+919,Portlandmunder X,HELLES,2014.0,WLP815 Belgian lager,WLP815 Belgian lager,White Labs,,53.0,,48
+920,AOK,PILSNER,2014.0,Wyeast 2007 Pilsen Lager,Wyeast 2007 Pilsen Lager,Wyeast,,50.0,,28
+921,Rodtoberfest,AMBER LAGER,2014.0,WLP833 German Bock lager yeast,WLP833 German Bock lager yeast,White Labs,WLP833,48.0,58.0,77
+922,Michael’s Dunkel,DARK LAGER,2014.0,WLP833 German Bock lager yeast,WLP833 German Bock lager yeast,,,48.0,,14
+923,Schmitten Doppelbock,BOCK,2014.0,WLP833 German Bock lager yeast,WLP833 German Bock lager yeast,,,50.0,,30
+924,Pat’s RIP’n Kölsch,HYBRID BEER,2014.0,K\u00f6lsch yeast,K\u00f6lsch yeast,,,,,0
+925,Neue Altbier,ALTBIER,2014.0,German Ale yeast,German Ale yeast,Wyeast,1007,61.0,35.0,71
+926,Fully Monty British Ale,ENGLISH PALE ALE,2014.0,London Ale yeast,London Ale yeast,Wyeast,1028,68.0,68.0,28
+927,Way Off Kilter,Amber Ale,2014.0,Scottish ale yeast,Scottish Ale,Wyeast,1728,67.0,67.0,14
+928,Big Brown Ale,AMERICAN BROWN ALE,2014.0,American ale yeast,Chico/US-05 (American Ale),Wyeast,1056,68.0,65.0,21
+929,Mister Manners,BROWN ALE,2014.0,Wyeast 1968 London ale yeast,Wyeast 1968 London ale yeast,Wyeast,1968,68.0,72.0,11
+930,Baltic Porter 13,BALTIC PORTER,2014.0,WLP833 German Bock lager yeast,WLP833 German Bock lager yeast,White Labs,,50.0,50.0,617
+931,Rob’s Oatmeal Stout,OATMEAL STOUT,2014.0,WLP002 English ale yeast,WLP002 English ale yeast,White Labs,,68.0,,14
+932,Hop-Fu! IPA,IMPERIAL / DOUBLE IPA,2014.0,WLP001 California Ale yeast,WLP001 California Ale yeast,Wyeast,,67.0,67.0,14
+933,Yyy’s Man Says,BOCK,2014.0,WLP380 Hefeweizen IV ale yeast,WLP380 Hefeweizen IV ale yeast,,,68.0,65.0,191
+934,Brett Strawberry Farmhouse,BELGIAN ALE,2014.0,Farmhouse ale yeast,Farmhouse ale yeast,Wyeast,3726,74.0,70.0,81
+935,Red Headed Stranger,FLANDERS RED,2014.0,Wyeast 1056 American Ale yeast,Chico/US-05 (American Ale),Wyeast,1056,64.0,62.0,187
+936,Evil Beavr,BELGIAN ALE,2014.0,WLP500 Trappist ale yeast,WLP500 Trappist ale yeast,White Labs,WLP500,66.0,74.0,24
+937,Bellanio Farms,BARLEYWINE,2014.0,Wyeast yeast nutrient,Wyeast yeast nutrient,Wyeast,,65.0,65.0,125
+938,Razz-Ma-Tazz,CHOCOLATE BEER,2014.0,Irish ale yeast,Irish ale yeast,,WLP004,68.0,,9
+939,Hop Canyon Habanero IPA,IPA,2014.0,WLP 001 American ale yeast,WLP 001 American ale yeast,,,64.0,68.0,28
+940,Rauch Me Baby!,RAUCHBIER,2014.0,Wyeast 2124 Bohemian lager yeast,Wyeast 2124 Bohemian lager yeast,Wyeast,2124,50.0,,9
+941,Emily,COFFEE BEER,2014.0,Wyeast 1028 London ale yeast,Wyeast 1028 London ale yeast,Wyeast,1028,66.0,,66
+942,Tupelo Mead,STANDARD MEAD,2014.0,Lalvin 71B-1122,Lalvin 71B-1122,,,68.0,,14
+943,2 Mead,FRUIT MEAD,2014.0,Lalvin 71B-1122,Lalvin 71B-1122,,71B-1122,,,15
+944,Chjateau Fletty arcs-en-ciels et les Licrones,EXPERIMENTAL MEAD,2014.0,Cross Evolution,Cross Evolution,,,,,0
+945,Bartlett Perry,STANDARD CIDER & PERRY,2014.0,Lalvin DV-10,Lalvin DV-10,,,,,0
+946,Sweet Heat,SPECIALTY CIDER & PERRY,2014.0,Red Star Cote des Blancs,Red Star Cote des Blancs,,,,55.0,124
+947,Springside Armenian Dunkel,DARK LAGER,2006.0,German-style lager yeast,German-style lager yeast,,,55.0,,35
+948,Saison de Craisin,BELGIAN ALE,2002.0,/,/,,,75.0,,0
+949,Bon-Bon Kölsch,HYBRID BEER,,California Ale yeast,California Ale yeast,WLP001,,68.0,,35
+950,Dubbel Your Pleasure,BELGIAN ALE,2011.0,Wyeast 3787 Trappist High Gravity Yeast,Wyeast 3787 Trappist High Gravity Yeast,Wyeast,3787,64.0,,20
+951,Summer Time American Wheat Wine,AMERICAN WHEAT,2007.0,California Ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,,,0
+952,Regal Pale Ale,AMERICAN PALE ALE,2013.0,/,/,,,67.0,68.0,18
+953,Mike’s Belgian Saison,BELGIAN ALE,2005.0,WLP565 or Wyeast 3724,WLP565 or Wyeast 3724,,,75.0,,14
+954,Peanut Butter Jelly Time,SPICE & HERB BEER,,WLP002 English Ale,WLP002 English Ale,,,,,0
+955,Gluten-Free Chestnut Beer,,2012.0,Windsor Ale Yeast,Windsor Ale Yeast,Lallemand,,,,0
+956,Bosmo’s Imperial Cream Ale,CREAM ALE,2008.0,White Labs WLP001 California Ale Yeast,White Labs WLP001 California Ale Yeast,White Labs,,62.0,45.0,25
+957,Russian River HopTime Harvest Ale Clone,AMERICAN IPA,2001.0,California Ale Yeast,Chico/US-05 (American Ale),White Labs,WLP001,,,0
+958,Cucurbita Pepo (Pumpkin Ale),PUMPKIN BEER,2001.0,Ale yeast,Ale yeast,,,68.0,,21
+959,Saison Du Mont,BELGIAN ALE,2009.0,Belgian Saison Yeast,Belgian Saison Yeast,Wyeast or White Labs,3724 or WLP550,76.0,76.0,14
+960,Hoegaarden White Clone,BELGIAN ALE,2011.0,Wyeast 3944 Belgian Witbier yeast,Wyeast 3944 Belgian Witbier yeast,Wyeast,3944,68.0,68.0,19
+961,German Pils,GERMAN PILSNER,2013.0,2308 Munich Lager,2308 Munich Lager,Wyeast,2308,48.0,30.0,88
+962,A Festbier For the Rest Of Us,AMBER LAGER,2013.0,Wyeast 2633 Oktoberfest Blend lager yeast,Wyeast 2633 Oktoberfest Blend lager yeast,Wyeast,2633,50.0,34.0,106
+963,Black Dog Lager,DARK LAGER,2013.0,Wyeast 2124 Bohemian Lager,Wyeast 2124 Bohemian Lager,Wyeast,2124,47.0,,37
+964,Maibock,BOCK,2013.0,Wyeast 2308 Munich lager,Wyeast 2308 Munich lager,Wyeast,,50.0,35.0,34
+965,Wheat Heavy,AMERICAN WHEAT,2013.0,1010 American Wheat,1010 American Wheat,Wyeast,,62.0,,14
+966,Rauch Katze,ALTBIER,2013.0,WLP036 Dusseldorf Alt,WLP036 Dusseldorf Alt,White Labs,WLP036,58.0,,21
+967,Ol’ Bitter Bastard,ENGLISH PALE ALE,2013.0,West Yorkshire ale yeast,West Yorkshire ale yeast,Wyeast,1469,65.0,,21
+968,Russell’s Scottish 80,AMBER ALE,2013.0,California Ale (WLP001),Chico/US-05 (American Ale),White Labs,WLP001,67.0,,14
+969,Regal Pale Ale,AMERICAN PALE ALE,2013.0,California ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,67.0,68.0,18
+970,Country Mild,BROWN ALE,2013.0,WLP007 English ale yeast,WLP007 English ale yeast,White Labs,,70.0,,9
+971,Scooter’s Lager,BALTIC PORTER,2013.0,WLP833 Bock,WLP833 Bock,White Labs,WLP833,56.0,35.0,36
+972,Split Open and Melt,IMPERIAL STOUT,2013.0,California ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,67.0,,0
+973,Pike Ale,AMERICAN IPA,2013.0,California ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,64.0,,26
+974,El Hefe (2013),HEFEWEIZEN,2013.0,Wyeast 3068 Weihenstephan Weizen ale yeast,Wyeast 3068 Weihenstephan Weizen ale yeast,Wyeast,3068,62.0,,9
+975,Soma,BELGIAN ALE,2013.0,Belgian Saison and French Saison blend,Belgian Saison and French Saison blend,Wyeast,3724/3711,80.0,56.0,31
+976,Jam Out… Peach Lambic,FRUIT BEER,2013.0,B. Lambicus,B. Lambicus,Wyeast,,,,0
+977,Tripel,BELGIAN ALE,2013.0,WLP500 Trappist Ale,WLP500 Trappist Ale,White Labs,WLP500,70.0,64.0,21
+978,2010 Barleywine,BARLEYWINE,2013.0,Wyeast 1056 American Ale,Chico/US-05 (American Ale),Wyeast,1056,68.0,,30
+979,Fruity McFruitFruit,FRUIT BEER,2013.0,Southern German Lager,Southern German Lager,White Labs,WLP838,48.0,36.0,35
+980,Scott’s Nutty Brown Ale,BROWN ALE,2013.0,London Ale,London Ale,White Labs,WLP013,65.0,,7
+981,Slightly Smoked Helles,HELLES,2013.0,Wyeast 2206 Bavarian lager yeast,Wyeast 2206 Bavarian lager yeast,Wyeast,2206,50.0,34.0,49
+982,Sto-Lat!,HISTORICAL BEER,2013.0,WLP029 German Ale/K\u00f6lsch yeast,WLP029 German Ale/K\u00f6lsch yeast,White Labs,,65.0,30.0,28
+983,OB Mead,STANDARD MEAD,2013.0,Lalvin 71B-1122,Lalvin 71B-1122,,,,,0
+984,Key Lime Mead,FRUIT MEAD,2013.0,Lalvin 71B-1122,Lalvin 71B-1122,Lallemand,,66.0,60.0,120
+985,SRB Mead,FRUIT MEAD,2013.0,Lalvin 71-B,Lalvin 71-B,,,100.0,,0
+986,Northern Lights Cider,STANDARD CIDER & PERRY,2013.0,English cider yeast,English cider yeast,White Labs,,64.0,,12
+987,Jalapeño Cider,SPECIALTY CIDER & PERRY,2013.0,Lalvin 71B-1122,Lalvin 71B-1122,,,63.0,63.0,74
+988,Cranberry “Lambic”,FRUIT BEER,1995.0,No. 3056 Bavarian Wheat ale,No. 3056 Bavarian Wheat ale,Wyeast,,65.0,65.0,24
+989,Pointon Proper,BROWN ALE,2012.0,Wyeast 1768 English Special Bitter,Wyeast 1768 English Special Bitter,Wyeast,1768,68.0,,2
+990,More Fun Blonde Ale,BLONDE ALE,2013.0,,,,,,,14
+991,Wheat ‘n’ Berry Ale,FRUIT BEER,1995.0,Rogue ale yeast,Rogue ale yeast,,,68.0,,30
+992,Jaggery Pale Ale,AMERICAN PALE ALE,,English Ale Yeast,English Ale Yeast,,,,,0
+993,Deck-Head Stout,IRISH STOUT,,Irish ale yeast,Irish ale yeast,Wyeast,1084,63.0,63.0,15
+994,Trigo Oscuro,DUNKELWEIZEN,,WLP300 Hefeweizen Ale,WLP300 Hefeweizen Ale,White Labs,,62.0,,0
+995,Addicted Coffee Stout,COFFEE BEER,2012.0,White Labs 001 or Wyeast 1056,White Labs 001 or Wyeast 1056,,,68.0,,0
+996,Brasserie Grain d’Orge,BELGIAN ALE,,Scottish Ale yeast,Scottish Ale,Wyeast,1728,70.0,,4
+997,Chai Tea Brown Ale,BROWN ALE,,WLP002,WLP002,White Labs,,67.0,,0
+998,Saison d’Hiver,BELGIAN ALE,2008.0,", Wyeast 3711 French Saison, Wyeast 3724 Belgian Saison, Wyeast 3725 Biere de Garde, Wyeast 3726 Farmhouse Ale, WLP565 Belgian Saison, WLP566 Belgian Saison II, WLP568 Belgian Saison Blend",", Wyeast 3711 French Saison, Wyeast 3724 Belgian Saison, Wyeast 3725 Biere de Garde, Wyeast 3726 Farmhouse Ale, WLP565 Belgian Saison, WLP566 Belgian Saison II, WLP568 Belgian Saison Blend",,,,,0
+999,Raspberry Basil Porter Aged on Palo Santo Wood,Baltic Porter,2008.0,English ale yeast,English ale yeast,,,,,21
+1000,Mein Nelson Sauvin,BOCK,,"Schneider yeast, from propagation tank; Belgian yeast, 0.5 L/hL","Schneider yeast, from propagation tank; Belgian yeast, 0.5 L/hL",,,61.0,,7
+1001,Big Basin Amber Ale,AMBER ALE,,Wyeast 1332 Northwest Ale,Wyeast 1332 Northwest Ale,Wyeast,1332,65.0,,10
+1002,Crabapple Lambicky Ale,FRUITED SOUR,,Ale yeast (Belgian or otherwise),Ale yeast (Belgian or otherwise),,,,,0
+1003,Trick or Treat Bock,BOCK,,WLP300 Hefeweizen Ale or Wyeast 3068 Weihenstephan Weizen,WLP300 Hefeweizen Ale or Wyeast 3068 Weihenstephan Weizen,,,62.0,,0
+1004,Punkin Head,PUMPKIN BEER,,White Labs WLP002 English Ale,White Labs WLP002 English Ale,White Labs,WLP002,68.0,,28
+1005,I See Your Schwartz Is As Big As Mine,DARK LAGER,,Wyeast 2124 Bohemian Lager,Wyeast 2124 Bohemian Lager,Wyeast,,50.0,65.0,16
+1006,Before Capone,AMERICAN PILSNER,2011.0,Wyeast 2035 American lager yeast,Wyeast 2035 American lager yeast,Wyeast,2035,50.0,,14
+1007,Potato Vacation Beer,SPICE & HERB BEER,2004.0,"Various Wyeast, White Labs options","Various Wyeast, White Labs options",,,,,26
+1008,Ettonante,BELGIAN ALE,2001.0,Belgian Trappist ale,Belgian Trappist ale,Wyeast,3787,65.0,66.0,36
+1009,Big Ass Barleywine,BARLEYWINE,2005.0,WLP 001 American ale yeast,WLP 001 American ale yeast,White Labs,,65.0,67.0,42
+1010,Sitzung Helles,HELLES,2012.0,Wyeast No. 2308 Munich lager yeast,Wyeast No. 2308 Munich lager yeast,Wyeast,2308,48.0,,42
+1011,Barky Pilsner,GERMAN PILSNER,2012.0,WLP830 German lager yeast,WLP830 German lager yeast,White Labs,,50.0,35.0,51
+1012,Pam’s Vienna,AMBER LAGER,2012.0,Wyeast 2124 Bohemian lager yeast,Wyeast 2124 Bohemian lager yeast,Wyeast,2124,50.0,40.0,74
+1013,Endless Mountains Sour Summer Ale,BELGIAN ALE,2012.0,White Labs WLP057 Belgian Style Ale yeast,White Labs WLP057 Belgian Style Ale yeast,White Labs,WLP057,75.0,65.0,0
+1014,Stephen & Hayley's Winter Warmer 2011,BELGIAN ALE,2012.0,Wyeast 3739 Flanders Golden ale,Wyeast 3739 Flanders Golden ale,Wyeast,3739,68.0,80.0,5
+1015,Old Ball and Chain,OLD ALE,2012.0,Wyeast 1098 British ale yeast,Wyeast 1098 British ale yeast,Wyeast,1098,68.0,,14
+1016,Koko’s Nut Stout,FRUIT BEER,2012.0,London Ale III,London Ale III,Wyeast,1318,68.0,,8
+1017,Hibiscus Sauvante,SPICE & HERB BEER,2012.0,ECY08,ECY08,,,,,21
+1018,Black Friday Stout,IMPERIAL STOUT,2012.0,1056 Chico ale yeast,1056 Chico ale yeast,Wyeast,,65.0,,21
+1019,Urban UFO,IPA,2012.0,1056 Chico ale yeast,Chico/US-05 (American Ale),Wyeast,1056,65.0,65.0,26
+1020,OB Trad,STANDARD MEAD,2012.0,sweet mead yeast,sweet mead yeast,,,,,90
+1021,Strawberry Tupelo,FRUIT MEAD,2012.0,Lavin 71-B Dry Yeast,Lavin 71-B Dry Yeast,,,,,21
+1022,Rhubarb Mead,HERB & SPICE MEAD,2012.0,Lavlin 71-B,Lavlin 71-B,,,,,42
+1023,2011 Honeycrisp Celebration,STANDARD CIDER & PERRY,2012.0,WLP775 English Cider yeast,WLP775 English Cider yeast,White Labs,WLP775,,,0
+1024,SaraSodi Cider,NEW ENGLAND CIDER,2012.0,English Cider yeast,English Cider yeast,White Labs,775,67.0,,28
+1025,Poor Richard’s Ale,HISTORICAL BEER,,White Labs WLP002 or Wyeast 1968 or White Labs WLP 028 or Wyeast 1728,White Labs WLP002 or Wyeast 1968 or White Labs WLP 028 or Wyeast 1728,,,,,0
+1026,Dragon’s Milk October Beer,OLD ALE,,Any alcohol tolerant English ale strain,Any alcohol tolerant English ale strain,Wyeast,1028 London Ale,,,0
+1027,Ray Spangler’s Pumpkin Spice Beer,PUMPKIN BEER,,1056 American Ale Yeast,Chico/US-05 (American Ale),Wyeast,1056,,,0
+1028,Dark Night Tangerine Porter,FRUIT BEER,,Wyeast 1214 Belgian Ale Yeast,Wyeast 1214 Belgian Ale Yeast,Wyeast,1214,,,0
+1029,Viking Gold,HELLES,2011.0,Wyeast No. 2206 Bavarian Lager,Wyeast No. 2206 Bavarian Lager,Wyeast,2206,50.0,35.0,18
+1030,Stop Looking for Malt Complexity in Pilsners,CZECH / BOHO PILS,2011.0,"Wyeast 2278, White Labs WLP820 blend","Wyeast 2278, White Labs WLP820 blend",Wyeast and White Labs,,45.0,33.0,168
+1031,Vienna Lager,AMBER LAGER,2011.0,Munich Lager yeast,Munich Lager yeast,Wyeast,2308,45.0,,10
+1032,Black Saxon,DARK LAGER,2011.0,Fermentis S-23,Fermentis S-23,,,54.0,50.0,28
+1033,Tri-Paul-Bock,BOCK,2011.0,WLP833 German Bock yeast,WLP833 German Bock yeast,,,35.0,,90
+1034,$12 Cream Ale,CREAM ALE,2011.0,California Ale V,California Ale V,White Labs,WLP051,60.0,,21
+1035,Daily Bread German Ale,ALTBIER,2011.0,German Ale/Kolsch,German Ale/Kolsch,White Labs,WLP029,65.0,40.0,29
+1036,ESB,ENGLISH PALE ALE,2011.0,English ale yeast,English ale yeast,White Labs,WLP002,68.0,70.0,7
+1037,Brown-Eyed Woman,AMBER ALE,2011.0,WLP028 Edinburgh Scottish ale,WLP028 Edinburgh Scottish ale,,,65.0,,0
+1038,Amber Waves of Grain,AMBER ALE,2011.0,California ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,68.0,,10
+1039,Northern English Brown Ale,BROWN ALE,2011.0,English ale yeast,English ale yeast,White Labs,WLP002,68.0,38.0,28
+1040,Dreaded Robust Porter,BALTIC PORTER,2011.0,California ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,67.0,67.0,21
+1041,Badenov Russian Imperial Stout,IMPERIAL STOUT,2011.0,Scottish ale yeast,Scottish Ale,Wyeast,1728,,,0
+1042,Tsunami IPA,AMERICAN IPA,2011.0,Pacman ale yeast,Pacman ale yeast,Wyeast,1764,65.0,70.0,22
+1043,Roggen (2011),ROGGENBIER,2011.0,WLP 380 Weihenstephan IV ale yeast,WLP 380 Weihenstephan IV ale yeast,White Labs,,65.0,,0
+1044,Shane’s Witbier,BELGIAN ALE,2011.0,WLP500 Trappist and WLP530 Abbey ale yeast,WLP500 Trappist and WLP530 Abbey ale yeast,White Labs,,65.0,,65
+1045,You Snooze You Gueuze,GUEUZE,2011.0,Wyeast 1056 American Ale,Chico/US-05 (American Ale),Wyeast,1056,,,0
+1046,Chimayo Azul,BELGIAN ALE,2011.0,WLP 500 Trappist ale yeast,WLP 500 Trappist ale yeast,White Labs,,68.0,,2
+1047,Neural Rust,Barleywine,2011.0,California Ale WLP001,Chico/US-05 (American Ale),White Labs,WLP001,70.0,66.0,42
+1048,Hop Fruity,AMERICAN PALE ALE,2011.0,No. 1272 American Ale II,No. 1272 American Ale II,Wyeast,1272,68.0,,0
+1049,Stef’s Olive Beer,SPICE & HERB BEER,2011.0,No. 1056 Chico ale yeast,Chico/US-05 (American Ale),Wyeast,1056,,,17
+1050,Smoke Screen,RAUCHBIER,2011.0,Octoberfest lager yeast blend,Octoberfest lager yeast blend,Wyeast,2633,48.0,,48
+1051,Urban UFO,BARLEYWINE,2011.0,Super High Gravity ale yeast starter,Super High Gravity ale yeast starter,White Labs,,68.0,,0
+1052,Tupelo Mead,STANDARD MEAD,2011.0,Wyeast Sweet Mead yeast,Wyeast Sweet Mead yeast,,,60.0,,240
+1053,Adore,FRUIT MEAD,2011.0,Lalvin D-47,Lalvin D-47,,,,,0
+1054,Blasphemy at Gobblers Roost,CYSER / APPLE MEAD,2011.0,EC-1118 yeast,EC-1118 yeast,,,,,0
+1055,Squirt’s Perry,STANDARD CIDER & PERRY,2011.0,BA-11 yeast,BA-11 yeast,,,64.0,,21
+1056,Eve’s Demise,SPECIALTY CIDER & PERRY,2011.0,Wyeast Cider yeast,Wyeast Cider yeast,,,,,0
+1057,Rogerfest Cherry Wood Lager,AMBER LAGER,2009.0,White Labs Cry Havoc lager yeast,White Labs Cry Havoc lager yeast,White Labs,,55.0,,7
+1058,Hop Woo IPA+,IMPERIAL / DOUBLE IPA,2010.0,US-05 or WLP001 or Wyeast Chico Ale,US-05 or WLP001 or Wyeast Chico Ale,,,,,0
+1059,Eisbock,BOCK,,Wyeast 2124 Bohemian Lager,Wyeast 2124 Bohemian Lager,Wyeast,2124,,,0
+1060,Framboise,FRUITED SOUR,,Wyeast 1968 London ESB Yeast,Wyeast 1968 London ESB Yeast,Wyeast,1968,,,1460
+1061,Marzen,AMBER LAGER,,WLP 830 German lager yeast,WLP 830 German lager yeast,White Labs,WLP830,52.0,34.0,210
+1063,Classic American Pilsner,AMERICAN PILSNER,,WLP810 San Francisco lager yeast,WLP810 San Francisco lager yeast,White Labs,,57.0,57.0,33
+1064,Grey Skies Porter,BALTIC PORTER,,Wyeast 1318,Wyeast 1318,Wyeast,1318,,,0
+1065,Rose’s Russian Imperial Stout,IMPERIAL STOUT,1992.0,Red Star champagne yeast,Red Star champagne yeast,,,65.0,63.0,37
+1066,Buffalo Pass Brown Ale,AMERICAN BROWN ALE,1995.0,1056 American ale yeast,Chico/US-05 (American Ale),Wyeast,1056,62.0,52.0,21
+1067,461 Dortmunder Export,HELLES,2010.0,WLP830,WLP830,White Labs,WLP830,52.0,,23
+1068,BoPils,CZECH / BOHO PILS,2010.0,Wyeast No. 2001 lager yeast starter,Wyeast No. 2001 lager yeast starter,Wyeast,,55.0,33.0,44
+1069,Maerzen,AMBER LAGER,2010.0,German Bock lager yeast,German Bock lager yeast,White Labs,WLP833,50.0,35.0,56
+1070,Tara’s Slam Dunkel,DARK LAGER,2010.0,Wyeast No. 2206 Bavarian lager yeast,Wyeast No. 2206 Bavarian lager yeast,Wyeast,2206,55.0,41.0,35
+1071,Isebock,BOCK,2010.0,WLP838 Southern German Lager yeast,WLP838 Southern German Lager yeast,,,,,0
+1072,Helios Kölsch,HYBRID BEER,2010.0,Wyeast No. 2565 Kolsch yeast,Wyeast No. 2565 Kolsch yeast,Wyeast,2565,60.0,50.0,95
+1073,NJ Steam 143,AMBER LAGER,2010.0,SafAle K-97 Dry Yeast,SafAle K-97 Dry Yeast,,,58.0,59.0,37
+1074,Guvnah,ENGLISH PALE ALE,2010.0,European ale yeast starter,European ale yeast starter,White Labs,WLP 011,66.0,,0
+1075,Scotch Bingerson’s Rehydration Fluid,AMBER ALE,2010.0,Wyeast 1728 Scottish Ale yeast,Scottish Ale,Wyeast,1728,68.0,,0
+1076,Opening Day Pale Ale,AMERICAN PALE ALE,2010.0,No. 1056 ale yeast,No. 1056 ale yeast,Wyeast,,64.0,,7
+1077,Thomas Toes Mild,Brown Ale,2010.0,WLP002,WLP002,White Labs,,66.0,,7
+1078,Raspberry Blossom Mead,STANDARD MEAD,2010.0,Lalvin 71B (Narbonne),Lalvin 71B (Narbonne),,,70.0,,14
+1079,Apple Juiced!,CYSER / APPLE MEAD,2010.0,White Labs WLP 720 Sweet Mead Yeast,White Labs WLP 720 Sweet Mead Yeast,White Labs,WLP720,70.0,68.0,731
+1080,Cinnamon-Vanilla Metheglin,HERB & SPICE MEAD,2010.0,VL3C yeast,VL3C yeast,,,68.0,,0
+1081,Stephan and Mark’s Apple Cider,STANDARD CIDER & PERRY,2010.0,White Labs English Cider Yeast,White Labs English Cider Yeast,,,,,21
+1082,Anjie’s Applewine,SPECIALTY CIDER & PERRY,2010.0,Lalvin 1118 Champagne,Lalvin 1118 Champagne,Lallemand,,,,42
+1083,O’bama-lot,AMERICAN LAGER,2009.0,No. 2007 Pilsen lager,No. 2007 Pilsen lager,Wyeast,,50.0,,28
+1084,Steve’s Classic American Pilsner,PILSNER,2009.0,Southern German lager yeast,Southern German lager yeast,White Labs,,50.0,33.0,168
+1085,Oktoberfest Hallertau,OKTOBERFEST,2009.0,WLP 820 Oktoberfest lager yeast,WLP 820 Oktoberfest lager yeast,White Labs,,52.0,32.0,61
+1086,Brian’s Eisbock,BOCK,2009.0,Wyeast No. 2124 Bohemian lager yeast,Wyeast No. 2124 Bohemian lager yeast,Wyeast,,48.0,32.0,60
+1087,"Bye Bye, Miss American Rye",WHEAT & RYE BEER,2009.0,No. 2565 Kolsch yeast,No. 2565 Kolsch yeast,Wyeast,,60.0,,21
+1088,Michael’s Dusseldorf Alt,ALTBIER,2009.0,No. 1056 American ale yeast,Chico/US-05 (American Ale),Wyeast,1056,60.0,34.0,44
+1089,Janet’s Brown Ale,AMERICAN BROWN ALE,2004.0,White Labs WLP001,White Labs WLP001,White Labs,,68.0,70.0,16
+1090,Wewahitchka Special Reserve,SEMI-SWEET MEAD,2009.0,Enoferm ICV-D47,Enoferm ICV-D47,Lallemand,,,36.0,90
+1091,Two Cherry Tupelo Mead,Fruit Mead,2009.0,Lalvin 71B,Lalvin 71B,,,,,637
+1092,Eric’s Mead,FRUIT MEAD,2009.0,Lalvin 71B Narbonne,Lalvin 71B Narbonne,,,70.0,65.0,220
+1093,Jeff’s Common Cider,STANDARD CIDER & PERRY,2009.0,Premier Cuvee Yeast,Premier Cuvee Yeast,,5.0 g,55.0,50.0,150
+1094,Gary’s Cider,NEW ENGLAND CIDER,2009.0,Cotes de Blanc,Cotes de Blanc,,,64.0,64.0,210
+1095,Billy Bob Mississippi Lager,AMERICAN LAGER,2008.0,Wyeast No. 2007 Pilsen lager yeast,Wyeast No. 2007 Pilsen lager yeast,Wyeast,2007,50.0,35.0,42
+1096,Liquid Sunshine,CZECH / BOHO PILS,2008.0,Bohemian Pils lager yeast,Bohemian Pils lager yeast,Wyeast,,45.0,45.0,74
+1097,Jim’s Vienna,AMBER LAGER,2008.0,WLP 830 German lager yeast,WLP 830 German lager yeast,White Labs,,48.0,42.0,70
+1098,Eric’s Munich Dunkel,DARK LAGER,2008.0,German lager yeast,German lager yeast,Wyeast,2206,53.0,34.0,43
+1099,Dave’s Bock,BOCK,2008.0,Wyeast No. 2206 Bavarian lager yeast,Wyeast No. 2206 Bavarian lager yeast,,2206,48.0,32.0,70
+1100,Kari’s Cream Ale,CREAM ALE,2008.0,California ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,64.0,,12
+1101,SummersALT,ALTBIER,2008.0,No. 1056 American ale yeast,No. 1056 American ale yeast,Wyeast,,60.0,60.0,18
+1102,Kevin’s Standard Bitter,ENGLISH PALE ALE,2008.0,London ale III,London ale III,Wyeast,1318,68.0,68.0,22
+1103,"If It Ain’t Scottish, It’s Crap!",AMBER ALE,2008.0,Edinburgh ale yeast,Scottish Ale,White Labs,WLP028,67.0,67.0,57
+1104,Lara Pale Ale (2008),AMERICAN PALE ALE,2008.0,English ale yeast,English ale yeast,,,68.0,67.0,28
+1105,Nutty Professor Ale,BROWN ALE,2008.0,British ale yeast,British ale yeast,Wyeast,1098,68.0,,9
+1106,Paul’s Robust Porter,BALTIC PORTER,2008.0,California ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,68.0,,14
+1107,Fostag Stout,AMERICAN STOUT,2008.0,California ale yeast,Chico/US-05 (American Ale),White Labs,WLP001,68.0,65.0,10
+1108,Pliny the Elder Clone,AMERICAN IPA,2008.0,Safale VS-05,Safale VS-05,,,64.0,64.0,19
+1109,England-Weizen,HEFEWEIZEN,2008.0,WLP380 Hefeweizen IV ale yeast,WLP380 Hefeweizen IV ale yeast,White Labs,WLP380,68.0,,10
+1110,100% Brettanomyces,BELGIAN ALE,2008.0,Wyeast B. bruxellensis,Wyeast B. bruxellensis,,,65.0,,45
+1111,Kristen’s Berliner Weisse,BERLINER WEISSE,2008.0,Pannonhalma-Sokor\u00f3alja vad szolo yeast,Pannonhalma-Sokor\u00f3alja vad szolo yeast,,,86.0,,3
+1112,Have a Nice Tripel,BELGIAN ALE,2008.0,Wyeast No. 1214 Belgian ale yeast,Wyeast No. 1214 Belgian ale yeast,Wyeast,No. 1214,66.0,70.0,28
+1113,Cheap Leather Jackety Barley Wine,BARLEYWINE,2008.0,Pisgah Brewery ale yeast slurry,Pisgah Brewery ale yeast slurry,,,70.0,70.0,40
+1114,It’s All Mine So Keep Back Berliner Weisse,BERLINER WEISSE,2008.0,Wyeast No. 3191 Berliner Weisse ale yeast blend,Wyeast No. 3191 Berliner Weisse ale yeast blend,Wyeast,3191,70.0,70.0,55
+1115,Paul’s American Wheat Ale with Lemon,AMERICAN WHEAT,2008.0,American Wheat ale yeast,American Wheat ale yeast,Wyeast,No. 1010,66.0,66.0,23
+1116,Burnin’ Down the House,BOCK,2008.0,WLP380 Hefeweizen IV ale yeast,WLP380 Hefeweizen IV ale yeast,White Labs,WLP380,64.0,,0
+1117,Ben Franklin’s Ale,HISTORICAL BEER,2008.0,English ale yeast,English ale yeast,White Labs,WLP002,72.0,,0
+1118,Brewer Brian’s Orange Blossom Mead aka Batch #93 1/2,SEMI-SWEET MEAD,2008.0,Wyeast No 2206 Bavarian lager yeast,Wyeast No 2206 Bavarian lager yeast,Wyeast,2206,72.0,72.0,82
+1120,Not Mary Ann,HERB & SPICE MEAD,2008.0,71B1122,71B1122,,,,,0
+1121,Westside Cider,STANDARD CIDER & PERRY,2008.0,Wyeast No. 4166 Cider yeast,Wyeast No. 4166 Cider yeast,Wyeast,4166,60.0,50.0,141
+1122,Cheater’s Cherries,FRUIT CIDER & PERRY,2008.0,Lalvin 71B Narbonne,Lalvin 71B Narbonne,Lalvin,71B Narbonne,,,0
+1123,Kristen and Orsolya’s Munich Helles,HELLES,2007.0,Wyeast No. 2308 Munich lager yeast,Wyeast No. 2308 Munich lager yeast,Wyeast,2308,50.0,60.0,31
+1124,Greg and Liz’s Pilsner,PILSNER,2007.0,San Francisco lager yeast,San Francisco lager yeast,White Labs,WLP810,57.0,57.0,33
+1125,Saison d’Ete,BELGIAN ALE,2007.0,WLP 565 Saison ale yeast,WLP 565 Saison ale yeast,White Labs,WLP 565,70.0,70.0,23
+1126,Jamil’s Flanders Red,FLANDERS RED,2007.0,California ale yeast,California ale yeast,,,,,0
+1127,John5s Belgian Dark Strong,BELGIAN ALE,2007.0,WLP 500 Trappist ale yeast,WLP 500 Trappist ale yeast,White Labs,WLP500,70.0,70.0,47
+1128,Old Blood & Guys – California,BARLEYWINE,2007.0,California ale yeast,California ale yeast,White Labs,WLP 001,70.0,70.0,26
+1129,Summer Breeze,AMERICAN WHEAT,2007.0,WLP 320 American Hefeweizen ale yeast,WLP 320 American Hefeweizen ale yeast,White Labs,WLP 320,68.0,,8
+1130,Mild Jalape,AMBER ALE,2007.0,WLP 007 Dry English ale yeast,WLP 007 Dry English ale yeast,White Labs,WLP007,65.0,65.0,21
+1131,Dare to Roeselare,FLANDERS RED,2007.0,Wyeast No. 3763 Roeselare blend yeast,Wyeast No. 3763 Roeselare blend yeast,Wyeast,3763,69.0,69.0,530
+1132,Richard’s Chipotle Pepper Bock,BOCK,2007.0,Bavarian lager yeast,Bavarian lager yeast,Wyeast,2206,,,0
+1133,Orange Blossom Mead,SEMI-SWEET MEAD,2007.0,Lalvin D-47,Lalvin D-47,,,64.0,64.0,100
+1134,Chateau Fletty Barrel Select,FRUIT MEAD,2007.0,Rudesheimer wine yeast,Rudesheimer wine yeast,Wyeast,3783,68.0,68.0,94
+1135,Mixed Breed Beauty,HERB & SPICE MEAD,2007.0,Prise de Mousse,Prise de Mousse,,10 g,,,0
+1136,Joseph’s English Cider,ENGLISH CIDER,2007.0,Premier Cuvee,Premier Cuvee,,,,,0
+1138,Champagne Lager,AMERICAN LAGER,2006.0,California lager yeast,California lager yeast,Wyeast,No. 2112,62.0,68.0,17
+1139,Drei Liebchen Deutsche Pils,GERMAN PILSNER,2006.0,WLP 802 Czech Budejovice lager yeast,WLP 802 Czech Budejovice lager yeast,White Labs,,50.0,40.0,46
+1140,Oface Ofest,OKTOBERFEST,2006.0,WLP 833 German Bock lager,WLP 833 German Bock lager,White Labs,WLP 833,,,0
+1141,Jonathon’s Dark Lager,DARK LAGER,2006.0,WLP 833 German Bock lager,WLP 833 German Bock lager,White Labs,,56.0,40.0,35
+1142,Dominator,BOCK,2006.0,Wyeast No. 2206 Bavarian lager yeast,Wyeast No. 2206 Bavarian lager yeast,Wyeast,2206,50.0,40.0,51
+1143,Ted’s Cream Ale,CREAM ALE,2006.0,No. 2112 California Lager,No. 2112 California Lager,Wyeast,,55.0,32.0,150
+1144,Bob’s Bitter,ENGLISH PALE ALE,2006.0,Wyeast No. 1099 Whitbread ale yeast starter,Wyeast No. 1099 Whitbread ale yeast starter,,1099,70.0,68.0,21
+1145,Sand Hill Scottie,AMBER ALE,2006.0,Scottish ale yeast,Scottish Ale,Wyeast,1728,68.0,,21
+1146,Drunk Monk Pale Ale,AMERICAN PALE ALE,2006.0,English ale yeast,English ale yeast,White Labs,WLP 002,65.0,65.0,18
+1147,Nut Brown,BROWN ALE,2006.0,London ale yeast III,London ale yeast III,Wyeast,1318,,,14
+1148,Greg and Liz’s Baltic Porter,BALTIC PORTER,2006.0,WLP 810 San Francisco lager yeast,WLP 810 San Francisco lager yeast,White Labs,,68.0,68.0,39
+1149,RIS,IMPERIAL STOUT,2006.0,Scottish ale yeast,Scottish ale yeast,Wyeast,No. 1728,,,0
+1150,Chicken Creek IPA,AMERICAN IPA,2006.0,London ESB ale yeast,London ESB ale yeast,Wyeast,No. 1968,68.0,68.0,12
+1151,Peter Nelson’s RoggenBier,ROGGENBIER,2006.0,WLP300 Hefeweizen ale yeast,WLP300 Hefeweizen ale yeast,White Labs,,66.0,66.0,20
+1152,Tyce’s Wit,BELGIAN ALE,2006.0,WLP 400 Belgian Wit ale yeast,WLP 400 Belgian Wit ale yeast,White Labs,,,,0
+1153,Throwing the Dice Again!,BELGIAN ALE,2006.0,Airborne yeast,Airborne yeast,,,,,0
+1154,Jamil’s Belgian Strong Dark Ale,BELGIAN ALE,2006.0,Belgian Golden ale yeast,Belgian Golden ale yeast,White Labs,WLP 570,,,0
+1155,Jeff’s Old ale,OLD ALE,2006.0,WLP 010 10-year anniversary blend,WLP 010 10-year anniversary blend,White Labs,WLP010,72.0,33.0,261
+1156,Blackberry & Cream,FRUIT BEER,2006.0,Wyeast No. 1056 Chico ale yeast starter,Chico/US-05 (American Ale),Wyeast,1056,65.0,68.0,30
+1157,Vanilla Cream Stout,SPICE & HERB BEER,2006.0,Wyeast No. 1056 Chico ale yeast,Wyeast No. 1056 Chico ale yeast,Wyeast,,64.0,45.0,37
+1158,Jamil’s Classic Rauchbier,RAUCHBIER,2006.0,WLP 838 Southern German lager yeast,WLP 838 Southern German lager yeast,White Labs,WLP 838,,,0
+1159,Garden Gruit,HISTORICAL BEER,2006.0,White Labs WLP 005 British ale yeast,White Labs WLP 005 British ale yeast,White Labs,WLP 005,72.0,72.0,13
+1161,Summer Berry III,FRUIT MEAD,2006.0,Lalvin 1K-1114,Lalvin 1K-1114,,,68.0,68.0,132
+1162,Spruce Tip Love Juice,HERB & SPICE MEAD,2006.0,Sweet Mead yeast,Sweet Mead yeast,,,60.0,60.0,210
+1163,Peach Ridge Cider,FRENCH CIDER,2006.0,Premier Cuvee,Premier Cuvee,,,45.0,34.0,74
+1164,Spiced Cider,SPECIALTY CIDER & PERRY,2006.0,Cote de Blanc,Cote de Blanc,,,70.0,70.0,14
+1165,Golden Era Lager,PILSNER,2005.0,Wyeast No. 2124 Bohemian lager yeast,Wyeast No. 2124 Bohemian lager yeast,,2124,50.0,45.0,28
+1166,Little Vienna,AMBER LAGER,2005.0,lager yeast,lager yeast,,,52.0,,14
+1167,Heilige Helles,BOCK,2005.0,Wyeast No. 2278 Czech Pilsner lager yeast,Wyeast No. 2278 Czech Pilsner lager yeast,Wyeast,2278,50.0,35.0,386
+1168,Summer Kölsch,HYBRID BEER,2005.0,No. 2112 California Lager,No. 2112 California Lager,Wyeast,,63.0,,10
+1169,Ed’s Alt,ALTBIER,2005.0,Wyeast No. 1007 German ale yeast,Wyeast No. 1007 German ale yeast,Wyeast,1007,65.0,60.0,14
+1170,True Brit,ENGLISH PALE ALE,2005.0,London ale yeast,London ale yeast,Wyeast,1028,68.0,68.0,14
+1171,Curt and Kathy’s Scottish 60/-,AMBER ALE,2005.0,Scottish ale yeast (Wyeast No. 1728),Scottish Ale,Wyeast,1728,65.0,68.0,18
+1172,Screaming Viking Pale Ale,AMERICAN PALE ALE,2005.0,American ale yeast,Chico/US-05 (American Ale),Wyeast,1056,64.0,64.0,49
+1173,Jamil’s English Brown,BROWN ALE,2005.0,English ale yeast,English ale yeast,White Labs,WLP 002,,,0
+1174,Black Hills Porter,BALTIC PORTER,2005.0,California ale yeast,California ale yeast,White Labs,,68.0,68.0,34
+1175,Veronica’s Imperial Stout,IMPERIAL STOUT,2005.0,English ale yeast,English ale yeast,White Labs,WLP 002,,,0
+1176,13 Mile IPA,ENGLISH IPA,2005.0,White Labs WLP002 ale yeast,White Labs WLP002 ale yeast,White Labs,,70.0,70.0,24
+1177,Paul’s Hefeweizen,HEFEWEIZEN,2005.0,ale yeast,ale yeast,White Labs,WLP380,65.0,,6
+1178,Brian’s Wit,BELGIAN ALE,2005.0,Belgian Witbier ale yeast,Belgian Witbier ale yeast,Wyeast,No. 3944,68.0,,19
+1179,Oh To Daisy,BELGIAN ALE,2005.0,California ale yeast,Chico/US-05 (American Ale),Wyeast,1056,68.0,70.0,379
+1180,Blunt Trauma,BELGIAN ALE,2005.0,Trappist ale yeast,Trappist ale yeast,White Labs,,65.0,68.0,44
+1181,Arrogant Barrister,BARLEYWINE,2005.0,Wyeast 1056 California ale yeast,Wyeast 1056 California ale yeast,Wyeast,,66.0,50.0,103
+1182,Kölsch Abuse,FRUIT BEER,2005.0,German Bock lager yeast,German Bock lager yeast,,,54.0,54.0,28
+1183,Love Potino #9,IMPERIAL STOUT,2005.0,US-05,Chico/US-05 (American Ale),Wyeast,1056,68.0,72.0,80
+1184,Bellringer,HISTORICAL BEER,2005.0,Lallemand Windsor yeast,Lallemand Windsor yeast,,22 g,68.0,58.0,88
+1185,Mongo Like Candy!,STANDARD MEAD,2005.0,Sweet Mead yeast,Sweet Mead yeast,Wyeast,,72.0,70.0,364
+1186,Pyment (Grape Melomel) with Muscat Grape Juice and Sage Blossom Honey,FRUIT MEAD,2005.0,Lalvin 71-B,Lalvin 71-B,,,,,160
+1187,Sweetness of the Holy Fire,EXPERIMENTAL MEAD,2005.0,Prise de Mousse wine yeast,Prise de Mousse wine yeast,Beverage People,,,,28
+1189,E-Dawg Baked Apple,SPECIALTY CIDER & PERRY,2005.0,Lalvin K1V-1116,Lalvin K1V-1116,,,,,0
+1190,Whiz-Bang! Belgian Dark Strong Ale,BELGIAN DARK STRONG ALE,2023.0,Wyeast 3787 Trappist Ale Yeast,Wyeast 3787 Trappist Ale Yeast,Wyeast,3787,64.0,,12
+1191,Challenge Accepted American Amber Ale,AMERICAN AMBER ALE,2023.0,Imperial Yeast A18 Joystick,Imperial Yeast A18 Joystick,,,65.0,,11
+1192,Philly Sour Saison,SAISON,2024.0,Philly Sour & Belle Saison,Philly Sour & Belle Saison,,,72.0,76.0,17
+1193,Horizon Pale Ale,AMERICAN PALE ALE,2023.0,Omega Yeast Labs OYL-402 Cosmic Punch,Omega Yeast Labs OYL-402 Cosmic Punch,,,,,0
+1194,One Way or Another Guava Blonde Ale,FRUIT BEER,2023.0,SafAle US-05,SafAle US-05,,,68.0,,14
+1195,Old Man Johnson’s Farm Catharina Sour,SOUR ALE,2023.0,Omega Lactobacillus Blend OYL-605,Omega Lactobacillus Blend OYL-605,,,,,2
+1196,Iceberg! Kölsch,KOLSCH,2023.0,Wyeast 2565 K\u00f6lsch,Wyeast 2565 K\u00f6lsch,Wyeast,,62.0,,7
+1197,Kilt Dropper Wee Heavy,AMBER ALE,2023.0,WLP028,WLP028,White Labs,,55.0,,0
+1198,Midnight Beach Dream (Dunkles Weissbier),DUNKELWEIZEN,2023.0,Wyeast 3068 Weihenstephan Wheat,Wyeast 3068 Weihenstephan Wheat,Wyeast,3068,64.0,,3
+1199,Highwayman Saison,SAISON,2023.0,Wyeast 3711 French Saison,Wyeast 3711 French Saison,Wyeast,3711,,,0
+1200,Extra Special Beautiful ESB,ENGLISH BITTER,2024.0,Wyeast 1968 London ESB ale,Wyeast 1968 London ESB ale,Wyeast,1968,62.0,,35
+1201,Oak Flower Hazy IPA,IPA,2023.0,Omega British Ale V,Omega British Ale V,,OYL-011,,,0
+1202,Fubarleywine,Barleywine,2021.0,Imperial Yeast A18 Joystick,Imperial Yeast A18 Joystick,,,60.0,,5
+1203,The Son of Grapefruit Xtra Pale Ale,AMERICAN PALE ALE,2019.0,SafAle US-05,SafAle US-05,Fermentis,,68.0,,0
+1204,Roger That Roggenbier,ROGGENBIER,2018.0,White Labs WLP300 Hefeweizen Ale or Wyeast 3068 Weihenstephan Weizen,White Labs WLP300 Hefeweizen Ale or Wyeast 3068 Weihenstephan Weizen,,,62.0,,0
+1205,Lou’s Best ESB,ENGLISH PALE ALE,2018.0,Wyeast 1968 London ESB yeast,Wyeast 1968 London ESB yeast,Wyeast,1968,66.0,66.0,26
+1206,Stewpid Propino Scottish Ale,AMBER ALE,2018.0,#1728 Scottish ale yeast,Scottish Ale,Wyeast,1728,55.0,,21
+1207,Alabama Hopslammer American Pale Ale,AMERICAN PALE ALE,2018.0,:Wyeast 1056 and Safale US-05,:Wyeast 1056 and Safale US-05,,,66.0,,3
+1208,Wood St. Common,AMBER LAGER,2018.0,San Francisco lager yeast,San Francisco lager yeast,White Labs,WLP810,62.0,,14
+1209,Hey Man Dark Mild,BROWN ALE,2018.0,Wyeast 2112 California Lager yeast,Wyeast 2112 California Lager yeast,Wyeast,2112,55.0,,10
+1210,Beerwreckdus Oatmeal Stout,OATMEAL STOUT,2018.0,White Labs WLP028 Edinburgh Ale,White Labs WLP028 Edinburgh Ale,White Labs,,67.0,,14
+1211,George and Aaron’s Pre-Prohibition Porter,PORTER,2018.0,Diamond Lager Yeast,Diamond Lager Yeast,Lallemand,,54.0,,1
+1212,Scottish Crème Brulee Ale,AMBER ALE,2018.0,WLP028 Scottish Ale Yeast,WLP028 Scottish Ale Yeast,,,55.0,62.0,17
+1213,Blue Barrel Sour,SOUR ALE,2018.0,White Labs American Hefeweizen WLP320,White Labs American Hefeweizen WLP320,White Labs,,65.0,,14
+1214,Benedictus Gruit Ale,HISTORICAL BEER,2018.0,Trappist Style High Gravity,Trappist Style High Gravity,Wyeast,3787,,,0
+1215,No Fail Stout (Gluten-free),STOUT,2017.0,Safale S-04,Safale S-04,Fermentis,S-04,67.0,,4
+1216,SLF Pale Ale,AMERICAN PALE ALE,2018.0,Imperial A01 House,Imperial A01 House,,Imperial A01,67.0,,0
+1217,Kevin’s Mom,HEFEWEIZEN,2018.0,Wyeast 3068 Wehinstephan Weizen or White Labs WLP300 Hefeweizen Ale yeast,Wyeast 3068 Wehinstephan Weizen or White Labs WLP300 Hefeweizen Ale yeast,,,64.0,,12
+1218,Holier than Meow Hefeweizen,HEFEWEIZEN,2018.0,Wyeast 3068 Weihenstephan Weizen or White Labs WLP300 Hefeweizen Ale yeast,Wyeast 3068 Weihenstephan Weizen or White Labs WLP300 Hefeweizen Ale yeast,,,54.0,,7
+1219,Left on Colden Hefeweizen,HEFEWEIZEN,2018.0,Danstar Munich Wheat Beer dried yeast,Danstar Munich Wheat Beer dried yeast,Danstar,,54.0,,14
+1220,Corn Tripel,BELGIAN ALE,2005.0,Belgian Ardennes Yeast or White Labs Belgian Ale Yeast,Belgian Ardennes Yeast or White Labs Belgian Ale Yeast,,,70.0,70.0,28
+1221,No Quarter Smoked Porter,PORTER,,Pacman Yeast,Pacman Yeast,Wyeast,,65.0,68.0,0
+1222,Walkin’ with the Man Strong Belgian Ale,BELGIAN ALE,2003.0,Saxon Belgian Clone ale yeast,Saxon Belgian Clone ale yeast,,,68.0,68.0,32
+1223,Zane’s NZ Pale Ale,AMERICAN PALE ALE,2013.0,Danstar Nottingham,Danstar Nottingham,,,,,17
+1224,Wynkoop Colorojo Clone,AMBER ALE,2013.0,White Labs WLP051 Cali Ale V or similar,White Labs WLP051 Cali Ale V or similar,White Labs,WLP051,69.0,,10
+1225,South Cyde Brown Ale Recipe,BROWN ALE,2012.0,Wyeast 1968 London ESB ale yeast,Wyeast 1968 London ESB ale yeast,Wyeast,1968,68.0,,0
+1226,Bald Belgian Blonde,BELGIAN ALE,2012.0,Belgian Ale Yeast (Wyeast 1388 or White Labs WLP570),Belgian Ale Yeast (Wyeast 1388 or White Labs WLP570),,,68.0,,0
+1227,Poblano Wit,BELGIAN ALE,2013.0,Wyeast 3944 Belgian Wit ale yeast,Wyeast 3944 Belgian Wit ale yeast,Wyeast,3944,62.0,,19
+1228,Dark English Barleywine,BARLEYWINE,2010.0,WLP English Ale,WLP English Ale,White Labs,WLP002,68.0,,0
+1229,Miss Vickie,Blonde Ale,2012.0,London ESB ale yeast,London ESB ale yeast,Wyeast,,,,0
+1230,Ctrl + Alt + Delete,ALTBIER,2012.0,German ale yeast Wyeast 1007 and WLP036 Dusseldorf Alt,German ale yeast Wyeast 1007 and WLP036 Dusseldorf Alt,,,66.0,34.0,21
+1231,Bit of Bitter,ENGLISH PALE ALE,2012.0,Thames Valley ale yeast,Thames Valley ale yeast,Wyeast,1275,,,0
+1232,Albanach Láidir,AMBER ALE,2012.0,Edinburgh Scottish ale yeast,Scottish Ale,White Labs,WLP028,65.0,65.0,35
+1233,West Coast Blaster,AMBER ALE,2012.0,WLP001 California ale,WLP001 California ale,White Labs,,67.0,40.0,40
+1234,Nick’s Northern English Brown Ale,BROWN ALE,2012.0,West Yorkshire Ale,West Yorkshire Ale,Wyeast,1469-PC,60.0,,14
+1235,Brown Bag Brown Porter,AMERICAN PORTER,2012.0,Wyeast 1028 London ale yeast,Wyeast 1028 London ale yeast,Wyeast,1028,68.0,,14
+1236,Chernaya Polnoch RIS,IMPERIAL STOUT,2012.0,White Labs WLP005 British ale yeast,White Labs WLP005 British ale yeast,White Labs,WLP005,65.0,65.0,35
+1237,Hop-Fu,AMERICAN IPA,2012.0,WLP001 California ale yeast,WLP001 California ale yeast,White Labs,,67.0,67.0,20
+1238,Three King’s Baltic Porter,BALTIC PORTER,2010.0,WLP 830 German Lager yeast starter,WLP 830 German Lager yeast starter,White Labs,,52.0,,0
+1239,Glenn’s Oatmeal Stout,OATMEAL STOUT,2010.0,WLP 002 ale yeast,WLP 002 ale yeast,White Labs,WLP002,65.0,,14
+1240,Hop-Fu,AMERICAN IPA,2010.0,White Labs WLP001 California ale yeast,White Labs WLP001 California ale yeast,White Labs,,67.0,67.0,20
+1241,Roggen (2010),ROGGENBIER,2010.0,WLP 380 ale yeast,WLP 380 ale yeast,White Labs,,68.0,68.0,28
+1242,Saison Lite 139,BELGIAN ALE,2010.0,White Labs WLP 565 Saison ale yeast,White Labs WLP 565 Saison ale yeast,White Labs,WLP565,75.0,34.0,42
+1244,Sully’s Belgian Blonde,BELGIAN ALE,2010.0,WLP 500 Trappist ale yeast,WLP 500 Trappist ale yeast,White Labs,WLP500,68.0,,0
+1245,JJs Barleywine,BARLEYWINE,2010.0,Dry English Ale Yeast,Dry English Ale Yeast,White Labs,,68.0,73.0,27
+1246,Peaches – N – Cream Hefe,FRUIT BEER,2010.0,WLP 300 Hefeweizen Ale,WLP 300 Hefeweizen Ale,White Labs,,65.0,35.0,180
+1247,Zingibier,BELGIAN ALE,2010.0,3944 Belgian Witbier yeast,3944 Belgian Witbier yeast,Wyeast,,68.0,68.0,35
+1248,Spanish Cedar IPA,IPA,2010.0,White Labs WLP 007,White Labs WLP 007,White Labs,,67.0,60.0,20
+1249,Old Ale with Grapes and Honey,FRUIT BEER,2010.0,North End Tavern Brewing American Ale yeast starter,North End Tavern Brewing American Ale yeast starter,,,70.0,,21
+1250,Jimmy’s ESB,ENGLISH PALE ALE,2009.0,Wyeast No. 1768 VSS-PC English Special Bitter ale yeast,Wyeast No. 1768 VSS-PC English Special Bitter ale yeast,Wyeast,1768,68.0,70.0,35
+1251,Lara Pale Ale (2009),AMERICAN PALE ALE,2009.0,WLP002 English ale yeast,WLP002 English ale yeast,,,68.0,68.0,14
+1252,Modest Mild,BROWN ALE,2009.0,London ale yeast,London ale yeast,Wyeast,No. 1028,68.0,,5
+1253,Geoff’s Robust Porter,Baltic Porter,2009.0,No. 1318 London ale III,No. 1318 London ale III,Wyeast,1318,65.0,,0
+1254,Redridge Stout,FOREIGN / TROPICAL STOUT,2009.0,1056 American ale yeast,Chico/US-05 (American Ale),Wyeast,1056,67.0,35.0,25
+1255,Blitzkrieg Hops,ENGLISH IPA,2009.0,London ale yeast,London ale yeast,Wyeast,1028,63.0,,14
+1256,El Hefe (2009),HEFEWEIZEN,2009.0,Wyeast 3068 Weihenstephan Weizen,Wyeast 3068 Weihenstephan Weizen,Wyeast,3068,65.0,,0
+1257,Jeff’s Belgian Ale,BELGIAN ALE,2009.0,Belgian Golden ale yeast,Belgian Golden ale yeast,White Labs,WLP 570,72.0,,0
+1258,Creative Destruction Barleywine,BARLEYWINE,2009.0,No. 1056 American ale yeast,No. 1056 American ale yeast,Wyeast,,68.0,65.0,21
+1259,Mashing Pumpkins Spiced Saison,BELGIAN ALE,2009.0,Saison I,Saison I,White Labs,WLP565,70.0,,0
+1260,Ramon’s Kölsch,HYBRID BEER,2007.0,German Ale/K\u00f6lsch yeast,German Ale/K\u00f6lsch yeast,,,62.0,38.0,42
+1261,JZ Alt,ALTBIER,2007.0,Wyeast No. 1007 German ale yeast,Wyeast No. 1007 German ale yeast,,,62.0,38.0,21
+1262,Bears Bitter,ENGLISH PALE ALE,2007.0,WLP 002 English ale yeast,WLP 002 English ale yeast,White Labs,,65.0,65.0,13
+1263,Kaltrauch Rauchbier (2023),RAUCHBIER,2023.0,Fermentis S-23 German Lager,Fermentis S-23 German Lager,Fermentis,,,,19
+1264,Kyle’s Bavarian Pils,German Pilsner,2018.0,WLP833 German Bock Lager,WLP833 German Bock Lager,White Labs,,48.0,,10
+1265,Lovelace Vienna Lager,AMBER LAGER,2018.0,WLP830 German lager,WLP830 German lager,White Labs,WLP830,48.0,,14
+1266,Dark Rhine Schwarzbier,DARK LAGER,2018.0,Bavarian lager yeast or yeast starter,Bavarian lager yeast or yeast starter,,,55.0,,14
+1267,Aurora Helles Bock,BOCK,2018.0,WLP833 German Bock Lager,WLP833 German Bock Lager,White Labs,,50.0,,44
+1268,Propensity Pilsener Lager,GERMAN PILSNER,,lager yeast,lager yeast,,,,,0
+1269,Black Saxon 2,DARK LAGER,2012.0,Wyeast 2206 Bavarian lager yeast,Wyeast 2206 Bavarian lager yeast,Wyeast,2206,50.0,45.0,30
+1270,The Noidinator,BOCK,2012.0,Wyeast 2206 Bavarian lager yeast,Wyeast 2206 Bavarian lager yeast,Wyeast,2206,50.0,35.0,56
+1271,Zen Bock,BOCK,2012.0,Wyeast 3333 German Wheat ale yeast,Wyeast 3333 German Wheat ale yeast,Wyeast,,64.0,,0
+1272,"Thanks, Curt",FRUIT BEER,2009.0,San Francisco lager yeast,San Francisco lager yeast,White Labs,WLP 810,65.0,35.0,194
+1273,Brisket in a Bottle,RAUCHBIER,2009.0,WLP 820 Octoberfest/Marzen lager,WLP 820 Octoberfest/Marzen lager,White Labs,,50.0,,21
+1274,GB Märzen,AMBER LAGER,2007.0,WLP830 German lager yeast,WLP830 German lager yeast,White Labs,,52.0,34.0,210
+1275,Steve and Dan’s Schwarzbier,DARK LAGER,2007.0,Wyeast No. 2308 Munich lager,Wyeast No. 2308 Munich lager,Wyeast,2308,52.0,54.0,51
+1276,Bitezen Bock,BOCK,2007.0,WLP300 Hefeweizen ale yeast,WLP300 Hefeweizen ale yeast,White Labs,WLP300,68.0,68.0,40
+1277,Brazillionaire Semi-Sweet Mead,STANDARD MEAD,2023.0,Melody,Melody,,6 g,,,0
+1278,Frankenbutter! Specialty Mead,EXPERIMENTAL MEAD,2023.0,WLP002 English Ale Yeast slurry,WLP002 English Ale Yeast slurry,White Labs,WLP002,,,0
+1279,Tupearelo Pear Mead,FRUIT MEAD,2023.0,Imperial A44 Kveiking,Imperial A44 Kveiking,,,,,0
+1280,Over the Falls in a Gin Barrel Specialty Mead,SPECIALTY MEAD,2023.0,Lalvin 71B,Lalvin 71B,,,,,0
+1281,Fresh PRINZ Cyser,FRUIT MEAD,2023.0,Lalvin Sav Blanc QA23,Lalvin Sav Blanc QA23,,,,,0
+1282,Norwegian Farmhouse-Inspired Mead,EXPERIMENTAL MEAD,2022.0,Kveik VOSS,Kveik VOSS,,,104.0,,0
+1283,That Guy Wins Too Much (Experimental Mead),EXPERIMENTAL MEAD,2022.0,Uvaferm 43,Uvaferm 43,,,,,14
+1284,Lawnmower Mead,FRUIT MEAD,2022.0,WLP720,WLP720,White Labs,WLP720,,,4
+1285,Ode to H.O.D. Melomel,FRUIT MEAD,2022.0,Lalvin 71B,Lalvin 71B,,,70.0,,14
+1286,Cherry Dangerous Mead,Stone Fruit Mead,2022.0,Lalvin Bourgovin RC 212,Lalvin Bourgovin RC 212,,,,,21
+1287,You’re My Boy Blue (B2) Berry Mead,BERRY MEAD,2022.0,QA23,QA23,,,,,0
+1288,Cab Pyment II,PYMENT / GRAPE MEAD,2022.0,Lalvin Bourgovin RC 212,Lalvin Bourgovin RC 212,,,65.0,,0
+1289,Matthew’s Cyser,CYSER / APPLE MEAD,2022.0,Lalvin QA23,Lalvin QA23,,,,,0
+1290,Blends Without Friends Sweet Mead,SWEET MEAD,2022.0,Lalvin D47,Lalvin D47,,,,,0
+1291,Crimson Stag,PYMENT / GRAPE MEAD,2021.0,Lalvin Bourgovin RC212,Lalvin Bourgovin RC212,,,,,0
+1292,Dwójniak Figa Mead,HISTORICAL MEAD,2021.0,Uvaferm 43,Uvaferm 43,,,,,0
+1293,Ode to Repas Fruit & Spice Mead,FRUIT MEAD,2021.0,Lalvin D47,Lalvin D47,,,,,0
+1294,Michigan U-Pick: Montmorency Vs. Balaton Stone Fruit Mead,STONE FRUIT MEAD,2021.0,Lalvin Bourgovin Rc212,Lalvin Bourgovin Rc212,,,,,0
+1295,Leatherwood Dry Mead,DRY MEAD,2021.0,Wyeast 4184 Sweet Mead,Wyeast 4184 Sweet Mead,Wyeast,4184,67.0,63.0,220
+1296,Orange Blossom Traditional Mead,STANDARD MEAD,2021.0,Lalvin 71B,Lalvin 71B,,,,,0
+1297,Ken Schramm’s Dry Show Mead,STANDARD MEAD,,Steinberger (or other),Steinberger (or other),,,,,0
+1298,Hairy Vetch Traditional Mead (1 gallon recipe),STANDARD MEAD,2021.0,Bootleg Biology Chardonnay,Bootleg Biology Chardonnay,,,60.0,,0
+1300,Carvin’s Traditional Mead,,2021.0,DV10 dry yeast,DV10 dry yeast,,DV10,62.0,,3
+1301,Mead Day 2020 Traditional Mead,STANDARD MEAD,2020.0,DV10 dry yeast,DV10 dry yeast,,DV10,62.0,,7
+1304,Primordial Plot Cyser,CYSER / APPLE MEAD,2020.0,Lalvin EC-1118,Lalvin EC-1118,,,68.0,,21
+1305,Desert Gold Mead,SEMI-SWEET MEAD,2019.0,Fermentis SafAle S-04,Fermentis SafAle S-04,Fermentis,,65.0,,14
+1306,Better Yeast Management Mead,STANDARD MEAD,2020.0,Red Star C\u00f4te des Blancs,Red Star C\u00f4te des Blancs,,,65.0,,0
+1307,"Strong, Sweet, Simple Mead",STANDARD MEAD,2020.0,Red Star C\u00f4te des Blancs,Red Star C\u00f4te des Blancs,,Red Star C\u00f4te des Blancs,65.0,,0
+1308,Mr. Anderson’s El Hefe’s El Pogo,FRUIT MEAD,2020.0,Lalvin 71-B,Lalvin 71-B,,,65.0,,14
+1309,Amy Olsen’s Morat,BERRY MEAD,2020.0,SafAle US-05,SafAle US-05,Fermentis,,,,0
+1310,Jiggly Puff and Stuff,STANDARD MEAD,2019.0,Lalvin D-47,Lalvin D-47,,,,,14
+1312,Buzzzed Cyser,CYSER / APPLE MEAD,2019.0,White Labs WLP 775 English Cider Yeast,White Labs WLP 775 English Cider Yeast,White Labs,WLP 775,65.0,,4
+1313,Chateau Gates Cyser,CYSER / APPLE MEAD,2019.0,ICV-D47,ICV-D47,Lallemand,,62.0,,38
+1314,Blueberry Vice Melomel,BERRY MEAD,2019.0,Lalvin ICV-D47,Lalvin ICV-D47,,,,,0
+1315,Don’t Poke the Doughboy,HERB & SPICE MEAD,2019.0,Lalvin D-47,Lalvin D-47,,,68.0,,14
+1316,Cherry Mead,FRUIT MEAD,2019.0,71b wine yeast,71b wine yeast,,,,,0
+1317,Hairy Vetch Traditional Mead,STANDARD MEAD,2019.0,58W3,58W3,,,,,0
+1318,Pinot “Newer” Pyment,FRUIT MEAD,2019.0,Lalvin Bourgovin RC212,Lalvin Bourgovin RC212,,,68.0,,0
+1319,Aji Panca Spiced Mead,EXPERIMENTAL MEAD,2019.0,Lalvin QA23,Lalvin QA23,,,62.0,,210
+1320,T’alla Braggot,BRAGGOT,2019.0,American ale yeast,American ale yeast,,,,,10
+1321,T’ej Mead,HERB & SPICE MEAD,2019.0,Neutral American ale yeast,Neutral American ale yeast,,,,,35
+1322,Covfefe Traditional Mead,SEMI-SWEET MEAD,2019.0,Lavlin D47,Lavlin D47,,,,,14
+1323,Bucktart Cherry Mead,FRUIT MEAD,2019.0,Lalvin 71B,Lalvin 71B,,,,,0
+1325,Prairie Rose Meadery Vanilla Cinnamon Mead,EXP,2019.0,71B-1122,71B-1122,Lalvin,,,,0
+1326,Mango Black Tea Short Mead,EXPERIMENTAL MEAD,2016.0,Champagne yeast,Champagne yeast,,,68.0,,7
+1327,Indian Summer Berry Melomel,BERRY MEAD,2014.0,71B-1122,71B-1122,Lallemand,,62.0,62.0,42
+1328,Buckwheat Mead,STANDARD MEAD,2018.0,Lallemand DV-10,Lallemand DV-10,Lallemand,,,,90
+1329,"Yeah, It’s Dumb. So What? Cyser",CYSER / APPLE MEAD,2018.0,WLP007,WLP007,White Labs,,66.0,,0
+1330,Pepper Mead,EXPERIMENTAL MEAD,2018.0,Lavlin 71B,Lavlin 71B,,,68.0,,156
+1331,Fogweaver Traditional Mead,STANDARD MEAD,2018.0,WLP720,WLP720,White Labs,,78.0,32.0,45
+1332,Purple Power Cherry & Black Currant Melomel,FRUIT MEAD,2018.0,Rehydrated yeast,Rehydrated yeast,71-b,,,,0
+1333,Champagne De Guimauve Mead,SEMI-SWEET MEAD,2018.0,DV10,DV10,,DV10,60.0,,0
+1334,Scott’s Cherry Mead,FRUIT MEAD,2018.0,RC212,RC212,,36 g,62.0,,0
+1335,Ode to Jadwiga Mead,HISTORICAL MEAD,2018.0,Uvaferm 43,Uvaferm 43,Uvaferm,,,,0
+1336,Tej (Ethiopian-style mead),HERB & SPICE MEAD,2016.0,D21 dry wine yeast,D21 dry wine yeast,,D21,65.0,,30
+1337,Le Pomme 1,STANDARD MEAD,2017.0,Chardonnay yeast,Chardonnay yeast,,,,,202
+1338,Little Dark Heart,FRUIT MEAD,2017.0,BA-11 dry yeast,BA-11 dry yeast,,BA-11,68.0,68.0,24
+1339,An Uncommon Disaster,EXPERIMENTAL MEAD,2017.0,Lalvin 71B-1122,Lalvin 71B-1122,Lallemand,71B-1122,68.0,68.0,23
+1340,Moonlight Meadery Desire Melomel,BERRY MEAD,,71B-1122,71B-1122,Lalvin,71B-1122,,,90
+1342,Buckwheat Buffalo Traditional Mead,STANDARD MEAD,2016.0,D47,D47,,,63.0,,120
+1343,Holy Cacao Specialty Mead,EXPERIMENTAL MEAD,2016.0,Chardonnay yeast,Chardonnay yeast,,,,,202
+1344,Limey Bastard Melomel,FRUIT MEAD,2016.0,Sweet Mead yeast,Sweet Mead yeast,Wyeast,4184,68.0,68.0,90
+1345,Blueberry Mead,Semi-Sweet Mead,2015.0,Lalvin 71B-1122,Lalvin 71B-1122,,,60.0,64.0,180
+1346,Plum Crazy,FRUIT MEAD,2015.0,WLP720 Sweet Mead yeast,WLP720 Sweet Mead yeast,White Labs,WLP720,,,0
+1347,Damage Control,EXPORERIMENTAL MEAD,2015.0,Lalvin 71B yeast,Lalvin 71B yeast,,,,,0
+1348,Tradition Dry Varietal Mead,DRY MEAD,,Lalvin 71B-1122,Lalvin 71B-1122,,,,,0
+1349,Dry Nutmeg Mead,HERB & SPICE MEAD,2014.0,Epernay yeast,Epernay yeast,,,,,0
+1350,Super Berry Melomel,FRUIT MEAD,2005.0,Lalvin Narbonne Yeast (71B-1122),Lalvin Narbonne Yeast (71B-1122),,,,,28
+1353,Veronica’s Sweet & Sultry Cyser,CYSER / APPLE MEAD,2002.0,WLP002 English Ale Yeast,WLP002 English Ale Yeast,White Labs,,68.0,68.0,128
+1354,Sparkling Ginger Mead,HERB & SPICE MEAD,2011.0,Lalvin 71B-1122,Lalvin 71B-1122,,Narbonne,,,0
+1355,It’s My First Mead,STANDARD MEAD,1994.0,Lalvin EC-1118,Lalvin EC-1118,,,68.0,65.0,316
+1356,Cherry Mead,FRUIT MEAD,2003.0,Lalvin 71B-1122 Narbonne Yeast strain,Lalvin 71B-1122 Narbonne Yeast strain,,,,,0
+1357,Norman French Cider,STANDARD CIDER & PERRY,2023.0,Epernay II,Epernay II,,,60.0,,0
+1358,Fight Fire with Fire Cider,SPECIALTY CIDER & PERRY,2023.0,Lalvin 71B,Lalvin 71B,,,,,0
+1359,Cinco de Mango Cider,FRUIT CIDER & PERRY,2022.0,Lallemand Belle Saison,Lallemand Belle Saison,,,67.0,67.0,15
+1360,Bobbing For Medals New World Cider,NEW WORLD CIDER,2022.0,Red Star Cote de Blancs,Red Star Cote de Blancs,,,58.0,,0
+1361,Sacrilege Sour Cherry Cider,SPICED CIDER & PERRY,2022.0,Wyeast 1968 London ESB YEAST,Wyeast 1968 London ESB YEAST,Wyeast,1968,,,0
+1362,Easy Peasy Apple Squeezy,STANDARD CIDER & PERRY,2021.0,EC-1118,EC-1118,,,68.0,,14
+1363,California-style Fire Cider/Cidre de Feu,SPECIALTY CIDER & PERRY,2021.0,Lalvin DV10 (Champagne),Lalvin DV10 (Champagne),Lalvin,DV10,60.0,,28
+1364,PrimeTime Perry,NEW WORLD CIDER,2021.0,QA23,QA23,Lalvin,,62.0,60.0,141
+1365,TNT Cider,SPICED CIDER & PERRY,,Liquid Cider Yeast or Dried Yeast,Liquid Cider Yeast or Dried Yeast,,,60.0,,14
+1366,Passionfruit Cider,FRUIT CIDER & PERRY,2019.0,WLP028,WLP028,White Labs,,65.0,,0
+1367,Alpine Apple Cider,NEW WORLD CIDER,2019.0,Awri 350,Awri 350,,,,,0
+1368,Apple Pie Cider,FRUIT CIDER & PERRY,2019.0,Nottingham Ale Dry Yeast,Nottingham Ale Dry Yeast,,11 g,65.0,,21
+1369,Sorry for Perrying,STANDARD CIDER & PERRY,2019.0,Cote des Blancs / DV10,Cote des Blancs / DV10,,,,,0
+1370,Nathan’s Ice Cider,SPECIALTY CIDER & PERRY,2019.0,WLP720 Sweet Mead/Wine yeast,WLP720 Sweet Mead/Wine yeast,White Labs,,,,0
+1371,Plum Crazy Cider,FRUIT CIDER & PERRY,2018.0,White Labs WLP720,White Labs WLP720,White Labs,WLP720,68.0,68.0,21
+1372,Road Trip Hard Cider,NEW ENGLAND CIDER,2018.0,CBC-1,CBC-1,Lallemand,,,,10
+1373,Jeremy’s New England Cider,NEW ENGLAND CIDER,2018.0,WLP 775,WLP 775,White Labs,,,,0
+1375,Nathan’s 2016 Ice Cider,ICE CIDER,2018.0,WLP720,WLP720,White Labs,WLP720,,,0
+1376,Westside Traditional,STANDARD CIDER & PERRY,2017.0,Vivace Renaissance Yeast,Vivace Renaissance Yeast,,,60.0,55.0,111
+1378,Heather’s Perry,STANDARD CIDER & PERRY,2016.0,Lalvin DV-10,Lalvin DV-10,,DV-10,,60.0,150
+1379,Westside Sweet Heat,NEW ENGLAND CIDER,2016.0,Premier Cuv\u00e9e wine yeast,Premier Cuv\u00e9e wine yeast,,,,,0
+1380,Brett’s Common Cider,STANDARD CIDER & PERRY,2015.0,WLP775 English Cider yeast,WLP775 English Cider yeast,White Labs,,66.0,,14
+1381,Ice Cider,ICE CIDER,2015.0,Lalvin 71-B,Lalvin 71-B,,71-B,60.0,60.0,150
+1382,Can’t Wait To See Where This Gueuze,GUEUZE,2023.0,Wyeast 5526 Brettanomyces Lambicus,Wyeast 5526 Brettanomyces Lambicus,Wyeast,,,,14
+1383,Sticky Fingers Saison,SAISON,2022.0,White Labs WLP568 Belgian Style Saison Ale Yeast Blend,White Labs WLP568 Belgian Style Saison Ale Yeast Blend,White Labs,,72.0,,10
+1384,Pinot Grigio Oenobeer: Italian Grape Ale,FRUIT BEER,2021.0,Lalvin EC-1118 Saccharomyces bayanus,Lalvin EC-1118 Saccharomyces bayanus,,,65.0,,17
+1385,Jazz Flute Norwegian Kveik Farmhouse,FARMHOUSE BEER,2018.0,Norwegian Farmhouse Yeast,Norwegian Farmhouse Yeast,,,66.0,,0
+1386,Lao Kang’s Cream Ale,CREAM ALE,2002.0,San Francisco Lager,San Francisco Lager,White Labs,WLP810,,,0
+1387,Kristen and Orsolya’s Scottish Light 60/-,AMBER ALE,2007.0,Wyeast No. 1728 Scottish ale yeast,Scottish Ale,Wyeast,1728,60.0,,5
+1388,Amarillo Pale Ale,AMERICAN PALE ALE,2007.0,American ale yeast,Chico/US-05 (American Ale),Wyeast,1056,68.0,68.0,21
+1389,Jamil’s Brown Ale,BROWN ALE,2007.0,White Labs WLP002 English ale yeast,White Labs WLP002 English ale yeast,White Labs,,,,0
+1390,BJ’s Robust Porter,BALTIC PORTER,2007.0,London III ale yeast,London III ale yeast,Wyeast,1318,65.0,65.0,27
+1392,Longbrook IPA,AMERICAN IPA,2007.0,London ESB ale yeast,London ESB ale yeast,Wyeast,1968,68.0,68.0,14
+1393,Jon’s American Lager,,2005.0,German Bock lager yeast,German Bock lager yeast,,,52.0,52.0,51
