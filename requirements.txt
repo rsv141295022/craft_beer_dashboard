@@ -6,3 +6,6 @@ python-dotenv
 tqdm
 openpyxl
 selenium
+streamlit
+plotly
+scipy

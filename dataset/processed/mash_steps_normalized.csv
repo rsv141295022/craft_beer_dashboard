@@ -1,0 +1,1899 @@
+recipe_id,recipe_title,style,style_group,year,step_number,step_name,temp_F,time_min
+0,Big Blimp! Barleywine (2019),UK/US STRONG ALE,STRONG_ALE,2019.0,1,Mash,150.0,90
+1,Freya’s Locks Blonde Ale,BLONDE ALE,BLONDE_PALE,,1,Mash,150.0,45
+2,Lines on the Map English Strong Ale,UK/US STRONG ALE,STRONG_ALE,2023.0,1,Mash,150.0,60
+3,Wee Heavy/Strong Scotch Ale,AMBER ALE,AMBER_ALE,2017.0,1,mash,152.0,60
+4,O’Davey Irish Red Ale,AMBER ALE,AMBER_ALE,2021.0,1,Mash,152.0,60
+5,Nearly Nirvana Pale Ale,AMERICAN PALE ALE,IPA,2023.0,1,Mash,157.0,60
+6,Opus Coffee Baltic Porter,COFFEE BEER,OTHER,2019.0,1,Mash,156.0,60
+8,Star Gazer Hazy Double IPA,IMPERIAL / DOUBLE IPA,IPA,2021.0,1,,154.0,60
+13,Kuhn’s Pilsner,GERMAN PILSNER,LAGER,2021.0,1,Mash,150.0,90
+15,Winter Bock,BOCK,LAGER,2011.0,1,Decoction rests,104.0,0
+15,Winter Bock,BOCK,LAGER,2011.0,2,Decoction rests,126.0,0
+15,Winter Bock,BOCK,LAGER,2011.0,3,Decoction rests,144.0,0
+15,Winter Bock,BOCK,LAGER,2011.0,4,Decoction rests,155.0,0
+15,Winter Bock,BOCK,LAGER,2011.0,5,Decoction rests,162.0,0
+16,Yellow Rose SMaSH,AMERICAN IPA,IPA,2021.0,1,Mash,150.0,75
+19,Black Is Beautiful Imperial Stout (Countdown Brewing Version),IMPERIAL STOUT,STOUT,2021.0,1,,150.0,60
+20,Fuller’s Chiswick Bitter Clone,ENGLISH BITTER,OTHER,2021.0,1,Mash,149.0,60
+21,Mad About Saison,BELGIAN ALE,BELGIAN,2018.0,1,Mash rest,150.0,60
+22,Witty Dutchman Witbier,BELGIAN ALE,BELGIAN,2019.0,1,Mash,155.0,60
+23,Summer Wheat,AMERICAN WHEAT,WHEAT_BEER,2021.0,1,Mash,152.0,60
+24,Em Day’s Pale Ale,AMERICAN PALE ALE,IPA,2021.0,1,Saccharification rest,152.0,60
+25,"Quad-Boiled, Non-Stopped, Big Hopped & Pretzel-Topped Double India Pale Ale",SPECIALTY IPA,IPA,2006.0,1,Mash,154.0,60
+25,"Quad-Boiled, Non-Stopped, Big Hopped & Pretzel-Topped Double India Pale Ale",SPECIALTY IPA,IPA,2006.0,2,Mashout,168.0,10
+26,Janet’s Brown Ale – Big Brew 2021,AMERICAN BROWN ALE,BROWN_ALE,2021.0,1,Mash,154.0,30
+26,Janet’s Brown Ale – Big Brew 2021,AMERICAN BROWN ALE,BROWN_ALE,2021.0,2,Raise to Mash Out,170.0,15
+27,Big Bimp! American Barleywine,BARLEYWINE,STRONG_ALE,2019.0,1,Mash,150.0,90
+28,Baltic Bliss,PORTER,PORTER,2021.0,1,Mash,153.0,60
+30,Full Stop Stout,IRISH STOUT,STOUT,2021.0,1,Mash,152.0,60
+31,Old School Barleywine,UK/US STRONG ALE,STRONG_ALE,,1,Mash,152.0,90
+31,Old School Barleywine,UK/US STRONG ALE,STRONG_ALE,,2,Mash Out,168.0,15
+32,Columbus Pale Ale,PALE ALE,IPA,,1,,152.0,60
+34,Mad Jack’s Hoppy Amber Ale,AMBER ALE,AMBER_ALE,,1,Steep grains,160.0,30
+34,Mad Jack’s Hoppy Amber Ale,AMBER ALE,AMBER_ALE,,2,Stir in extract,120.0,0
+35,Stale Doughnut Belgian Pale Ale,BELGIAN ALE,BELGIAN,2020.0,1,Mash,152.0,60
+36,Kumquat Citra Sour,FRUIT BEER,OTHER,2020.0,1,Mash,154.0,60
+39,West Seattle Amber Ale,AMBER ALE,AMBER_ALE,2020.0,1,Mash,155.0,60
+40,Surly Coffee Bender,BROWN ALE,BROWN_ALE,2020.0,1,Mash,155.0,60
+41,Avocado Saison,BELGIAN ALE,BELGIAN,2019.0,1,Mash,152.0,60
+42,Saison Tropicale,BELGIAN ALE,BELGIAN,2012.0,1,Mash,150.0,60
+43,Monroe Weiss,BERLINER WEISSE,SOUR,2018.0,1,,148.0,60
+44,Cariño Sour,BERLINER WEISSE,SOUR,2016.0,1,Mash,152.0,60
+45,Golden Goblet Gruit Ale,HISTORICAL BEER,OTHER,2011.0,1,Mash,148.0,90
+45,Golden Goblet Gruit Ale,HISTORICAL BEER,OTHER,2011.0,2,Mash Out,168.0,10
+47,Mild Ale #3,AMBER ALE,AMBER_ALE,2013.0,1,mash,152.0,60
+48,Quarantine American IPA,AMERICAN IPA,IPA,,1,Mash,153.0,60
+49,Solstice American Stout,AMERICAN STOUT,STOUT,2020.0,1,Mash,150.0,60
+50,One-Ply Rye IPA,AMERICAN IPA,IPA,2020.0,1,Mash,152.0,60
+51,Tim’s Sweet Stout,STOUT,STOUT,2019.0,1,Mash,151.0,60
+52,Pangaea Proxima Polar IPA,AMERICAN IPA,IPA,2020.0,1,Mash,153.0,60
+53,Espresso Stout,COFFEE BEER,OTHER,2010.0,1,Mash,152.0,45
+55,Tuxedo Speedo Black IPA,IPA,IPA,2013.0,1,mash,152.0,60
+56,Stone-Faced IPA,AMERICAN IPA,IPA,2017.0,1,mash,152.0,60
+57,Jack’s Classic American Pilsner,AMERICAN PILSNER,LAGER,2020.0,1,Mash,154.0,60
+58,Double White IPA,IMPERIAL / DOUBLE IPA,IPA,2020.0,1,Initial mash,121.0,15
+58,Double White IPA,IMPERIAL / DOUBLE IPA,IPA,2020.0,2,Raise mash to,146.0,0
+58,Double White IPA,IMPERIAL / DOUBLE IPA,IPA,2020.0,3,Hold at mash temperature,146.0,60
+59,Toto Stout,STOUT,STOUT,2020.0,1,Mash,156.0,60
+60,Atahsaia Barleywine,BARLEYWINE,STRONG_ALE,2015.0,1,Mash,150.0,75
+61,Thames Porter,AMERICAN PORTER,PORTER,2014.0,1,Mash,152.0,60
+61,Thames Porter,AMERICAN PORTER,PORTER,2014.0,2,Mashout,168.0,0
+62,Bruce Stott’s Dortmunder Export,HELLES,OTHER,2007.0,1,Mash,155.0,70
+64,Piwo Jopejskie,FARMHOUSE BEER,BELGIAN,2020.0,1,Mash at 125\u00b0F for 10 minutes,125.0,10
+64,Piwo Jopejskie,FARMHOUSE BEER,BELGIAN,2020.0,2,Mash at 145\u00b0F for 60 minutes,145.0,60
+64,Piwo Jopejskie,FARMHOUSE BEER,BELGIAN,2020.0,3,Mash at 161\u00b0F for 20 minutes,161.0,20
+64,Piwo Jopejskie,FARMHOUSE BEER,BELGIAN,2020.0,4,Mash at 170\u00b0F for 5 minutes,170.0,5
+65,Little Red Bird Braggot,BRAGGOT,OTHER,2020.0,1,Mash,152.0,90
+66,Traditional Berliner Weisse,BERLINER WEISSE,SOUR,2020.0,1,Mash in at 125\u00b0F (52\u00b0C),125.0,15
+66,Traditional Berliner Weisse,BERLINER WEISSE,SOUR,2020.0,2,Rest at 147\u00b0F (64\u00b0C),147.0,45
+66,Traditional Berliner Weisse,BERLINER WEISSE,SOUR,2020.0,3,Rest at 161\u00b0F (72\u00b0C),161.0,45
+67,Chess with Checkers,BELGIAN ALE,BELGIAN,2019.0,1,Mash,148.0,90
+68,Leicht,PALE LAGER,LAGER,2019.0,1,Mash 1,148.5,30
+68,Leicht,PALE LAGER,LAGER,2019.0,2,Mash 2,159.0,30
+69,Distemper Sour Ale,SOUR ALE,SOUR,2019.0,1,Mash,149.0,60
+71,Dodgy Wanker,ENGLISH PALE ALE,IPA,2020.0,1,Mash,152.0,60
+72,Newtonian ESB,ENGLISH PALE ALE,IPA,2015.0,1,Initial Mash,154.0,75
+73,Majestic Sea Cow American Pale Ale,AMERICAN PALE ALE,IPA,2019.0,1,Mash,156.0,60
+73,Majestic Sea Cow American Pale Ale,AMERICAN PALE ALE,IPA,2019.0,2,Mash Out,165.0,15
+74,Triple-X,STOUT,STOUT,,1,Mash,151.0,60
+76,Rogue Chocolate Stout Clone,SPICE & HERB BEER,OTHER,2009.0,1,Mash,150.0,60
+77,Future Forward Sour Saison,BELGIAN ALE,BELGIAN,2019.0,1,Mash,150.0,60
+78,Peppermint Porter,COFFEE BEER,OTHER,2019.0,1,Mash,156.0,60
+79,Mike’s Mild,BROWN ALE,BROWN_ALE,2019.0,1,Mash,153.0,60
+80,Wry Smile Rye IPA,IPA,IPA,2019.0,1,Mash at 153\u00b0F (67\u00b0C),153.0,60
+81,Valhalla Honey Beer,BRAGGOT,OTHER,2019.0,1,Mash,149.0,60
+82,Chomolungma Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,2019.0,1,mash,152.0,30
+83,Klosterman,HYBRID BEER,OTHER,2019.0,1,Mash,151.0,35
+84,Holiday Pumpkin Ale,SPICE & HERB BEER,OTHER,2008.0,1,Mash,155.0,60
+85,Schwarzer Geist Dark Lager,DARK LAGER,LAGER,2019.0,1,Mash,151.0,60
+86,Barrel-Aged Mark of the Beast Doppelbock,BOCK,LAGER,2019.0,1,Mash,156.0,60
+88,Briess RoastOat Red,ENGLISH IPA,IPA,2019.0,1,Mash,152.0,60
+89,Princesse Beer 1866,HISTORICAL BEER,OTHER,2019.0,1, Mash at 152\u00b0F (66.7\u00b0C),152.0,60
+91,Joker’s #1 Light Lager,AMERICAN LAGER,LAGER,2019.0,1,Mash,149.0,90
+91,Joker’s #1 Light Lager,AMERICAN LAGER,LAGER,2019.0,2,Mash Out,168.0,10
+92,Old Helen Helles Exportbier,HELLES,OTHER,2019.0,1,Mash,152.0,60
+93,SunRaker German Pils,GERMAN PILSNER,LAGER,2019.0,1,Mash,149.0,60
+93,SunRaker German Pils,GERMAN PILSNER,LAGER,2019.0,2,Mash Out,169.0,10
+94,Winnebago International Amber Lager,Amber Lager,LAGER,2019.0,1,Mash,152.0,60
+95,May the Schwartz Be With You,DARK LAGER,LAGER,2019.0,1, Mash,154.0,45
+96,Four the Win (FTW) Belgian Dark Strong,BELGIAN ALE,BELGIAN,2019.0,1,Initial Mash,144.0,30
+96,Four the Win (FTW) Belgian Dark Strong,BELGIAN ALE,BELGIAN,2019.0,2,Saccharification Rest,156.0,30
+97,Tropic Sun Sour,FRUIT BEER,OTHER,2019.0,1,Protein Rest,122.0,10
+97,Tropic Sun Sour,FRUIT BEER,OTHER,2019.0,2,Mash,154.0,70
+97,Tropic Sun Sour,FRUIT BEER,OTHER,2019.0,3,Mash Out,170.0,10
+98,Richard’s Brownie Batter Imperial Stout,IMPERIAL STOUT,STOUT,2019.0,1,Mash,150.0,60
+99,Blootered Bastart Barrel-aged Wee Heavy,AMBER ALE,AMBER_ALE,2019.0,1,Mash all grains except roast barley and chocolate malt,156.0,45
+99,Blootered Bastart Barrel-aged Wee Heavy,AMBER ALE,AMBER_ALE,2019.0,2,Mash out with roasted barley and chocolate malt,168.0,10
+100,Catharina’s Passion Sour,FRUIT BEER,OTHER,2019.0,1,Protein Rest,122.0,10
+100,Catharina’s Passion Sour,FRUIT BEER,OTHER,2019.0,2,Saccharification Rest,153.0,60
+100,Catharina’s Passion Sour,FRUIT BEER,OTHER,2019.0,3,Mash Out,168.0,10
+101,Angie’s Bursting Citra II (AKA Juice),AMERICAN PALE ALE,IPA,2017.0,1,Mash,152.0,60
+102,Pickelhaube Festbier,MARZEN,OTHER,2016.0,1,Protein rest,122.0,20
+102,Pickelhaube Festbier,MARZEN,OTHER,2016.0,2,Decoction boil,168.0,15
+102,Pickelhaube Festbier,MARZEN,OTHER,2016.0,3,Hold at decoction temp,150.0,60
+102,Pickelhaube Festbier,MARZEN,OTHER,2016.0,4,Mash out,168.0,10
+103,Pucker Up Baby Berliner Weisse,BERLINER WEISSE,SOUR,2014.0,1,Mash,150.0,60
+104,Three Floyds Brewing Zombie Dust IPA Clone,IPA,IPA,2019.0,1,Mash,155.0,60
+105,Cigar City Jai Alai IPA Classic Clone,IPA,IPA,2019.0,1,Mash,150.0,60
+106,Curse Stout,CHOCOLATE BEER,OTHER,2019.0,1,,152.0,60
+107,Boscos Famous Flaming Stone,HISTORICAL BEER,OTHER,2019.0,1,,154.0,60
+108,Saison Capitale,BELGIAN ALE,BELGIAN,2019.0,1,Initial Mash,149.0,60
+108,Saison Capitale,BELGIAN ALE,BELGIAN,2019.0,2,Mash-Out,168.0,10
+109,Tropicalia Catharina Sour,FRUIT BEER,OTHER,2019.0,1,Mash,147.0,90
+112,Eubayanus Brown Porter,AMERICAN PORTER,PORTER,2016.0,1,Mash,152.0,60
+113,Austrian Expat Dark Mexican Lager,DARK LAGER,LAGER,2017.0,1,Mash rest,148.0,60
+113,Austrian Expat Dark Mexican Lager,DARK LAGER,LAGER,2017.0,2,Mash out,168.0,10
+114,Probably the Best Beer in the…House,HELLES,OTHER,2019.0,1,Initial Rest,131.0,15
+114,Probably the Best Beer in the…House,HELLES,OTHER,2019.0,2,Rest 2,148.0,30
+114,Probably the Best Beer in the…House,HELLES,OTHER,2019.0,3,Rest 3,162.0,30
+114,Probably the Best Beer in the…House,HELLES,OTHER,2019.0,4,Mash out,168.0,5
+115,Trappist Tripel,BELGIAN ALE,BELGIAN,2019.0,1,Mash,149.0,75
+116,Mt. Brandon Irish Stout,IRISH STOUT,STOUT,2016.0,1,Mash,150.0,30
+117,Aztec-style Brown Ale,BROWN ALE,BROWN_ALE,2016.0,1,Mash,154.0,60
+118,Two Blue Dogs Barleywine,BARLEYWINE,STRONG_ALE,2011.0,1,,150.0,60
+119,Battlecow Galacticose New England IPA (Partial Mash),HAZY / NEW ENGLAND IPA,IPA,2019.0,1,Mash,155.0,60
+120,Trans-Atlantic Blonde Ale,BLONDE ALE,BLONDE_PALE,2019.0,1,Mash,154.0,60
+121,Helicious Helles,HELLES,OTHER,2010.0,1,Protein Rest,130.0,10
+121,Helicious Helles,HELLES,OTHER,2010.0,2,Main Mash,148.0,60
+121,Helicious Helles,HELLES,OTHER,2010.0,3,Mash Out,168.0,1
+122,Fortis Exordium Strong English Ale,OLD ALE,OTHER,2019.0,1,Mash,156.0,60
+123,Bunga-Toggles Agave-laced Barleywine,BARLEYWINE,STRONG_ALE,2008.0,1,Initial mash,132.0,30
+123,Bunga-Toggles Agave-laced Barleywine,BARLEYWINE,STRONG_ALE,2008.0,2,Mash out,167.0,-1
+124,Black Hole Sun Baltic Porter,BALTIC PORTER,PORTER,2019.0,1,Mash,156.0,45
+124,Black Hole Sun Baltic Porter,BALTIC PORTER,PORTER,2019.0,2,Mash-Out,168.0,10
+125,Funkwerks Saison,BELGIAN ALE,BELGIAN,2019.0,1,Initial Mash,122.0,20
+125,Funkwerks Saison,BELGIAN ALE,BELGIAN,2019.0,2,Saccharification Rest,149.0,60
+125,Funkwerks Saison,BELGIAN ALE,BELGIAN,2019.0,3,Mash Out,158.0,0
+126,Corporal Catbox New England IPA,HAZY / NEW ENGLAND IPA,IPA,2019.0,1,Mash,152.0,60
+127,La Bomba Belgian Golden Strong,BELGIAN ALE,BELGIAN,2018.0,1,Mash,150.0,60
+128,Gone for a Burton Brown Ale,BROWN ALE,BROWN_ALE,2018.0,1,Rest 1,149.0,45
+128,Gone for a Burton Brown Ale,BROWN ALE,BROWN_ALE,2018.0,2,Rest 2,158.0,60
+129,Deer Crossing Kellerbier,HELLES,OTHER,2019.0,1,Mash In,152.0,90
+129,Deer Crossing Kellerbier,HELLES,OTHER,2019.0,2,Mash Out,168.0,10
+130,A2 Brew Tay,IPA,IPA,2019.0,1,Mash Rest,152.0,45
+131,Amahl’s English Brown Ale,BROWN ALE,BROWN_ALE,2019.0,1,Mash in,153.0,60
+132,Strength In Numbers Dark Vienna Lager,AMBER LAGER,LAGER,2019.0,1,Mash at 152\u00b0F,152.0,60
+132,Strength In Numbers Dark Vienna Lager,AMBER LAGER,LAGER,2019.0,2,Add Midnight Wheat after 30 minutes into mash,152.0,30
+133,Betty’s Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,2019.0,1,Mash,152.0,60
+134,Sierra Nevada Resilience IPA,AMERICAN IPA,IPA,2018.0,1,Mash,152.0,60
+134,Sierra Nevada Resilience IPA,AMERICAN IPA,IPA,2018.0,2,Mash Out,168.0,10
+135,Puna Coast Black Lager,DARK LAGER,LAGER,2002.0,1,stability hold,132.0,30
+135,Puna Coast Black Lager,DARK LAGER,LAGER,2002.0,2,step up,157.0,30
+135,Puna Coast Black Lager,DARK LAGER,LAGER,2002.0,3,final step,167.0,15
+136,Stone 7th Anniversary Ale,AMERICAN PALE ALE,IPA,2006.0,1,mash,150.0,60
+137,Velveteen Caramel,AMBER ALE,AMBER_ALE,2012.0,1,Mash,156.0,60
+138,Bell’s Two Hearted Ale Clone,AMERICAN IPA,IPA,,1,Hybrid mash,150.0,45
+138,Bell’s Two Hearted Ale Clone,AMERICAN IPA,IPA,,2,Ramp to mash out,170.0,15
+138,Bell’s Two Hearted Ale Clone,AMERICAN IPA,IPA,,3,Rest at mash out,170.0,10
+139,Sun-Dried Sour,FRUITED SOUR,SOUR,2018.0,1,ferulic acid rest,113.0,20
+139,Sun-Dried Sour,FRUITED SOUR,SOUR,2018.0,2,mash,156.0,60
+140,Great Feats of Strength Imperial Stout,IMPERIAL STOUT,STOUT,2017.0,1,Mash,156.0,60
+141,Lupulin Madness IPA,AMERICAN IPA,IPA,2018.0,1,Initial Mash,149.0,45
+141,Lupulin Madness IPA,AMERICAN IPA,IPA,2018.0,2,Rest at 158\u00b0F,158.0,60
+142,Melissa and Patty’s Saison,BELGIAN ALE,BELGIAN,2018.0,1,Mash,147.0,90
+143,Honey Squished IPA,HAZY / NEW ENGLAND IPA,IPA,2018.0,1,Mash,152.0,60
+144,Charlie’s Visionary Mild,AMERICAN BROWN ALE,BROWN_ALE,2016.0,1,Initial mash,132.0,30
+144,Charlie’s Visionary Mild,AMERICAN BROWN ALE,BROWN_ALE,2016.0,2,Saccharification rest,155.0,30
+144,Charlie’s Visionary Mild,AMERICAN BROWN ALE,BROWN_ALE,2016.0,3,Mash out,167.0,0
+145,Storm Surge Baltic Porter,BALTIC PORTER,PORTER,2011.0,1,Mash,148.0,90
+145,Storm Surge Baltic Porter,BALTIC PORTER,PORTER,2011.0,2,Mash Out,162.0,10
+146,Tropical Haze New England IPA,HAZY / NEW ENGLAND IPA,IPA,2018.0,1,Mash,150.0,60
+147,Alright Already Amber,AMBER ALE,AMBER_ALE,2009.0,1,Mash,152.0,60
+148,The Big Hopper Imperial IPA,IMPERIAL / DOUBLE IPA,IPA,2010.0,1,Mash in,152.0,60
+148,The Big Hopper Imperial IPA,IMPERIAL / DOUBLE IPA,IPA,2010.0,2,Mash out,168.0,5
+151,"Tall, Dark and Bready",DUNKELWEIZEN,LAGER,2018.0,1,Protein Rest,122.0,20
+151,"Tall, Dark and Bready",DUNKELWEIZEN,LAGER,2018.0,2,Main Mash,150.0,30
+151,"Tall, Dark and Bready",DUNKELWEIZEN,LAGER,2018.0,3,Mash Out,168.0,0
+152,Brother Levonian Saison,BELGIAN ALE,BELGIAN,2009.0,1,First Mash,122.0,15
+152,Brother Levonian Saison,BELGIAN ALE,BELGIAN,2009.0,2,Main Mash,151.0,75
+152,Brother Levonian Saison,BELGIAN ALE,BELGIAN,2009.0,3,Mash Out,160.0,0
+154,Just Rye’te,AMERICAN PALE ALE,IPA,2016.0,1,Primary Mash,152.0,60
+155,Bell’s Brewery Expedition Stout Clone,IMPERIAL STOUT,STOUT,2002.0,1,main mash,150.0,20
+156,Jack of All Saisons,BELGIAN ALE,BELGIAN,2018.0,1,Mash Rest,150.0,60
+157,Smoked Pumpkin Saison,BELGIAN ALE,BELGIAN,2018.0,1,Mash rest,150.0,60
+158,Count Orloque Saison,BELGIAN ALE,BELGIAN,2018.0,1,Mash rest,150.0,60
+159,WeldWerks Brewing Juicy Bits NEIPA,HAZY / NEW ENGLAND IPA,IPA,2018.0,1,Saccharification rest,149.0,45
+160,New Holland Dragon’s Milk Bourbon Barrel-Aged Stout,IMPERIAL STOUT,STOUT,2018.0,1,,156.0,60
+161,Allagash White Clone,BELGIAN ALE,BELGIAN,2018.0,1,Mash,150.0,60
+163,Anchor Brewing Old Foghorn,BARLEYWINE,STRONG_ALE,2018.0,1,Mash Rest,155.0,60
+164,Sierra Nevada Bigfoot Barleywine (ver. 2),BARLEYWINE,STRONG_ALE,2018.0,1,Mash,151.0,60
+165,Caliente Tejano Pepper Cream Ale,CREAM ALE,BLONDE_PALE,2018.0,1,,150.0,60
+166,Embracing Sunset Lager,AMBER LAGER,LAGER,2002.0,1,Initial Rest,132.0,30
+166,Embracing Sunset Lager,AMBER LAGER,LAGER,2002.0,2,Sacrifice and Raise temp,157.0,30
+166,Embracing Sunset Lager,AMBER LAGER,LAGER,2002.0,3,Mash Out,167.0,0
+167,Peach IPA,FRUIT BEER,OTHER,2016.0,1,Mash,150.0,75
+168,The Blue Devils BGSA,BELGIAN ALE,BELGIAN,2016.0,1,Initial mash,147.0,60
+168,The Blue Devils BGSA,BELGIAN ALE,BELGIAN,2016.0,2,Raised mash,151.0,30
+168,The Blue Devils BGSA,BELGIAN ALE,BELGIAN,2016.0,3,Mash out,168.0,10
+169,"The Kernel Imperial Brown Stout, London 1856",HISTORICAL BEER,OTHER,2013.0,1,,148.0,90
+170,Rocky Raccoon’s Honey Lager,AMERICAN LAGER,LAGER,2016.0,1,Initial Mash,132.0,30
+170,Rocky Raccoon’s Honey Lager,AMERICAN LAGER,LAGER,2016.0,2,Protein Rest or step to 155\u00b0F,155.0,30
+170,Rocky Raccoon’s Honey Lager,AMERICAN LAGER,LAGER,2016.0,3,Mash Out,167.0,0
+171,Dusty Mud Irish-Style Stout,STOUT,STOUT,2000.0,1,Mash,152.0,60
+172,Kathleen’s Spruce Ale,AMERICAN PALE ALE,IPA,2018.0,1,Mash,154.0,60
+174,Two Flamingoes Strawberry Milkshake IPA,HAZY / NEW ENGLAND IPA,IPA,2018.0,1,Mash,150.0,60
+175,Grisette de Saison,BELGIAN ALE,BELGIAN,2018.0,1,Rest at 42\u00b0C,108.0,10
+175,Grisette de Saison,BELGIAN ALE,BELGIAN,2018.0,2,Rest at 52\u00b0C,126.0,15
+175,Grisette de Saison,BELGIAN ALE,BELGIAN,2018.0,3,Rest at 65\u00b0C,149.0,50
+175,Grisette de Saison,BELGIAN ALE,BELGIAN,2018.0,4,Rest at 72\u00b0C,162.0,30
+176,Ordinary Grisette,BELGIAN ALE,BELGIAN,2018.0,1,Rest at 42\u00b0C,108.0,10
+176,Ordinary Grisette,BELGIAN ALE,BELGIAN,2018.0,2,Rest at 52\u00b0C,126.0,15
+176,Ordinary Grisette,BELGIAN ALE,BELGIAN,2018.0,3,Rest at 65\u00b0C,149.0,50
+176,Ordinary Grisette,BELGIAN ALE,BELGIAN,2018.0,4,Rest at 72\u00b0C,162.0,30
+177,Stew’s Brew Imperial Black IPA,IPA,IPA,2018.0,1,Mash,150.0,60
+178,Stew’s Brew Hefeweizen,HEFEWEIZEN,WHEAT_BEER,2018.0,1,Protein Rest,122.0,20
+178,Stew’s Brew Hefeweizen,HEFEWEIZEN,WHEAT_BEER,2018.0,2,Saccharification Rest,150.0,60
+178,Stew’s Brew Hefeweizen,HEFEWEIZEN,WHEAT_BEER,2018.0,3,Mash Out,168.0,0
+179,Westbound Quad,BELGIAN ALE,BELGIAN,2018.0,1,Mash,149.0,75
+180,Bleu Reserve,BELGIAN ALE,BELGIAN,2018.0,1,Mash rest,149.0,75
+181,Big Star Lager,AMERICAN PILSNER,LAGER,2018.0,1,Mash,145.0,30
+181,Big Star Lager,AMERICAN PILSNER,LAGER,2018.0,2,Raise temperature,160.0,20
+181,Big Star Lager,AMERICAN PILSNER,LAGER,2018.0,3,Rest,160.0,15
+182,Simple Pils,GERMAN PILSNER,LAGER,2018.0,1,Mash,145.0,30
+182,Simple Pils,GERMAN PILSNER,LAGER,2018.0,2,Rest and raise temp,160.0,15
+183,Chrysanthemum Flower Tea Kölsch,HYBRID BEER,OTHER,2018.0,1,Mash,150.0,60
+184,TukTukTea IPA,IPA,IPA,2018.0,1,mash,153.0,60
+185,Choc Full O’ Cherry Porter,FRUIT BEER,OTHER,2007.0,1,Mash at 152\u00b0F,152.0,60
+186,John’s “World Famous” Dark Lager,DARK LAGER,LAGER,,1,Mash,152.0,45
+188,Just Another Pretty Face,BARLEYWINE,STRONG_ALE,2017.0,1,Mash in,154.0,60
+189,American-Style Cascadian India Dark Double Black IPA (ASCIDDBIPA),IPA,IPA,2018.0,1,primary mash,150.0,60
+189,American-Style Cascadian India Dark Double Black IPA (ASCIDDBIPA),IPA,IPA,2018.0,2,mash out,168.0,10
+190,Bru’n Dry Stout,IRISH STOUT,STOUT,2013.0,1,Mash,148.0,60
+190,Bru’n Dry Stout,IRISH STOUT,STOUT,2013.0,2,Mash out,168.0,0
+191,Organic Juniper Porter,BALTIC PORTER,PORTER,2005.0,1,Mash,152.0,60
+192,Right on Hoover Hefeweizen,HEFEWEIZEN,WHEAT_BEER,2018.0,1,Mash,148.0,60
+194,Psychedelic Weisse (Berliner Weisse with Dragon Fruit and Guava),BERLINER WEISSE,SOUR,2017.0,1,Mash Step 1,131.0,10
+194,Psychedelic Weisse (Berliner Weisse with Dragon Fruit and Guava),BERLINER WEISSE,SOUR,2017.0,2,Mash Step 2,150.0,60
+194,Psychedelic Weisse (Berliner Weisse with Dragon Fruit and Guava),BERLINER WEISSE,SOUR,2017.0,3,Mash Out,172.0,10
+195,American IPA con Pomelo Rosado (Pink Grapefruit American IPA),AMERICAN IPA,IPA,2017.0,1,Mash,150.0,90
+196,Barley Phillip Irish Red,AMBER ALE,AMBER_ALE,2018.0,1,Mash at 148\u00b0F,148.0,60
+196,Barley Phillip Irish Red,AMBER ALE,AMBER_ALE,2018.0,2,Ramp to 168\u00b0F over 20 minutes,168.0,20
+196,Barley Phillip Irish Red,AMBER ALE,AMBER_ALE,2018.0,3,Hold at 168\u00b0F for 10 minutes,168.0,10
+197,Terre au Verre,BELGIAN ALE,BELGIAN,2018.0,1,Mash,150.0,60
+198,Pirate of the Baltic Porter,Baltic Porter,PORTER,2012.0,1,,149.0,60
+199,Cherry Dubbel,BELGIAN ALE,BELGIAN,2007.0,1,Initial Mash,150.0,30
+199,Cherry Dubbel,BELGIAN ALE,BELGIAN,2007.0,2,Mash rest,155.0,30
+201,Höfter’s Blanc Pale Ale,AMERICAN PALE ALE,IPA,2017.0,1,Initial Rest,145.0,20
+201,Höfter’s Blanc Pale Ale,AMERICAN PALE ALE,IPA,2017.0,2,Step-up to 155\u00b0F,155.0,40
+203,Squeeze the Day,FRUITED SOUR,SOUR,2017.0,1,Mash,154.0,60
+204,Imperial Rice Pilsner,PILSNER,LAGER,2017.0,1,Protein rest,122.0,20
+204,Imperial Rice Pilsner,PILSNER,LAGER,2017.0,2,Main mash stabilization,149.0,50
+204,Imperial Rice Pilsner,PILSNER,LAGER,2017.0,3,Mash out,168.0,10
+205,SMASH Bohemian Pils,CZECH / BOHO PILS,LAGER,2017.0,1,Mash in,122.0,20
+205,SMASH Bohemian Pils,CZECH / BOHO PILS,LAGER,2017.0,2,Step raise to mash temp,151.0,60
+205,SMASH Bohemian Pils,CZECH / BOHO PILS,LAGER,2017.0,3,Mash out,168.0,10
+206,Siebte Flasche,HEFEWEIZEN,WHEAT_BEER,2017.0,1,Ferulic Acid Rest,113.0,10
+206,Siebte Flasche,HEFEWEIZEN,WHEAT_BEER,2017.0,2,Protein Rest,122.0,10
+206,Siebte Flasche,HEFEWEIZEN,WHEAT_BEER,2017.0,3,Saccharification,147.0,5
+206,Siebte Flasche,HEFEWEIZEN,WHEAT_BEER,2017.0,4,Decoction,147.0,5
+206,Siebte Flasche,HEFEWEIZEN,WHEAT_BEER,2017.0,5,Decoction rests,152.0,10
+206,Siebte Flasche,HEFEWEIZEN,WHEAT_BEER,2017.0,6,Decoction rests,158.0,20
+206,Siebte Flasche,HEFEWEIZEN,WHEAT_BEER,2017.0,7,Mash Out,168.0,90
+208,Rye the Heck Not?,WHEAT & RYE BEER,WHEAT_BEER,2012.0,1,Mash-in,122.0,30
+208,Rye the Heck Not?,WHEAT & RYE BEER,WHEAT_BEER,2012.0,2,Mash raise,154.0,70
+210,Jamil’s Extra Yellow,AMERICAN LAGER,LAGER,,1,Mash,149.0,60
+211,Continental-Style Baltic Porter,BALTIC PORTER,PORTER,2017.0,1,Mash,148.0,60
+211,Continental-Style Baltic Porter,BALTIC PORTER,PORTER,2017.0,2,Mash Out,168.0,1
+212,London-Style Baltic Porter,BALTIC PORTER,PORTER,2017.0,1,Mash in,148.0,60
+212,London-Style Baltic Porter,BALTIC PORTER,PORTER,2017.0,2,Mash out,168.0,0
+213,Golden Ale,ENGLISH PALE ALE,IPA,2017.0,1,,147.0,60
+214,GP75 Pale Ale,AMERICAN PALE ALE,IPA,2017.0,1,Mash,147.0,60
+215,Prost Bock,BOCK,LAGER,2011.0,1,First rest,122.0,30
+215,Prost Bock,BOCK,LAGER,2011.0,2,Second rest,140.0,30
+215,Prost Bock,BOCK,LAGER,2011.0,3,Third rest,158.0,30
+215,Prost Bock,BOCK,LAGER,2011.0,4,Mash Out,170.0,0
+216,Boulevard Brewing Co. Tank 7,BELGIAN ALE,BELGIAN,,1,Mash,150.0,45
+217,Big Beach Brewing Co. For the Love of…Mosaic,AMERICAN PALE ALE,IPA,,1,Mash Rest,150.0,60
+218,Focal Point (Inspired by The Alchemist’s Focal Banger),HAZY / NEW ENGLAND IPA,IPA,,1,Mash,150.0,75
+219,Great Lakes Brewing Edmund Fitzgerald Porter,BALTIC PORTER,PORTER,,1,Mash,152.0,60
+220,New Glarus Brewing Belgian Red Ale,BELGIAN ALE,BELGIAN,,1,Mash,156.0,60
+221,More Fun Blonde,BELGIAN ALE,BELGIAN,2011.0,1,Mash,152.0,60
+222,Solstice Spice,BELGIAN ALE,BELGIAN,2006.0,1,Mash,156.0,30
+223,Kölsch,HYBRID BEER,OTHER,2017.0,1,Mash,149.0,60
+224,The Cure from Cork,Irish Stout,STOUT,2017.0,1,Mash,150.0,45
+224,The Cure from Cork,Irish Stout,STOUT,2017.0,2,Mash hold,168.0,5
+225,Copper Ale,AMBER ALE,AMBER_ALE,2017.0,1,Mash,152.0,60
+226,80 Shilling Scottish Ale,AMBER ALE,AMBER_ALE,2017.0,1,Mash,154.0,60
+227,Spice Trade Brewing Sun Temple IPA,AMERICAN IPA,IPA,2017.0,1,Mash,148.0,60
+228,Lawson’s Sip of Sunshine IPA Clone,HAZY / NEW ENGLAND IPA,IPA,2017.0,1,Mash,152.0,60
+229,Sierra Nevada Celebration Ale (Version 2),AMERICAN IPA,IPA,2017.0,1,Mash,152.0,60
+230,Smoked Habanero IPA,IPA,IPA,2017.0,1,Mash,152.0,60
+231,Brighid’s Irish Red Ale,AMBER ALE,AMBER_ALE,2009.0,1,Mash,155.0,60
+232,Fuller’s ESB Clone,ENGLISH PALE ALE,IPA,2006.0,1,Mash,155.0,60
+236,Ommegang Abbey Clone,BELGIAN ALE,BELGIAN,2008.0,1,Protein Rest,145.0,45
+236,Ommegang Abbey Clone,BELGIAN ALE,BELGIAN,2008.0,2,Saccharification Rest,155.0,30
+236,Ommegang Abbey Clone,BELGIAN ALE,BELGIAN,2008.0,3,Mash Out,160.0,10
+237,Montezuma’s Revenge Mexican Dark Lager with Coffee,COFFEE BEER,OTHER,2010.0,1,Mash,152.0,45
+238,Dirk Diggler New England Pale Ale,HAZY / NEW ENGLAND IPA,IPA,,1,Mash,150.0,60
+239,Arrogant Bastard Clone,UK/US STRONG ALE,STRONG_ALE,2011.0,1,Mash,150.0,60
+240,Bitter Beer Face Session IPA,IPA,IPA,2013.0,1,Mash,152.0,60
+241,Harvest Ale Saison,BELGIAN ALE,BELGIAN,2008.0,1,Mash,148.0,75
+242,Whale’s Tail Pale Ale,AMERICAN PALE ALE,IPA,,1,,154.0,90
+244,Dogfish Head 120 Minute IPA,IPA,IPA,2005.0,1,Mash,149.0,60
+245,Pressure Drop Stokey Brown,BROWN ALE,BROWN_ALE,2013.0,1,Mash at 122\u00b0F (50\u00b0C) for 10 min,122.0,10
+245,Pressure Drop Stokey Brown,BROWN ALE,BROWN_ALE,2013.0,2,Raise to 156\u00b0F (69\u00b0C) and hold for 60 min,156.0,60
+246,Gone But Not Forgotten Burton Old Ale,ENGLISH PALE ALE,IPA,2012.0,1,Mash,156.0,90
+247,Christmas Cinderella Double Brown Ale,SPICE & HERB BEER,OTHER,1997.0,1,Mash,156.0,60
+248,The Fall (Cranberry Saison),BELGIAN ALE,BELGIAN,2006.0,1,Mash,150.0,60
+249,Ale of Asgard,BARLEYWINE,STRONG_ALE,,1,First mash,150.0,15
+249,Ale of Asgard,BARLEYWINE,STRONG_ALE,,2,Second mash,140.0,30
+249,Ale of Asgard,BARLEYWINE,STRONG_ALE,,3,Mash out,168.0,0
+251,Epic Stout,IMPERIAL STOUT,STOUT,2014.0,1,mash,159.0,60
+252,Julie: A Pumpkin Belgian Strong Ale,BELGIAN ALE,BELGIAN,2006.0,1,Mash,150.0,60
+253,Ekuanot HBC 366 American Pale Ale,AMERICAN PALE ALE,IPA,,1,,153.0,60
+254,3 Floyds Alpha King Clone,AMERICAN PALE ALE,IPA,,1,Mash,154.0,60
+255,Sierra Nevada Bigfoot Barleywine,BARLEYWINE,STRONG_ALE,2006.0,1,Infusion mash,154.0,60
+256,Sippin’ on the Dock of the Bay IPA,AMERICAN IPA,IPA,2009.0,1,Mash,151.0,45
+257,Deschutes Chainbreaker White IPA Clone,IPA,IPA,2012.0,1,Rest 1,125.0,15
+257,Deschutes Chainbreaker White IPA Clone,IPA,IPA,2012.0,2,Rest 2,145.0,15
+257,Deschutes Chainbreaker White IPA Clone,IPA,IPA,2012.0,3,Rest 3,163.0,20
+257,Deschutes Chainbreaker White IPA Clone,IPA,IPA,2012.0,4,Mash out,172.0,5
+258,Evil Twin,AMBER ALE,AMBER_ALE,2006.0,1,Mash,154.0,90
+259,Russian River Blind Pig IPA Clone,IPA,IPA,2012.0,1,Mash,154.0,60
+260,Victory Brewing Co. Prima Pils Clone,GERMAN PILSNER,LAGER,,1,Protein Rest,122.0,20
+260,Victory Brewing Co. Prima Pils Clone,GERMAN PILSNER,LAGER,,2,Main Mash 1,145.0,40
+260,Victory Brewing Co. Prima Pils Clone,GERMAN PILSNER,LAGER,,3,Main Mash 2,155.0,20
+260,Victory Brewing Co. Prima Pils Clone,GERMAN PILSNER,LAGER,,4,Mash Out,165.0,10
+261,Collective Hoppiness,Imperial / Double IPA,IPA,2012.0,1,Mash,153.0,60
+262,Kalyke Blonde,BELGIAN ALE,BELGIAN,2015.0,1,Mash,152.0,45
+262,Kalyke Blonde,BELGIAN ALE,BELGIAN,2015.0,2,Mash Out,170.0,0
+263,Summertime Ginger Ale,SPICE & HERB BEER,OTHER,,1,Mash,152.0,60
+264,LAB Coconut Porter,PORTER,PORTER,2013.0,1,Mash,152.0,60
+265,Jeff’s Untitled Dortmunder,HELLES,OTHER,2011.0,1,Main mash rest,130.0,30
+265,Jeff’s Untitled Dortmunder,HELLES,OTHER,2011.0,2,Decoction pull,130.0,30
+265,Jeff’s Untitled Dortmunder,HELLES,OTHER,2011.0,3,Raise decoction to boil and return to mash,149.0,90
+265,Jeff’s Untitled Dortmunder,HELLES,OTHER,2011.0,4,Mash out,168.0,10
+266,Pickelhaube Märzen,AMBER LAGER,LAGER,,1,Protein Rest,122.0,20
+266,Pickelhaube Märzen,AMBER LAGER,LAGER,,2,Mash Out,168.0,10
+266,Pickelhaube Märzen,AMBER LAGER,LAGER,,3,Rest,150.0,60
+267,Oskar Blues Dale’s Pale Ale,AMERICAN PALE ALE,IPA,2009.0,1,Infusion mash,151.0,90
+268,Odell IPA,AMERICAN IPA,IPA,2007.0,1,Mash,154.0,60
+269,(512) Brewing Co. Pecan Porter,PORTER,PORTER,,1,Mash,154.0,60
+270,Sour Blonde with Apricot,BELGIAN ALE,BELGIAN,2015.0,1,Mash,160.0,15
+271,Founders Kentucky Breakfast Stout,Imperial Stout,STOUT,,1,Mash,155.0,60
+272,Browneywine (Maltose Falcons & Firestone Walker),BARLEYWINE,STRONG_ALE,1974.0,1,Mash in,155.0,60
+273,North Coast Old Rasputin Russian Imperial Stout Clone,IMPERIAL STOUT,STOUT,2007.0,1,Mash at 152\u00b0F,152.0,60
+273,North Coast Old Rasputin Russian Imperial Stout Clone,IMPERIAL STOUT,STOUT,2007.0,2,Mash out at 158\u00b0F,158.0,10
+274,Gordon Biersch Winter Bock,BOCK,LAGER,2011.0,1,Rest 1,104.0,30
+274,Gordon Biersch Winter Bock,BOCK,LAGER,2011.0,2,Rest 2,126.0,30
+274,Gordon Biersch Winter Bock,BOCK,LAGER,2011.0,3,Rest 3,144.0,30
+274,Gordon Biersch Winter Bock,BOCK,LAGER,2011.0,4,Rest 4,155.0,30
+274,Gordon Biersch Winter Bock,BOCK,LAGER,2011.0,5,Rest 5,162.0,30
+275,Sierra Nevada Celebration Ale,IPA,IPA,2003.0,1,mash,154.0,45
+276,Dark Winter Saison IV,BELGIAN ALE,BELGIAN,2014.0,1,,159.0,60
+277,Green Flash West Coast IPA,AMERICAN IPA,IPA,2013.0,1,Mash,152.0,60
+278,Chodsko Pivo Bohemian Pilsner,CZECH / BOHO PILS,LAGER,2015.0,1,Mash In,148.0,90
+278,Chodsko Pivo Bohemian Pilsner,CZECH / BOHO PILS,LAGER,2015.0,2,Rest at 161\u00b0F (72\u00b0C),161.0,20
+278,Chodsko Pivo Bohemian Pilsner,CZECH / BOHO PILS,LAGER,2015.0,3,Rest at 170\u00b0F (77\u00b0C),170.0,15
+279,Lagunitas Brown Shugga’ Clone,BARLEYWINE,STRONG_ALE,,1,Mash,155.0,60
+280,Delirium Oat Rosemary Pale Ale Recipe,IPA,IPA,,1,Rest,132.0,30
+281,Alaskan Smoked Porter Clone,PORTER,PORTER,,1,Mash,152.0,75
+282,Left Hand Milk Stout Clone,STOUT,STOUT,,1,Mash,151.0,90
+283,Lagunitas Little Sumpin’ Sumpin’ Clone,AMERICAN PALE ALE,IPA,,1,,150.0,90
+284,Ardley Brown Ale,BROWN ALE,BROWN_ALE,2012.0,1,Mash at 150\u00b0F,150.0,60
+285,Charlie’s Brown Ale,BROWN ALE,BROWN_ALE,2013.0,1,At 122\u00b0F/50\u00b0C,122.0,20
+285,Charlie’s Brown Ale,BROWN ALE,BROWN_ALE,2013.0,2,At 143\u00b0F/62\u00b0C,143.0,30
+285,Charlie’s Brown Ale,BROWN ALE,BROWN_ALE,2013.0,3,At 152\u00b0F/67\u00b0C,152.0,60
+286,Bonnie Prince Charlie’s 80/- Shilling,AMBER ALE,AMBER_ALE,2014.0,1,Mash,156.0,60
+286,Bonnie Prince Charlie’s 80/- Shilling,AMBER ALE,AMBER_ALE,2014.0,2,Heat to mash out,168.0,10
+287,Deschutes’ Fresh Squeezed IPA Clone,AMERICAN IPA,IPA,,1,Mash,150.0,60
+288,Sierra Nevada Ruthless Rye Clone,IPA,IPA,2012.0,1,Mash,154.0,60
+288,Sierra Nevada Ruthless Rye Clone,IPA,IPA,2012.0,2,Mash Out,162.0,10
+288,Sierra Nevada Ruthless Rye Clone,IPA,IPA,2012.0,3,Raise and sparge,172.0,0
+289,Ugly Pug Schwarzbier Clone,DARK LAGER,LAGER,2010.0,1,Mash,152.0,90
+290,Dogfish Head Raison D’Etre Clone,BELGIAN ALE,BELGIAN,,1,Mash,152.0,60
+291,Oh My Eye! Grapefruit Hefeweizen,FRUIT BEER,OTHER,2008.0,1,Mash,152.0,30
+292,Gold,German Pilsner,LAGER,2015.0,1,Acid Rest,147.0,90
+292,Gold,German Pilsner,LAGER,2015.0,2,Rest at 148\u00b0F,148.0,5
+292,Gold,German Pilsner,LAGER,2015.0,3,Rest at 158\u00b0F,158.0,5
+292,Gold,German Pilsner,LAGER,2015.0,4,Mash Out/Remix,170.0,10
+293,Isaac’s Standard Lager,AMERICAN LAGER,LAGER,2015.0,1,Mash,149.0,60
+294,Vienna Lager,AMBER LAGER,LAGER,2015.0,1,Mash,152.0,60
+295,May The Schwarz Be With You,DARK LAGER,LAGER,2015.0,1,Single Infusion,142.0,10
+295,May The Schwarz Be With You,DARK LAGER,LAGER,2015.0,2,Decoction Pull,152.0,20
+295,May The Schwarz Be With You,DARK LAGER,LAGER,2015.0,3,Main mash hold,154.0,0
+296,Saint Martin Doppel,BOCK,LAGER,2015.0,1,Initial mash,125.0,15
+296,Saint Martin Doppel,BOCK,LAGER,2015.0,2,First decoction,156.0,15
+296,Saint Martin Doppel,BOCK,LAGER,2015.0,3,Second decoction,168.0,10
+297,Cream of the Crop,Cream Ale,BLONDE_PALE,2015.0,1,Saccharification Rest,149.0,60
+298,Gate Keeper,AMBER LAGER,LAGER,2015.0,1,Mash,149.0,60
+299,Ordinarily Bitter,ENGLISH PALE ALE,IPA,2015.0,1,Main Mash,152.0,60
+300,3 Angels Kilt Lifter,AMBER ALE,AMBER_ALE,2015.0,1,Mash in,156.0,60
+300,3 Angels Kilt Lifter,AMBER ALE,AMBER_ALE,2015.0,2,Mash out,168.0,10
+301,Prenup Pale Ale,AMERICAN PALE ALE,IPA,2015.0,1,Mash,148.0,75
+302,Kerry’s Session Mild,BROWN ALE,BROWN_ALE,2015.0,1,Protein Rest,132.0,10
+302,Kerry’s Session Mild,BROWN ALE,BROWN_ALE,2015.0,2,Mash,154.0,50
+302,Kerry’s Session Mild,BROWN ALE,BROWN_ALE,2015.0,3,Mash Out,170.0,1
+303,Dyson’s Chocolate Porter,AMERICAN PORTER,PORTER,2015.0,1,Mash,152.0,75
+304,Spokonoy Nochi 13,IMPERIAL STOUT,STOUT,2015.0,1,Saccharification Rest,152.0,60
+305,Over The Top 7 Hop IPA,AMERICAN IPA,IPA,2015.0,1,Mash,152.0,60
+305,Over The Top 7 Hop IPA,AMERICAN IPA,IPA,2015.0,2,Mash Out,170.0,10
+306,Weize-Ass Bock,BOCK,LAGER,2015.0,1,Main mash,156.0,90
+307,Raspberry Flanders,FLANDERS RED,OTHER,2015.0,1,Mash,154.0,60
+307,Raspberry Flanders,FLANDERS RED,OTHER,2015.0,2,Mash Out,165.0,20
+308,Oskar’s Gueuze,GUEUZE,OTHER,2015.0,1,Mash,162.0,60
+309,Tridevils Tripel T’s,BELGIAN ALE,BELGIAN,2015.0,1,Protein Rest,124.0,20
+309,Tridevils Tripel T’s,BELGIAN ALE,BELGIAN,2015.0,2,Rest,147.0,90
+309,Tridevils Tripel T’s,BELGIAN ALE,BELGIAN,2015.0,3,Mash Out,168.0,15
+311,Raspberry Tart,ENGLISH PALE ALE,IPA,2015.0,1,Mash,159.0,60
+312,Mark’s Chipotle Lichtenhainer,HISTORICAL BEER,OTHER,2015.0,1,mash,148.0,70
+313,Whales BBDS (Blended Belgian Dark Strong),BELGIAN ALE,BELGIAN,2015.0,1,Mash,153.0,60
+314,Citra Session IPA,AMERICAN IPA,IPA,2015.0,1,mash,155.0,60
+315,J-Lo & Chew-zacca’s Wild Ride Pale Ale,AMERICAN PALE ALE,IPA,,1,Mash,152.0,60
+316,Gunnawanna ‘Toberfest,PALE LAGER,LAGER,2015.0,1,Initial step,132.0,30
+316,Gunnawanna ‘Toberfest,PALE LAGER,LAGER,2015.0,2,Mash up,155.0,30
+316,Gunnawanna ‘Toberfest,PALE LAGER,LAGER,2015.0,3,Mash out,167.0,0
+317,San Diego Dark Session Ale,BROWN ALE,BROWN_ALE,,1,Mash,162.0,45
+317,San Diego Dark Session Ale,BROWN ALE,BROWN_ALE,,2,Mash,152.0,45
+318,The Bruery’s Black Orchard Wit,BELGIAN ALE,BELGIAN,2009.0,1,Main mash,146.0,60
+319,The Tsar’s Kvass,HISTORICAL BEER,OTHER,,1,Mash,152.0,90
+320,Czeslaw Dzielak’s Imperial IPA,IMPERIAL / DOUBLE IPA,IPA,2015.0,1,Heat to 150.6-151.7\u00b0F,151.1,17
+320,Czeslaw Dzielak’s Imperial IPA,IMPERIAL / DOUBLE IPA,IPA,2015.0,2,Rest,151.1,45
+320,Czeslaw Dzielak’s Imperial IPA,IMPERIAL / DOUBLE IPA,IPA,2015.0,3,Heat to 159.8-161\u00b0F,160.4,7
+320,Czeslaw Dzielak’s Imperial IPA,IMPERIAL / DOUBLE IPA,IPA,2015.0,4,Rest,160.4,15
+320,Czeslaw Dzielak’s Imperial IPA,IMPERIAL / DOUBLE IPA,IPA,2015.0,5,Heat to 169-170\u00b0F,169.5,6
+321,Russian River Pliny the Elder Clone,AMERICAN IPA,IPA,,1,Mash at 151-152\u00b0F,151.0,60
+321,Russian River Pliny the Elder Clone,AMERICAN IPA,IPA,,2,Mash out at 170\u00b0F,170.0,60
+322,Firestone Walker Wookey Jack Clone,IPA,IPA,2014.0,1,Mash at 145-148\u00b0F,146.5,60
+322,Firestone Walker Wookey Jack Clone,IPA,IPA,2014.0,2,Increase to 155\u00b0F,155.0,10
+323,Deschutes Black Butte Porter Clone,AMERICAN PORTER,PORTER,,1,Mash,153.0,60
+323,Deschutes Black Butte Porter Clone,AMERICAN PORTER,PORTER,,2,Mash Out,168.0,1
+324,Dogfish Head 90 Minute IPA Clone,IMPERIAL / DOUBLE IPA,IPA,,1,Mash,150.0,60
+325,Bastage English Summer Ale,BLONDE ALE,BLONDE_PALE,2011.0,1,Mash,151.0,50
+326,Nazz Session IPA,AMERICAN IPA,IPA,,1,Mash,153.0,60
+327,Matt’s Sour Brown,BROWN ALE,BROWN_ALE,2011.0,1,Mash,149.0,60
+328,2015 Big Brew Recipe #3: Killer Kölsch,HYBRID BEER,OTHER,2015.0,1,Mash rest 1,131.0,10
+328,2015 Big Brew Recipe #3: Killer Kölsch,HYBRID BEER,OTHER,2015.0,2,Mash rest 2,145.0,45
+328,2015 Big Brew Recipe #3: Killer Kölsch,HYBRID BEER,OTHER,2015.0,3,Mash rest 3,158.0,20
+328,2015 Big Brew Recipe #3: Killer Kölsch,HYBRID BEER,OTHER,2015.0,4,Mashout,168.0,10
+329,Dollar to Döllnitz Gose,HISTORICAL BEER,OTHER,2015.0,1,Mash,149.0,45
+329,Dollar to Döllnitz Gose,HISTORICAL BEER,OTHER,2015.0,2,Secondary mash with acid malt,149.0,45
+329,Dollar to Döllnitz Gose,HISTORICAL BEER,OTHER,2015.0,3,Mash out,168.0,60
+330,Dan’s Märzen,AMBER LAGER,LAGER,2011.0,1,Rest at 104\u00b0F (40\u00b0C),104.0,30
+330,Dan’s Märzen,AMBER LAGER,LAGER,2011.0,2,Rest at 126\u00b0F (52\u00b0C),126.0,30
+330,Dan’s Märzen,AMBER LAGER,LAGER,2011.0,3,Rest at 144\u00b0F (62\u00b0C),144.0,30
+330,Dan’s Märzen,AMBER LAGER,LAGER,2011.0,4,Rest at 155\u00b0F (68\u00b0C),155.0,30
+330,Dan’s Märzen,AMBER LAGER,LAGER,2011.0,5,Rest at 162\u00b0F (72\u00b0C),162.0,30
+331,Ryed Hard American Rye Ale,AMERICAN PALE ALE,IPA,2010.0,1,mash in,150.0,60
+332,Pagosa’s Shreddin’ Red IPA Clone,AMERICAN IPA,IPA,,1,Mash at 152\u00b0F (67\u00b0C) for 45 minutes,152.0,45
+333,Newcastle Brown Ale Clone,BROWN ALE,BROWN_ALE,2001.0,1,Mash,154.0,60
+334,My Smoked Dark Heart Lager,DARK LAGER,LAGER,2009.0,1,Mash at 125\u00b0F (52\u00b0C),125.0,20
+334,My Smoked Dark Heart Lager,DARK LAGER,LAGER,2009.0,2,Mash at 154\u00b0F (68\u00b0C),154.0,60
+335,Valymber Strong Bitter,ENGLISH PALE ALE,IPA,2002.0,1, mash,155.0,90
+336,Stout Trousers,AMERICAN STOUT,STOUT,2009.0,1,Mash,154.0,60
+337,Sweet Mischief Vienna-Mild,AMBER LAGER,LAGER,2012.0,1,Initial resting,132.0,30
+337,Sweet Mischief Vienna-Mild,AMBER LAGER,LAGER,2012.0,2,Saccharification,155.0,30
+337,Sweet Mischief Vienna-Mild,AMBER LAGER,LAGER,2012.0,3,Mash Out,167.0,0
+339,Jabberwocky Maibock,BOCK,LAGER,2004.0,1,Saccharification,132.0,30
+339,Jabberwocky Maibock,BOCK,LAGER,2004.0,2,Mash Out,167.0,15
+340,Better Red Than Dead,AMBER ALE,AMBER_ALE,2009.0,1,Mash,153.0,60
+341,American Malt Liquor (Olde English Clone),AMERICAN LAGER,LAGER,,1,Initial mash,122.0,30
+341,American Malt Liquor (Olde English Clone),AMERICAN LAGER,LAGER,,2,Saccharification,150.0,60
+341,American Malt Liquor (Olde English Clone),AMERICAN LAGER,LAGER,,3,Mash Out,167.0,0
+342,Black is Back,BELGIAN ALE,BELGIAN,2013.0,1,Initial Mash,132.0,30
+342,Black is Back,BELGIAN ALE,BELGIAN,2013.0,2,Saccharification,155.0,30
+342,Black is Back,BELGIAN ALE,BELGIAN,2013.0,3,Mash Out,167.0,0
+343,Yak & Yeti’s Chai Milk Stout Clone,SPICE & HERB BEER,OTHER,2013.0,1,Mash,151.0,60
+344,Ruabeoir Red Ale,AMBER ALE,AMBER_ALE,,1,Mash,153.0,60
+345,Hop Hammer,IMPERIAL / DOUBLE IPA,IPA,,1,Mash,150.0,60
+347,Belgian Bombshell,BELGIAN ALE,BELGIAN,2009.0,1,Mash,152.0,60
+351,Falconclaws (Samichlaus),BOCK,LAGER,,1,Mash In,124.0,30
+351,Falconclaws (Samichlaus),BOCK,LAGER,,2,Saccharification Rest,154.0,60
+352,Belgian IPA,BELGIAN ALE,BELGIAN,2011.0,1,Mash,145.0,45
+352,Belgian IPA,BELGIAN ALE,BELGIAN,2011.0,2,Raise temperature,155.0,15
+352,Belgian IPA,BELGIAN ALE,BELGIAN,2011.0,3,Mash out,165.0,0
+356,Yellow Diamond Belgian Pale Ale,BELGIAN ALE,BELGIAN,,1,Mash,152.0,60
+358,Hibiscus Mango Blonde,BLONDE ALE,BLONDE_PALE,2012.0,1,Mash,151.0,45
+359,Classic American Pilsner,PILSNER,LAGER,2012.0,1,Mash,150.0,75
+360,Orpheo Roja (Chimay Red Clone),BELGIAN ALE,BELGIAN,2000.0,1,Mash,154.0,60
+362,Rogue Dead Guy Ale Clone,BOCK,LAGER,2003.0,1,Mash,150.0,60
+364,Not-So Pilsener,PILSNER,LAGER,2005.0,1,Protein Rest or similar,132.0,30
+364,Not-So Pilsener,PILSNER,LAGER,2005.0,2,Saccharification rest,155.0,30
+364,Not-So Pilsener,PILSNER,LAGER,2005.0,3,Mash Out or similar,167.0,0
+365,Baltic Porter,BALTIC PORTER,PORTER,2006.0,1,Mash,150.0,90
+366,Nirvana Chanterelle Ale,SPICE & HERB BEER,OTHER,,1,Initial mash,113.0,30
+366,Nirvana Chanterelle Ale,SPICE & HERB BEER,OTHER,,2,Raise to saccharification,145.0,30
+366,Nirvana Chanterelle Ale,SPICE & HERB BEER,OTHER,,3,Ramp to mash temp,156.0,45
+367,Sticke Alt,ALTBIER,OTHER,,1,Protein Rest,122.0,30
+367,Sticke Alt,ALTBIER,OTHER,,2,Beta Saccharification Rest,148.0,15
+367,Sticke Alt,ALTBIER,OTHER,,3,Alpha Saccharification Rest,156.0,15
+367,Sticke Alt,ALTBIER,OTHER,,4,Mash Out,170.0,0
+369,Lampo Bianco (White Lightning),BELGIAN ALE,BELGIAN,2012.0,1,Infusion mash,154.0,60
+370,100% Brettanomyces Farmhouse,FARMHOUSE BEER,BELGIAN,2012.0,1,,151.0,60
+371,Caribbean Stout,FOREIGN / TROPICAL STOUT,STOUT,,1,,156.0,60
+372,Smoked Robust Porter,PORTER,PORTER,,1,Infusion,154.0,60
+373,So Very Cherry White,BELGIAN ALE,BELGIAN,2011.0,1,Mash,148.0,60
+374,Pliny the Toddler,AMERICAN IPA,IPA,2011.0,1,Mash at 152\u00b0F,152.0,60
+379,Carla’s Oat Brown Ale,BROWN ALE,BROWN_ALE,2010.0,1,Initial Mash,132.0,30
+379,Carla’s Oat Brown Ale,BROWN ALE,BROWN_ALE,2010.0,2,Rest with Oats and Pale Malt,155.0,30
+379,Carla’s Oat Brown Ale,BROWN ALE,BROWN_ALE,2010.0,3,Mash Out,167.0,0
+380,Dubbel Trouble,BELGIAN ALE,BELGIAN,2009.0,1,45 min at 105 \u00b0F,105.0,45
+380,Dubbel Trouble,BELGIAN ALE,BELGIAN,2009.0,2,30 min at 140 \u00b0F,140.0,30
+380,Dubbel Trouble,BELGIAN ALE,BELGIAN,2009.0,3,Raise to 160 \u00b0F over 30 min,160.0,30
+380,Dubbel Trouble,BELGIAN ALE,BELGIAN,2009.0,4,Hold for 15 min,160.0,15
+382,Passionfruit-Mango Wildfire Wheat,AMERICAN WHEAT,WHEAT_BEER,2010.0,1,Mash,151.0,60
+383,Bohemian Thriller,CZECH / BOHO PILS,LAGER,2010.0,1,Protein Rest,132.0,30
+383,Bohemian Thriller,CZECH / BOHO PILS,LAGER,2010.0,2,Mash Out,167.0,1
+384,Rocket Rod Romanak’s Positively Porter,BALTIC PORTER,PORTER,,1,Mash,154.0,60
+385,American Barleywine,BARLEYWINE,STRONG_ALE,,1,Mash,152.0,60
+388,Munich Helles,HELLES,OTHER,,1,Mash,152.0,60
+389,Big Black’s Revenge,DARK LAGER,LAGER,,1,Steep grains,170.0,30
+391,Danny’s Bock,BOCK,LAGER,2009.0,1,Mash,154.0,45
+392,Scott’s Scottish Heavy,AMBER ALE,AMBER_ALE,2009.0,1,Mash,158.0,90
+397,A Day in Vienna (Vienna Lager),VIENNA LAGER,LAGER,2023.0,1,Mash,152.0,60
+398,Rainforest Dark Sweet Stout,SWEET / MILK STOUT,STOUT,,1,Mash,152.0,60
+399,The Induction IPA,SPECIALTY IPA,IPA,2023.0,1,Mash,148.0,60
+400,Degobah Dunkel,DARK LAGER,LAGER,2024.0,1,Mash,150.0,45
+401,Jabba Juice Hazy IPA,HAZY / NEW ENGLAND IPA,IPA,2024.0,1,Mash,153.0,60
+401,Jabba Juice Hazy IPA,HAZY / NEW ENGLAND IPA,IPA,2024.0,2,Mash Out,167.0,10
+402,Critter Milk Stout,STOUT,STOUT,2023.0,1,Mash at 154\u00b0F (68\u00b0C),154.0,60
+402,Critter Milk Stout,STOUT,STOUT,2023.0,2,Circulate mash at 166\u00b0F (74\u00b0C),166.0,10
+403,SFB 21 Wild Ale,WILD ALE,OTHER,2023.0,1,Mash,152.0,60
+404,Bière Vide Lambic,SOUR ALE,SOUR,2023.0,1,Protein Rest,122.0,30
+404,Bière Vide Lambic,SOUR ALE,SOUR,2023.0,2,Saccharification Rest,152.0,75
+404,Bière Vide Lambic,SOUR ALE,SOUR,2023.0,3,Mash Out,168.0,10
+405,Mark3 Australian Sparkling Ale,PALE ALE,IPA,2023.0,1,Mash at 122\u00b0F,122.0,10
+405,Mark3 Australian Sparkling Ale,PALE ALE,IPA,2023.0,2,Mash at 156\u00b0F,156.0,45
+406,The Most Gluggable Czech Dark Lager,DARK LAGER,LAGER,2023.0,1,Mash,152.0,60
+407,A Mild Case Dark Mild,MILD,OTHER,2023.0,1,Mash,154.0,60
+408,Cliftyfest Festbier,FESTBIER,OTHER,2023.0,1,First mash rest,145.0,35
+408,Cliftyfest Festbier,FESTBIER,OTHER,2023.0,2,Second mash rest,158.0,45
+409,Zecks Panther Dunkles Bock,BOCK,LAGER,2023.0,1,Protein Rest,127.0,20
+409,Zecks Panther Dunkles Bock,BOCK,LAGER,2023.0,2,Main Mash,154.0,60
+409,Zecks Panther Dunkles Bock,BOCK,LAGER,2023.0,3,Decoction,169.0,0
+410,Maxwell Porter,ENGLISH PORTER,PORTER,2023.0,1,Mash,152.0,60
+410,Maxwell Porter,ENGLISH PORTER,PORTER,2023.0,2,Mash Out,168.0,10
+411,Pumpkin Pie Ale,PUMPKIN BEER,OTHER,2023.0,1,Mash,155.0,60
+412,Baltischer Baltic Porter,BALTIC PORTER,PORTER,2023.0,1,Initial Mash,145.0,20
+412,Baltischer Baltic Porter,BALTIC PORTER,PORTER,2023.0,2,Decoction pull 1,152.0,20
+412,Baltischer Baltic Porter,BALTIC PORTER,PORTER,2023.0,3,Decoction pull 2,158.0,20
+413,MI Blonde Baby (Blonde Ale),BLONDE ALE,BLONDE_PALE,2023.0,1,Mash,146.0,60
+414,Sable Porter (2023 version),AMERICAN PORTER,PORTER,2023.0,1,Mash,155.0,60
+414,Sable Porter (2023 version),AMERICAN PORTER,PORTER,2023.0,2,Mash Out,167.0,10
+415,Goats in a Tree in a Mezcal Barrel,WOOD-AGED BEER,OTHER,2023.0,1,Acid Rest,128.0,10
+415,Goats in a Tree in a Mezcal Barrel,WOOD-AGED BEER,OTHER,2023.0,2,Protein Rest,148.0,60
+415,Goats in a Tree in a Mezcal Barrel,WOOD-AGED BEER,OTHER,2023.0,3,Beta Amylase,158.0,10
+415,Goats in a Tree in a Mezcal Barrel,WOOD-AGED BEER,OTHER,2023.0,4,Mash Out,168.0,10
+416,Like Falling Off a Bike IPA,AMERICAN IPA,IPA,2023.0,1,first mash,148.0,50
+416,Like Falling Off a Bike IPA,AMERICAN IPA,IPA,2023.0,2,second mash,168.0,10
+417,Between 18 and 50 Ryezenbock,BOCK,LAGER,2023.0,1,Initial mash,144.0,30
+417,Between 18 and 50 Ryezenbock,BOCK,LAGER,2023.0,2,Decoction mash,156.0,30
+418,British Mats Irish Red Ale,IRISH RED ALE,AMBER_ALE,2023.0,1,Mash Stage 1,140.0,10
+418,British Mats Irish Red Ale,IRISH RED ALE,AMBER_ALE,2023.0,2,Mash Stage 2,148.0,30
+418,British Mats Irish Red Ale,IRISH RED ALE,AMBER_ALE,2023.0,3,Mash Stage 3,152.0,30
+418,British Mats Irish Red Ale,IRISH RED ALE,AMBER_ALE,2023.0,4,Mash Out,168.0,0
+419,XXM (Double Extra Medium) Hazy IPA,HAZY / NEW ENGLAND IPA,IPA,2023.0,1,Mash,152.0,60
+420,Big Blimp! American Barleywine,BARLEYWINE,STRONG_ALE,2023.0,1,Mash,150.0,90
+421,3 Day Berliner Weisse,SOUR ALE,SOUR,2023.0,1,Mash all grains,152.0,45
+421,3 Day Berliner Weisse,SOUR ALE,SOUR,2023.0,2,Add acidulated malt and water,152.0,45
+422,Saw Down Unda (New Zealand-style Pilsner),PILSNER,LAGER,2023.0,1,Mash Grain,148.0,60
+423,Your First SMaSH Ale,PALE ALE,IPA,2023.0,1,Mash,149.0,60
+423,Your First SMaSH Ale,PALE ALE,IPA,2023.0,2,Mash Out,170.0,10
+424,Chicken Scratch Cream Ale,PALE LAGER,LAGER,2023.0,1,Mash,152.0,60
+425,Nick’s Munich Lager,AMBER LAGER,LAGER,2023.0,1,Mash,152.0,60
+426,One-To-One American IPA,AMERICAN IPA,IPA,2023.0,1,Mash,149.0,60
+427,Dunkeles Meisterwerk Munich Dunkel,MUNICH DUNKEL,LAGER,2023.0,1,Protein rest,122.0,30
+427,Dunkeles Meisterwerk Munich Dunkel,MUNICH DUNKEL,LAGER,2023.0,2,Decoction step 1,152.0,10
+427,Dunkeles Meisterwerk Munich Dunkel,MUNICH DUNKEL,LAGER,2023.0,3,Decoction boil 1,145.0,20
+427,Dunkeles Meisterwerk Munich Dunkel,MUNICH DUNKEL,LAGER,2023.0,4,Decoction step 2,156.0,20
+428,Now That’s What I Call Hazy! Vol. 1,IPA,IPA,2023.0,1,Mash,154.0,60
+429,LILO’s Lager (New Zealand Pilsner),PILSNER,LAGER,2023.0,1,Mash,152.0,60
+430,Inspired by a President (Russian Imperial Stout),IMPERIAL STOUT,STOUT,2023.0,1,Main Mash,155.0,90
+431,Doctor Dark (International Dark Lager),DARK LAGER,LAGER,2023.0,1,Rest at 131\u00b0F (55\u00b0C),131.0,15
+431,Doctor Dark (International Dark Lager),DARK LAGER,LAGER,2023.0,2,Rest at 147\u00b0F (63.9\u00b0C),147.0,15
+431,Doctor Dark (International Dark Lager),DARK LAGER,LAGER,2023.0,3,Rest at 158\u00b0F (70\u00b0C),158.0,30
+431,Doctor Dark (International Dark Lager),DARK LAGER,LAGER,2023.0,4,Mash out at 170\u00b0F (76.7\u00b0C),170.0,15
+432,Alt Ale Altbier,ALTBIER,OTHER,2022.0,1,Mash,152.0,60
+433,Kaltrauch Rauchbier,RAUCHBIER,OTHER,2022.0,1,Dough in,115.0,15
+433,Kaltrauch Rauchbier,RAUCHBIER,OTHER,2022.0,2,Main mash,154.0,60
+434,Tree House Brewing Company Julius,HAZY / NEW ENGLAND IPA,IPA,2019.0,1,Mash,156.0,60
+436,Return of the Jedi Pale Ale,AMERICAN PALE ALE,IPA,2024.0,1,Mash,149.0,60
+437,The Empire Strikes Back Dark Ale,PALE ALE,IPA,2024.0,1,Mash,149.0,60
+438,A New Hope Pale Ale,PALE ALE,IPA,1977.0,1,Mash,149.0,60
+439,Rye Edition: Any Porter in a Storm,AMERICAN PORTER,PORTER,2021.0,1,Mash at 155\u00b0F,155.0,50
+439,Rye Edition: Any Porter in a Storm,AMERICAN PORTER,PORTER,2021.0,2,Mash at 160\u00b0F,160.0,20
+440,Whiplash Slow Life Dry Irish Stout,STOUT,STOUT,2023.0,1,Mash,154.0,60
+441,Monk’s Ration Trappist-style Single,BELGIAN ALE,BELGIAN,2023.0,1,Mash Step 1,122.0,40
+441,Monk’s Ration Trappist-style Single,BELGIAN ALE,BELGIAN,2023.0,2,Mash Step 2,156.0,40
+441,Monk’s Ration Trappist-style Single,BELGIAN ALE,BELGIAN,2023.0,3,Mash Step 3,168.0,15
+442,1904 American Sparkling Ale,HISTORICAL BEER,OTHER,2023.0,1,Mash,151.0,60
+443,Powerful Pils,GERMAN PILSNER,LAGER,2023.0,1,Mash,148.0,60
+443,Powerful Pils,GERMAN PILSNER,LAGER,2023.0,2,Mash Out,165.0,15
+444,I Left Rome Trappist Single,BELGIAN ALE,BELGIAN,2022.0,1,Initial acidification,131.0,10
+444,I Left Rome Trappist Single,BELGIAN ALE,BELGIAN,2022.0,2,Main mash,144.0,90
+444,I Left Rome Trappist Single,BELGIAN ALE,BELGIAN,2022.0,3,Protein rest,160.0,60
+444,I Left Rome Trappist Single,BELGIAN ALE,BELGIAN,2022.0,4,Mash out,170.0,10
+445,Domo Arigato (Hoppy Japanese-style Rice Lager),PALE LAGER,LAGER,2022.0,1,Mash,147.0,70
+446,Bush Telly Modern Australian Sparkling Ale,PALE ALE,IPA,2022.0,1,Mash at 147\u00b0F,147.0,60
+447,Blade Runner Szechuan Pepper Beer,SPICE & HERB BEER,OTHER,2022.0,1,Mash,149.0,60
+447,Blade Runner Szechuan Pepper Beer,SPICE & HERB BEER,OTHER,2022.0,2,Mash Out,167.0,10
+448,‘It Goes to 11’ Stout,STOUT,STOUT,2022.0,1,Main mash,149.0,60
+448,‘It Goes to 11’ Stout,STOUT,STOUT,2022.0,2,Mash out,167.0,10
+449,"Soet Bier, 1683",HISTORICAL BEER,OTHER,2022.0,1,Mash,151.0,60
+450,Hello Darkness Dry Oat Stout,STOUT,STOUT,2022.0,1,Mash Rest at 125\u00b0F (52\u00b0C),125.0,25
+450,Hello Darkness Dry Oat Stout,STOUT,STOUT,2022.0,2,Raise to 150\u00b0F (66\u00b0C),150.0,25
+450,Hello Darkness Dry Oat Stout,STOUT,STOUT,2022.0,3,Raise to 175\u00b0F (79\u00b0C),175.0,25
+450,Hello Darkness Dry Oat Stout,STOUT,STOUT,2022.0,4,Mash Out at 180\u00b0F (82\u00b0C),180.0,10
+451,She Fancies Herself a Litte Bit French,SAISON,BELGIAN,2022.0,1,,148.0,45
+452,Lou Pep Pep Wild Beer with Peaches,FRUIT BEER,OTHER,2022.0,1,,147.0,60
+453,Eis Eis Baby Wood-Aged Beer,WOOD-AGED BEER,OTHER,2022.0,1,Mash,155.0,60
+455,"Sterling, Cooper, Draper, Santa (Winter Seasonal)",Winter Warmer,OTHER,2022.0,1,Single infusion mash,170.0,30
+455,"Sterling, Cooper, Draper, Santa (Winter Seasonal)",Winter Warmer,OTHER,2022.0,2,Recirculation,170.0,30
+455,"Sterling, Cooper, Draper, Santa (Winter Seasonal)",Winter Warmer,OTHER,2022.0,3,Mash Out,170.0,30
+456,Chipotle Lichtenhainer,SPICE & HERB BEER,OTHER,2022.0,1,Mash,152.0,60
+457,Andanzas – Sangue de Dragão Fruit Beer,FRUIT BEER,OTHER,2022.0,1,Saccharification mash,150.0,60
+457,Andanzas – Sangue de Dragão Fruit Beer,FRUIT BEER,OTHER,2022.0,2,Mash Out,172.0,10
+458,Adventure Time Gose,GOSE,SOUR,2022.0,1,Mash,147.0,90
+459,Concrete Bicycle Belgian Golden Strong Ale,BELGIAN GOLDEN STRONG ALE,STRONG_ALE,2022.0,1,Initial Mash,148.0,38
+459,Concrete Bicycle Belgian Golden Strong Ale,BELGIAN GOLDEN STRONG ALE,STRONG_ALE,2022.0,2,Ramp to higher temp,158.0,30
+460,Arcane Alchemy Saison,SAISON,BELGIAN,2022.0,1,Mash,146.0,45
+462,Seventh Coalition English Barley Wine,BARLEYWINE,STRONG_ALE,2022.0,1,Mash,152.0,60
+463,T-Bock,BOCK,LAGER,2022.0,1,Mash,154.0,60
+463,T-Bock,BOCK,LAGER,2022.0,2,Mash Out,168.0,0
+464,Contrived Spontaneity Wheatwine,WHEAT & RYE BEER,WHEAT_BEER,2022.0,1,Initial,104.0,10
+464,Contrived Spontaneity Wheatwine,WHEAT & RYE BEER,WHEAT_BEER,2022.0,2,Step up to 131\u00b0F,131.0,15
+464,Contrived Spontaneity Wheatwine,WHEAT & RYE BEER,WHEAT_BEER,2022.0,3,Step up to 146\u00b0F,146.0,40
+464,Contrived Spontaneity Wheatwine,WHEAT & RYE BEER,WHEAT_BEER,2022.0,4,Step up to 158\u00b0F,158.0,15
+464,Contrived Spontaneity Wheatwine,WHEAT & RYE BEER,WHEAT_BEER,2022.0,5,Mash out,168.0,15
+465,Hanella Hazy IPA,HAZY / NEW ENGLAND IPA,IPA,2022.0,1,Mash,155.0,60
+465,Hanella Hazy IPA,HAZY / NEW ENGLAND IPA,IPA,2022.0,2,Mash Raise,168.0,10
+466,Go Bigger IPA,SPECIALTY IPA,IPA,2022.0,1,Mash,157.0,60
+467,NELSON! American IPA,AMERICAN IPA,IPA,2022.0,1,Mash,148.0,60
+468,KAW Porter,AMERICAN PORTER,PORTER,2022.0,1,Mash,152.0,60
+470,West Michigan Milk Stout,SWEET / MILK STOUT,STOUT,2022.0,1,Mash,158.0,60
+471,Connection English Porter,ENGLISH PORTER,PORTER,2022.0,1,Mash,155.0,60
+472,Sunset DayDreamer American Amber Ale,AMERICAN AMBER ALE,AMBER_ALE,2022.0,1,,152.0,75
+473,Little Moonfinder American Pale Ale,AMERICAN PALE ALE,IPA,2022.0,1,,154.0,60
+474,Stand Sure Scottish Export,SCOTTISH ALE,OTHER,2022.0,1,Mash,156.0,60
+474,Stand Sure Scottish Export,SCOTTISH ALE,OTHER,2022.0,2,Mash Out,168.0,10
+475,Herbal Joe’s Best Bitter,PALE ALE,IPA,2022.0,1,Mash at 158\u00b0F (70\u00b0C),158.0,30
+475,Herbal Joe’s Best Bitter,PALE ALE,IPA,2022.0,2,Recirculate mash,158.0,10
+476,Oak City Weissbier,WHEAT & RYE BEER,WHEAT_BEER,2022.0,1,Initial mash,105.0,0
+476,Oak City Weissbier,WHEAT & RYE BEER,WHEAT_BEER,2022.0,2,Raise temp,112.0,25
+476,Oak City Weissbier,WHEAT & RYE BEER,WHEAT_BEER,2022.0,3,Decoction pull and heat,160.0,15
+476,Oak City Weissbier,WHEAT & RYE BEER,WHEAT_BEER,2022.0,4,Boil,212.0,20
+476,Oak City Weissbier,WHEAT & RYE BEER,WHEAT_BEER,2022.0,5,Mash in,147.0,20
+476,Oak City Weissbier,WHEAT & RYE BEER,WHEAT_BEER,2022.0,6,Hold,160.0,30
+476,Oak City Weissbier,WHEAT & RYE BEER,WHEAT_BEER,2022.0,7,Mash out,170.0,0
+477,American Beauty Wheat Beer,WHEAT & RYE BEER,WHEAT_BEER,2022.0,1,Mash,155.0,60
+478,Czech Josef Dark Lager,DARK LAGER,LAGER,2022.0,1,First step,131.0,15
+478,Czech Josef Dark Lager,DARK LAGER,LAGER,2022.0,2,Second step,147.0,30
+478,Czech Josef Dark Lager,DARK LAGER,LAGER,2022.0,3,Third step,156.0,30
+478,Czech Josef Dark Lager,DARK LAGER,LAGER,2022.0,4,Mash out,170.0,15
+479,Belly Spots Kellerbier,AMBER LAGER,LAGER,2022.0,1,Protein Rest,147.0,30
+479,Belly Spots Kellerbier,AMBER LAGER,LAGER,2022.0,2,Saccharification Rest,160.0,30
+479,Belly Spots Kellerbier,AMBER LAGER,LAGER,2022.0,3,Mash Out,168.0,15
+480,Keith’s German Blonde,PALE LAGER,LAGER,2022.0,1,Mash-in,155.0,60
+481,Sweet As John Quincy Pilsner,PILSNER,LAGER,2022.0,1,protein rest,128.0,10
+481,Sweet As John Quincy Pilsner,PILSNER,LAGER,2022.0,2,beta-amylase rest,147.0,60
+481,Sweet As John Quincy Pilsner,PILSNER,LAGER,2022.0,3,dextrin rest,157.0,15
+481,Sweet As John Quincy Pilsner,PILSNER,LAGER,2022.0,4,mash out,168.0,10
+482,Carmelo’s German Leichtbier,PALE LAGER,LAGER,2022.0,1,Mash,147.0,90
+483,Down Derry Down Colonial Pumpkin Ale,PUMPKIN BEER,OTHER,2020.0,1,Mash rest,152.0,90
+484,Sleep Now in the Fire Winter Seasonal,WINTER WARMER,OTHER,2021.0,1,Mash,152.0,60
+485,Gluten-Free Chico Pale Ale,PALE ALE,IPA,,1,Mash,195.0,20
+485,Gluten-Free Chico Pale Ale,PALE ALE,IPA,,2,Rest,155.0,30
+486,I’ll Be Back Barleywine,BARLEYWINE,STRONG_ALE,2022.0,1,Mash at 149\u00b0F (65\u00b0C),149.0,60
+486,I’ll Be Back Barleywine,BARLEYWINE,STRONG_ALE,2022.0,2,Mash at 167\u00b0F (75\u00b0C),167.0,10
+487,Quinc-y Jones (American Amber with Membrillo),AMBER ALE,AMBER_ALE,2022.0,1,,151.0,60
+488,Twin Pines Piney IPA,IPA,IPA,2022.0,1,Mash at 149\u00b0F (65\u00b0C),149.0,60
+488,Twin Pines Piney IPA,IPA,IPA,2022.0,2,Mash at 167\u00b0F (75\u00b0C),167.0,10
+489,Zamba Pale Ale,AMERICAN PALE ALE,IPA,,1,,154.0,60
+490,Tha CommUNITY American Lager,AMERICAN LAGER,LAGER,2022.0,1,Mash,150.0,60
+491,Anne and Rod’s Gruit Wit,WITBIER,WHEAT_BEER,2016.0,1,,152.0,60
+492,Jen Blair’s American-style Barleywine,BARLEYWINE,STRONG_ALE,,1,Mash at 156\u00b0F,156.0,45
+493,Home Is Where Your Zoigl Is,AMBER LAGER,LAGER,2022.0,1,Protein Rest,137.0,10
+493,Home Is Where Your Zoigl Is,AMBER LAGER,LAGER,2022.0,2,Beta Amylase/Maltose Rest,147.0,40
+493,Home Is Where Your Zoigl Is,AMBER LAGER,LAGER,2022.0,3,Alpha Amylase/Dextrin Rest,162.0,20
+493,Home Is Where Your Zoigl Is,AMBER LAGER,LAGER,2022.0,4,Mash Out/Conversion Check,169.0,10
+494,Hopfeather IPA,SPECIALTY IPA,IPA,2021.0,1,Mash at 144\u00b0F (62\u00b0C),144.0,45
+494,Hopfeather IPA,SPECIALTY IPA,IPA,2021.0,2,Mash at 149\u00b0F (65\u00b0C),149.0,30
+494,Hopfeather IPA,SPECIALTY IPA,IPA,2021.0,3,Mash at 162\u00b0F (72\u00b0C),162.0,15
+495,Maui Brewing Co. Imperial Coconut Porter,AMERICAN PORTER,PORTER,2016.0,1,,152.0,60
+496,Simplicity Quad,BELGIAN DARK STRONG ALE,STRONG_ALE,2015.0,1,Mash,150.0,90
+496,Simplicity Quad,BELGIAN DARK STRONG ALE,STRONG_ALE,2015.0,2,Mash Out,170.0,15
+497,Herbal Tea Pale Ale,SPICE & HERB BEER,OTHER,2016.0,1,,153.0,60
+498,Thyme Has Come Today IPA,IPA,IPA,,1,Mash,153.0,60
+499,Conflux #2 White IPA Clone,SPECIALTY IPA,IPA,2012.0,1,Rest 1,125.0,10
+499,Conflux #2 White IPA Clone,SPECIALTY IPA,IPA,2012.0,2,Rest 2,130.0,20
+499,Conflux #2 White IPA Clone,SPECIALTY IPA,IPA,2012.0,3,Rest 3,140.0,30
+499,Conflux #2 White IPA Clone,SPECIALTY IPA,IPA,2012.0,4,Rest 4,160.0,15
+499,Conflux #2 White IPA Clone,SPECIALTY IPA,IPA,2012.0,5,Rest 5,172.0,5
+500,Korova Cream Stout,SWEET / MILK STOUT,STOUT,2007.0,1,Mash,154.0,60
+501,Double Black Imperial Black IPA,IPA,IPA,2012.0,1,Mash at 153\u00b0F,153.0,60
+502,Fuil Croi Irish Red Ale,IRISH RED ALE,AMBER_ALE,,1,mash,153.0,60
+503,Sour Squash Ale,SPICE & HERB BEER,OTHER,,1,Mash,156.0,90
+504,Charismatic MangoFauna,FRUIT BEER,OTHER,2021.0,1,Mash in,150.0,60
+504,Charismatic MangoFauna,FRUIT BEER,OTHER,2021.0,2,Mash out,158.0,5
+505,King of the Nubtars Imperial White Ale,WHEAT & RYE BEER,WHEAT_BEER,2021.0,1,Mash,152.0,60
+505,King of the Nubtars Imperial White Ale,WHEAT & RYE BEER,WHEAT_BEER,2021.0,2,Mash Out,168.0,10
+506,Pew! Pew! Wild Ale,WILD ALE,OTHER,2021.0,1,Initial mash at 113\u00b0F (45\u00b0C),113.0,10
+506,Pew! Pew! Wild Ale,WILD ALE,OTHER,2021.0,2,Hold at 136\u00b0F (58\u00b0C),136.0,5
+506,Pew! Pew! Wild Ale,WILD ALE,OTHER,2021.0,3,Hold at 149\u00b0F (65\u00b0C),149.0,35
+506,Pew! Pew! Wild Ale,WILD ALE,OTHER,2021.0,4,Hold at 162\u00b0F (72\u00b0C),162.0,20
+506,Pew! Pew! Wild Ale,WILD ALE,OTHER,2021.0,5,Hold at 170\u00b0F (77\u00b0C),170.0,10
+507,Three Witches Wood-Aged Beer,WOOD-AGED BEER,OTHER,2021.0,1,Mash at 156\u00b0F (69\u00b0C),156.0,60
+508,Lagerfeuer Smoke Beer,SMOKE BEER,OTHER,2021.0,1,Mash at 144\u00b0F,144.0,15
+508,Lagerfeuer Smoke Beer,SMOKE BEER,OTHER,2021.0,2,Raise to 152\u00b0F,152.0,15
+508,Lagerfeuer Smoke Beer,SMOKE BEER,OTHER,2021.0,3,Rest at 152\u00b0F,152.0,30
+509,Serrano Pale Ale,SPICE & HERB BEER,OTHER,2021.0,1,,151.0,60
+510,Blue Gueuze,GUEUZE,OTHER,2021.0,1,Mash from 130\u00b0F to 158\u00b0F,130.0,0
+510,Blue Gueuze,GUEUZE,OTHER,2021.0,2,Mash from 130\u00b0F to 158\u00b0F,158.0,120
+511,Kraken Belgian Dark Strong Ale,BELGIAN DARK STRONG ALE,STRONG_ALE,2021.0,1,Mash,148.0,60
+511,Kraken Belgian Dark Strong Ale,BELGIAN DARK STRONG ALE,STRONG_ALE,2021.0,2,Mashout,169.0,0
+512,Listen to the Lion Witbier,WITBIER,WHEAT_BEER,2021.0,1,,131.0,20
+512,Listen to the Lion Witbier,WITBIER,WHEAT_BEER,2021.0,2,,152.0,60
+513,Mark’s Saison,SAISON,BELGIAN,2021.0,1,Mash in,133.0,20
+513,Mark’s Saison,SAISON,BELGIAN,2021.0,2,Mash raise,147.0,60
+513,Mark’s Saison,SAISON,BELGIAN,2021.0,3,Mash out,168.0,10
+514,Mandy & Wesley’s Imperial Stout,IMPERIAL STOUT,STOUT,2021.0,1,Mash,150.0,75
+515,Granny’s Tipple English Barleywine,BARLEYWINE,STRONG_ALE,2021.0,1,Mash,148.0,60
+516,Googly Eis Eisbock,EISBOCK,LAGER,2021.0,1,mash,150.0,60
+516,Googly Eis Eisbock,EISBOCK,LAGER,2021.0,2,mash out,169.0,10
+517,Big O! New England IPA,HAZY / NEW ENGLAND IPA,IPA,2021.0,1,,155.0,60
+518,Forgiveness Machine White IPA,SPECIALTY IPA,IPA,2021.0,1,Protein rest,123.0,15
+518,Forgiveness Machine White IPA,SPECIALTY IPA,IPA,2021.0,2,Mash schedule,152.0,60
+518,Forgiveness Machine White IPA,SPECIALTY IPA,IPA,2021.0,3,Mash out,170.0,10
+519,Old Mission IPA,AMERICAN IPA,IPA,2021.0,1,Mash,151.0,60
+520,Sable Porter,AMERICAN PORTER,PORTER,2021.0,1,Mash,155.0,60
+521,Deep Focus Irish Stout,IRISH STOUT,STOUT,2021.0,1,Mash,149.0,60
+522,Herbal Joe’s Tropical Stout,FOREIGN / TROPICAL STOUT,STOUT,2021.0,1,Mash,154.0,60
+523,Chocolate Macadamia Nut Porter,ENGLISH PORTER,PORTER,2021.0,1,Mash Rest,150.0,60
+524,Tall Tines Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,2021.0,1,Mash,154.0,60
+525,You and the Hops You Rode In On Pale Ale,AMERICAN PALE ALE,IPA,2021.0,1,Mash,152.0,60
+526,Beam Me Up Scotty Scottish Export,SCOTTISH ALE,OTHER,2021.0,1,Saccharification,155.0,60
+527,Herbal Joe’s Best Bitter,ENGLISH BITTER,OTHER,2021.0,1,Mash,158.0,30
+528,Jeff The Hefe Weissbier,HEFEWEIZEN,WHEAT_BEER,2021.0,1,Initial Rest,113.0,30
+528,Jeff The Hefe Weissbier,HEFEWEIZEN,WHEAT_BEER,2021.0,2,Rest at 135\u00b0F,135.0,30
+528,Jeff The Hefe Weissbier,HEFEWEIZEN,WHEAT_BEER,2021.0,3,Rest at 156\u00b0F,156.0,30
+528,Jeff The Hefe Weissbier,HEFEWEIZEN,WHEAT_BEER,2021.0,4,Rest at 168\u00b0F,168.0,10
+529,Willow Run Wheat Beer,AMERICAN WHEAT,WHEAT_BEER,2021.0,1,Mash,152.0,60
+530,Temny Czech Dark Lager,DARK LAGER,LAGER,2021.0,1,Mash,152.0,60
+531,Helles This,,UNKNOWN,2021.0,1,Mash,149.0,60
+532,Tougher than the Sun Pale Lager,CZECH / BOHO PILS,LAGER,2021.0,1,Mash Rest 1,144.0,30
+532,Tougher than the Sun Pale Lager,CZECH / BOHO PILS,LAGER,2021.0,2,Mash Rest 2,160.0,45
+532,Tougher than the Sun Pale Lager,CZECH / BOHO PILS,LAGER,2021.0,3,Mash Rest 3,170.0,15
+533,Rombergpark German Helles Exportbier,HELLES,OTHER,2021.0,1,Mash,152.0,60
+535,Dry Dock Docktoberfest,MARZEN,OTHER,,1,Mash,151.0,60
+536,Dobrý Den Czech Amber Lager,AMBER LAGER,LAGER,2021.0,1,Mash,150.0,60
+537,Tarty Passions Berliner Weisse,FRUIT BEER,OTHER,2019.0,1,,150.0,60
+538,Brookline Barleywine,UK/US STRONG ALE,STRONG_ALE,2019.0,1,Mash,148.0,60
+539,Good Word Brewing Never Sleep New England IPA,HAZY / NEW ENGLAND IPA,IPA,,1,Saccharification Rest 1,146.0,15
+539,Good Word Brewing Never Sleep New England IPA,HAZY / NEW ENGLAND IPA,IPA,,2,Saccharification Rest 2,156.0,30
+539,Good Word Brewing Never Sleep New England IPA,HAZY / NEW ENGLAND IPA,IPA,,3,Mash Out,168.0,10
+540,Oceania & Homegrown IPA (Split Batch),AMERICAN IPA,IPA,2021.0,1,Mash in,153.0,60
+540,Oceania & Homegrown IPA (Split Batch),AMERICAN IPA,IPA,2021.0,2,Mash out,165.0,15
+542,SMaSH Sensory Blonde Ale,BLONDE ALE,BLONDE_PALE,2021.0,1,Mash,152.0,60
+543,CicadAle (Ale with Cicadas),SPICE & HERB BEER,OTHER,2004.0,1,Saccharification rest,150.0,90
+544,THC-Infused Tripel Royal Stag,BELGIAN ALE,BELGIAN,2020.0,1,Mash,147.0,60
+545,Ube-Licious Lager,SPICE & HERB BEER,OTHER,2019.0,1,Mash,149.0,60
+546,Mow The Damn Lawn,PALE LAGER,LAGER,2013.0,1,Mash,149.0,60
+547,A Kveiking We Will Go IPA,AMERICAN IPA,IPA,2021.0,1,Mash,152.0,60
+548,Spelt Saison #2,BELGIAN ALE,BELGIAN,2021.0,1,Mash,148.0,60
+549,Smokeska Porter,BALTIC PORTER,PORTER,2021.0,1,Mash,153.0,60
+550,Stone Ship Braggot,BRAGGOT,OTHER,2019.0,1,Mash,156.0,60
+550,Stone Ship Braggot,BRAGGOT,OTHER,2019.0,2,Mash Out,168.0,10
+552,Gordon Strong’s American Porter,AMERICAN PORTER,PORTER,,1,Mash rest 1,154.0,60
+552,Gordon Strong’s American Porter,AMERICAN PORTER,PORTER,,2,Mash rest 2,170.0,15
+553,Mangose,Sour Ale,SOUR,2020.0,1,Mash,148.0,75
+554,Olavi Viheroja’s Sahti,HISTORICAL BEER,OTHER,,1,Initial Water Addition,68.0,90
+554,Olavi Viheroja’s Sahti,HISTORICAL BEER,OTHER,,2,Hot Water Addition to 58\u00b0C,136.0,300
+554,Olavi Viheroja’s Sahti,HISTORICAL BEER,OTHER,,3,Transfer and Heating,176.0,50
+556,Black is Beautiful Homebrew Recipe,STOUT,STOUT,,1,Mash,154.0,60
+557,Liquid Breakfast Maple Stout,CHOCOLATE BEER,OTHER,2019.0,1,,156.0,60
+558,The Tropical Session White IPA,IPA,IPA,2016.0,1,Mash,154.0,60
+559,Let It Go Helles,HELLES,OTHER,2015.0,1,Initial mash,132.0,30
+559,Let It Go Helles,HELLES,OTHER,2015.0,2,Raise temp and hold,155.0,30
+559,Let It Go Helles,HELLES,OTHER,2015.0,3,Mash out,167.0,0
+560,Black Old Sun IPA,IPA,IPA,,1,Mash,150.0,60
+560,Black Old Sun IPA,IPA,IPA,,2,Mash Out,168.0,60
+561,Royal” Historical London Brown Ale,BROWN ALE,BROWN_ALE,2017.0,1,,152.0,60
+561,Royal” Historical London Brown Ale,BROWN ALE,BROWN_ALE,2017.0,2,Mash Out,168.0,10
+563,Anderfest Festbier,AMBER LAGER,LAGER,2019.0,1,Mash,153.0,60
+565,Mead Mamas BDS,BELGIAN ALE,BELGIAN,2020.0,1,Mash,148.0,60
+566,Dunkelweizendoppelbock,BOCK,LAGER,2016.0,1,Dough in,113.0,30
+566,Dunkelweizendoppelbock,BOCK,LAGER,2016.0,2,Proteolytic rest,122.0,30
+566,Dunkelweizendoppelbock,BOCK,LAGER,2016.0,3,Beta amylase rest,149.0,30
+566,Dunkelweizendoppelbock,BOCK,LAGER,2016.0,4,Alpha amylase rest,162.0,15
+567,Bourbon Barrel Aged Full Eclipse II,IMPERIAL STOUT,STOUT,2017.0,1,Mash Rest,153.0,60
+568,Mango Maya Milkshake IPA,HAZY / NEW ENGLAND IPA,IPA,2018.0,1,Mash,152.0,60
+569,Brewin’ in Maillard Helles,HELLES,OTHER,2019.0,1,Mash In (Dough-in),131.0,15
+569,Brewin’ in Maillard Helles,HELLES,OTHER,2019.0,2,Rest 1,148.0,30
+569,Brewin’ in Maillard Helles,HELLES,OTHER,2019.0,3,Rest 2,160.0,30
+569,Brewin’ in Maillard Helles,HELLES,OTHER,2019.0,4,Rest 3,168.0,10
+570,American Vienna Lager,AMBER LAGER,LAGER,2019.0,1,Mash at 125\u00b0F,125.0,30
+570,American Vienna Lager,AMBER LAGER,LAGER,2019.0,2,Mash at 147\u00b0F,147.0,30
+570,American Vienna Lager,AMBER LAGER,LAGER,2019.0,3,Mash at 162\u00b0F,162.0,30
+571,Malty Boye Helles Bock,HELLES BOCK,LAGER,2019.0,1,Acid Rest,145.0,40
+571,Malty Boye Helles Bock,HELLES BOCK,LAGER,2019.0,2,Protein Rest,158.0,20
+571,Malty Boye Helles Bock,HELLES BOCK,LAGER,2019.0,3,Mash Out,168.0,10
+572,Where’s Fluffy Weissbier,HEFEWEIZEN,WHEAT_BEER,2019.0,1,Rest,122.0,30
+572,Where’s Fluffy Weissbier,HEFEWEIZEN,WHEAT_BEER,2019.0,2,Add hot water to reach mash temp,148.0,30
+572,Where’s Fluffy Weissbier,HEFEWEIZEN,WHEAT_BEER,2019.0,3,Mash out,168.0,10
+573,Up the Junction Bitter,ENGLISH PALE ALE,IPA,2019.0,1,Full volume mash,152.0,60
+574,Finnegan’s Irish Ale,AMBER ALE,AMBER_ALE,2019.0,1,,152.0,60
+575,Citra Summit American Pale Ale,AMERICAN PALE ALE,IPA,2019.0,1,Mash,154.0,60
+576,Kilauea Punch American Amber Ale,AMBER ALE,AMBER_ALE,2019.0,1,,153.0,60
+577,BCJP Study Group Mild,BROWN ALE,BROWN_ALE,2019.0,1,,156.0,60
+578,The Singularity Stout,AMERICAN STOUT,STOUT,2019.0,1,,154.0,60
+579,Hammer of the Gord’s Imperial Stout,IMPERIAL STOUT,STOUT,2019.0,1,Protein Rest,131.0,15
+579,Hammer of the Gord’s Imperial Stout,IMPERIAL STOUT,STOUT,2019.0,2,Saccharification Rest,144.0,50
+579,Hammer of the Gord’s Imperial Stout,IMPERIAL STOUT,STOUT,2019.0,3,Mash Out,168.0,50
+580,The Wingman American IPA,AMERICAN IPA,IPA,2019.0,1,Mash,152.0,60
+581,Clan MacIntosh Old Ale,OLD ALE,OTHER,2019.0,1,,152.0,60
+582,David Allen’s Saison,BELGIAN ALE,BELGIAN,2019.0,1,Mash,148.0,60
+583,Brilliant Blond,BELGIAN ALE,BELGIAN,2019.0,1,Mash,150.0,60
+584,Jon Safadão BDSA,BELGIAN ALE,BELGIAN,2019.0,1,Protein Rest,62.0,30
+584,Jon Safadão BDSA,BELGIAN ALE,BELGIAN,2019.0,2,Mash Out,70.0,30
+585,What Gueuze Around Comes Around,GUEUZE,OTHER,2019.0,1,,150.0,60
+586,Ich bin ein Berliner,BERLINER WEISSE,SOUR,2019.0,1,Mash,145.0,60
+587,Smoked Wee Heavy,AMBER ALE,AMBER_ALE,2019.0,1,First step,54.0,10
+587,Smoked Wee Heavy,AMBER ALE,AMBER_ALE,2019.0,2,Second step,66.0,55
+587,Smoked Wee Heavy,AMBER ALE,AMBER_ALE,2019.0,3,Third step,68.0,20
+588,Via Blvd E Specialty Stout,COFFEE BEER,OTHER,2019.0,1,Mash,155.0,120
+589,Seventh Nature Hoppy Brett Ale,WILD ALE,OTHER,2019.0,1,Mash,153.0,60
+590,Three Kings Wheat Eisbock,BOCK,LAGER,2019.0,1,Protein Rest,131.0,20
+590,Three Kings Wheat Eisbock,BOCK,LAGER,2019.0,2,Mash,154.0,60
+592,Hot Schnitzel,HELLES,OTHER,2019.0,1,Mash,151.0,60
+593,Mitte Flüsse Pils,GERMAN PILSNER,LAGER,2019.0,1,Mash,148.0,60
+594,Viva! Vienna!,AMBER LAGER,LAGER,2019.0,1,Single Infusion mash,154.0,60
+594,Viva! Vienna!,AMBER LAGER,LAGER,2019.0,2,Add Midnight Wheat,154.0,10
+595,Big & Beautiful Bock,BOCK,LAGER,2019.0,1,,154.0,60
+596,Winter Wave Weizenbock,BOCK,LAGER,2019.0,1,Acid Rest,95.0,0
+596,Winter Wave Weizenbock,BOCK,LAGER,2019.0,2,Protein Rest 1,113.0,10
+596,Winter Wave Weizenbock,BOCK,LAGER,2019.0,3,Protein Rest 2,135.0,15
+596,Winter Wave Weizenbock,BOCK,LAGER,2019.0,4,Saccharification Step 1,145.0,20
+596,Winter Wave Weizenbock,BOCK,LAGER,2019.0,5,Saccharification Step 2,154.0,20
+596,Winter Wave Weizenbock,BOCK,LAGER,2019.0,6,Mash Out,168.0,10
+597,Zon Saison,BELGIAN ALE,BELGIAN,2019.0,1,First Step,137.5,37
+597,Zon Saison,BELGIAN ALE,BELGIAN,2019.0,2,Second Step,149.0,30
+597,Zon Saison,BELGIAN ALE,BELGIAN,2019.0,3,Third Step,156.0,30
+598,Don’t Look Up… Scottish Ale,AMBER ALE,AMBER_ALE,2019.0,1,Mash at 150\u00b0F,150.0,60
+599,Hoppy New Year Amber Ale,AMBER ALE,AMBER_ALE,2019.0,1,,156.0,60
+600,Wharf Busker Pale Ale,AMERICAN PALE ALE,IPA,2019.0,1,Mash,152.0,60
+601,Mike Dawson’s Wild Rice Mild,BROWN ALE,BROWN_ALE,2019.0,1,Mash,152.0,60
+601,Mike Dawson’s Wild Rice Mild,BROWN ALE,BROWN_ALE,2019.0,2,Mashout,170.0,15
+602,Veteran’s Day IPA,AMERICAN IPA,IPA,2019.0,1,Mash,150.0,60
+603,Ben’s Belgian Pale Ale,BELGIAN ALE,BELGIAN,2019.0,1,Mash,152.0,60
+604,I See London English Barleywine,BARLEYWINE,STRONG_ALE,2019.0,1,Mash at 152\u00b0F,152.0,60
+605,Nuetnigenough Belgian Golden Strong,BELGIAN ALE,BELGIAN,2019.0,1,Mash in,159.4,60
+605,Nuetnigenough Belgian Golden Strong,BELGIAN ALE,BELGIAN,2019.0,2,Drop heat to,154.0,4
+605,Nuetnigenough Belgian Golden Strong,BELGIAN ALE,BELGIAN,2019.0,3,Hold at,154.0,30
+605,Nuetnigenough Belgian Golden Strong,BELGIAN ALE,BELGIAN,2019.0,4,Heat up to mashout,170.0,4
+605,Nuetnigenough Belgian Golden Strong,BELGIAN ALE,BELGIAN,2019.0,5,Mashout at,170.0,10
+606,Gose with Everything,SOUR ALE,SOUR,2019.0,1,,154.0,60
+607,Do You Even Haze Bro? New England IPA,HAZY / NEW ENGLAND IPA,IPA,2019.0,1,Mash,156.0,45
+608,Kaffee Vienna Lager,AMBER LAGER,LAGER,2019.0,1,Mash,152.0,60
+609,Mill ’em All Imperial Stout,IMPERIAL STOUT,STOUT,2019.0,1,Mash,156.0,60
+610,Sour Blonde Ale with Blackberries and Raspberries,FRUIT BEER,OTHER,2019.0,1,Mash,156.0,45
+611,The Void” Kutbier,HISTORICAL BEER,OTHER,2019.0,1,Dough-in,113.0,20
+611,The Void” Kutbier,HISTORICAL BEER,OTHER,2019.0,2,Protein Rest,143.0,30
+611,The Void” Kutbier,HISTORICAL BEER,OTHER,2019.0,3,Saccharification Rest,161.0,30
+611,The Void” Kutbier,HISTORICAL BEER,OTHER,2019.0,4,Mash Out,170.0,10
+612,Belgian Dip Chocolate Stout,CHOCOLATE BEER,OTHER,2007.0,1,Mash,154.0,60
+613,Choco Red Rye Wedding Ale,WHEAT & RYE BEER,WHEAT_BEER,2016.0,1,initial mash,132.0,30
+613,Choco Red Rye Wedding Ale,WHEAT & RYE BEER,WHEAT_BEER,2016.0,2,raise to mash out,155.0,30
+613,Choco Red Rye Wedding Ale,WHEAT & RYE BEER,WHEAT_BEER,2016.0,3,raise to saccharification,167.0,0
+614,Saison de Liège 1851,BELGIAN ALE,BELGIAN,2019.0,1,Mash,158.0,60
+615,Luiks Beer 1690,HISTORICAL BEER,OTHER,2019.0,1,Mash,152.0,60
+616,Terje Raftevold’s Kornøl,HISTORICAL BEER,OTHER,2019.0,1,Mash,165.0,60
+617,Odin’s Beard Baltic Porter,BALTIC PORTER,PORTER,2019.0,1,Mash,156.0,60
+618,Bigfoot’s (D)elight Weissbier,HEFEWEIZEN,WHEAT_BEER,2019.0,1,Mash,154.0,60
+618,Bigfoot’s (D)elight Weissbier,HEFEWEIZEN,WHEAT_BEER,2019.0,2,Mash raise,168.0,0
+619,Craictastic Ordinary Bitter,ENGLISH PALE ALE,IPA,2019.0,1,Mash at 155\u00b0F (68\u00b0C),155.0,60
+620,Iowa Brewers Bevvy Scottish Light,AMBER ALE,AMBER_ALE,2019.0,1,initial mash,158.0,60
+620,Iowa Brewers Bevvy Scottish Light,AMBER ALE,AMBER_ALE,2019.0,2,ramp to 168\u00b0F (76\u00b0C),168.0,10
+621,Big Boi’s Booty Sweat American Pale Ale,AMERICAN PALE ALE,IPA,2019.0,1,Mash,149.0,60
+621,Big Boi’s Booty Sweat American Pale Ale,AMERICAN PALE ALE,IPA,2019.0,2,Mash Out,168.0,10
+622,Possibility and Promise Pacific Amber,AMBER ALE,AMBER_ALE,2019.0,1,Mash,152.0,60
+623,Sket English Porter,ENGLISH PORTER,PORTER,2019.0,1,Mash,155.0,60
+624,Sticky Faucet Oatmeal Milk Stout,OATMEAL STOUT,STOUT,2019.0,1,Mash,156.0,60
+625,Mid-Sember Knight’s Dream American Porter,AMERICAN PORTER,PORTER,2019.0,1,Mash,152.0,60
+625,Mid-Sember Knight’s Dream American Porter,AMERICAN PORTER,PORTER,2019.0,2,Mash Out,165.0,0
+626,Four Tsarinas and Two Tsarovich’s Imperial Stout,IMPERIAL STOUT,STOUT,2019.0,1,Mash in,130.0,0
+626,Four Tsarinas and Two Tsarovich’s Imperial Stout,IMPERIAL STOUT,STOUT,2019.0,2,Ramp to saccharification temp,155.0,15
+626,Four Tsarinas and Two Tsarovich’s Imperial Stout,IMPERIAL STOUT,STOUT,2019.0,3,Hold at main mash,155.0,60
+626,Four Tsarinas and Two Tsarovich’s Imperial Stout,IMPERIAL STOUT,STOUT,2019.0,4,Mash out,170.0,10
+626,Four Tsarinas and Two Tsarovich’s Imperial Stout,IMPERIAL STOUT,STOUT,2019.0,5,Hold for sparge,170.0,0
+627,Idaho Is One Giant Park IPA,AMERICAN IPA,IPA,2019.0,1,Mash at 150\u00b0F,150.0,60
+628,Summer Cloud Belgian IPA,BELGIAN ALE,BELGIAN,2019.0,1,Mash,155.0,45
+629,Knauf’s Old Ale #46,OLD ALE,OTHER,2019.0,1,,150.0,75
+630,Birra Corina Saison,BELGIAN ALE,BELGIAN,2019.0,1,Mash,156.0,60
+631,Trail Dog Berliner Bites,BERLINER WEISSE,SOUR,2019.0,1,Rest at 113\u00b0F (45\u00b0C),113.0,30
+631,Trail Dog Berliner Bites,BERLINER WEISSE,SOUR,2019.0,2,Rest at 125\u00b0F (52\u00b0C),125.0,20
+631,Trail Dog Berliner Bites,BERLINER WEISSE,SOUR,2019.0,3,Rest at 148\u00b0F (64\u00b0C),148.0,20
+631,Trail Dog Berliner Bites,BERLINER WEISSE,SOUR,2019.0,4,Mash out at 170\u00b0F (77\u00b0C),170.0,10
+632,Andrew’s Grodziskie,HISTORICAL BEER,OTHER,2019.0,1,Saccharification rest 1,126.0,30
+632,Andrew’s Grodziskie,HISTORICAL BEER,OTHER,2019.0,2,Saccharification rest 2,152.0,60
+632,Andrew’s Grodziskie,HISTORICAL BEER,OTHER,2019.0,3,Mash Out,169.0,10
+633,Onyris English Ryewine,UK/US STRONG ALE,STRONG_ALE,2019.0,1,Initial mash,104.0,15
+633,Onyris English Ryewine,UK/US STRONG ALE,STRONG_ALE,2019.0,2,Ramp to mash temp,158.0,60
+633,Onyris English Ryewine,UK/US STRONG ALE,STRONG_ALE,2019.0,3,Mash out,170.0,10
+634,Dragon of the Black Pool Experimental Beer,AMBER ALE,AMBER_ALE,2016.0,1,Cereal mash,152.0,60
+634,Dragon of the Black Pool Experimental Beer,AMBER ALE,AMBER_ALE,2016.0,2,Main mash,152.0,60
+635,Hobo BoHo Pilsner,CZECH / BOHO PILS,LAGER,2019.0,1,Acid Rest,122.0,20
+635,Hobo BoHo Pilsner,CZECH / BOHO PILS,LAGER,2019.0,2,Decoction #1,152.0,20
+635,Hobo BoHo Pilsner,CZECH / BOHO PILS,LAGER,2019.0,3,Mash Out,154.0,15
+636,May the Bock Be with You,BOCK,LAGER,2019.0,1,Initial Rest,100.0,30
+636,May the Bock Be with You,BOCK,LAGER,2019.0,2,Decoction Heating to 151\u00b0F,151.0,20
+636,May the Bock Be with You,BOCK,LAGER,2019.0,3,Decoction Rest at 162\u00b0F,162.0,15
+636,May the Bock Be with You,BOCK,LAGER,2019.0,4,Main Mash Rest at 151\u00b0F,151.0,10
+636,May the Bock Be with You,BOCK,LAGER,2019.0,5,Decoction Heating to 162\u00b0F,162.0,10
+636,May the Bock Be with You,BOCK,LAGER,2019.0,6,Decoction Rest at 162\u00b0F,162.0,15
+636,May the Bock Be with You,BOCK,LAGER,2019.0,7,Mash Out at 172\u00b0F,172.0,10
+637,Meister Groll Bohemian Pils,CZECH / BOHO PILS,LAGER,2019.0,1,Initial mash rest,100.0,30
+637,Meister Groll Bohemian Pils,CZECH / BOHO PILS,LAGER,2019.0,2,First decoction,151.0,20
+637,Meister Groll Bohemian Pils,CZECH / BOHO PILS,LAGER,2019.0,3,Decoction heating to 162\u00b0F,162.0,10
+637,Meister Groll Bohemian Pils,CZECH / BOHO PILS,LAGER,2019.0,4,Decoction boil,162.0,10
+637,Meister Groll Bohemian Pils,CZECH / BOHO PILS,LAGER,2019.0,5,Second decoction heating to 162\u00b0F,162.0,10
+637,Meister Groll Bohemian Pils,CZECH / BOHO PILS,LAGER,2019.0,6,Mash-out,172.0,10
+638,Aspen Ridge Cream Ale,CREAM ALE,BLONDE_PALE,2019.0,1,Mash,152.0,75
+639,All-American Blonde Ale,HYBRID BEER,OTHER,2019.0,1,Mash,150.0,75
+640,Cranberries for Sal New England IPA,HAZY / NEW ENGLAND IPA,IPA,,1,Mash,153.0,60
+641,Big Beach Brewing Co. King Cake Porter,PORTER,PORTER,,1,Mash,153.0,60
+641,Big Beach Brewing Co. King Cake Porter,PORTER,PORTER,,2,Mash Out,168.0,15
+642,Jack o’Lupe IPA,IPA,IPA,,1,Mash,153.0,60
+643,Oaked Wee Heavy,AMBER ALE,AMBER_ALE,2019.0,1,Beta Glucan Rest,104.0,30
+643,Oaked Wee Heavy,AMBER ALE,AMBER_ALE,2019.0,2,Saccharification Rest,150.0,45
+644,Dad’s Red Ale,AMBER ALE,AMBER_ALE,2019.0,1,Gelatinization,185.0,30
+644,Dad’s Red Ale,AMBER ALE,AMBER_ALE,2019.0,2,Saccharification Rest,155.0,60
+645,Mika Laitinen’s Sahti,AMBER ALE,AMBER_ALE,2019.0,1,Initial mash,140.0,45
+645,Mika Laitinen’s Sahti,AMBER ALE,AMBER_ALE,2019.0,2,Raise to 158\u00b0F,158.0,45
+645,Mika Laitinen’s Sahti,AMBER ALE,AMBER_ALE,2019.0,3,Final raise to 176\u00b0F,176.0,15
+646,Cane Toad Weisse,HEFEWEIZEN,WHEAT_BEER,2019.0,1,Mash at 125\u00b0F,125.0,20
+646,Cane Toad Weisse,HEFEWEIZEN,WHEAT_BEER,2019.0,2,Raise to 140\u00b0F,140.0,30
+646,Cane Toad Weisse,HEFEWEIZEN,WHEAT_BEER,2019.0,3,Raise to 152\u00b0F,152.0,40
+646,Cane Toad Weisse,HEFEWEIZEN,WHEAT_BEER,2019.0,4,Mash out at 168\u00b0F,168.0,0
+647,Chimay Dorée Clone,BELGIAN ALE,BELGIAN,2019.0,1,Mash,147.0,75
+647,Chimay Dorée Clone,BELGIAN ALE,BELGIAN,2019.0,2,Mash Out,168.0,10
+648,Big Timber Brewing Porter,BALTIC PORTER,PORTER,,1,,150.0,60
+649,Crow Peak Brewing Co. Pile ‘O Dirt Porter,BALTIC PORTER,PORTER,,1,Main Mash,156.0,60
+650,Earth Rider Brewery Precious Material Helles,HELLES,OTHER,,1,Mash,152.0,60
+651,Reuben’s Brews Robust Porter,BALTIC PORTER,PORTER,2012.0,1,Mash,152.0,60
+652,Whetstone Station Brewery Whetstoner Session IPA,AMERICAN IPA,IPA,,1,Mash,150.0,60
+653,Strangeways Brewing Martian Spring Biere de Mars,BIÈRE DE GARDE,OTHER,,1,Polyphenol Rest,122.0,20
+653,Strangeways Brewing Martian Spring Biere de Mars,BIÈRE DE GARDE,OTHER,,2,Protein Rest,144.0,20
+653,Strangeways Brewing Martian Spring Biere de Mars,BIÈRE DE GARDE,OTHER,,3,Beta Amylase Rest,156.0,20
+653,Strangeways Brewing Martian Spring Biere de Mars,BIÈRE DE GARDE,OTHER,,4,Alpha Amylase Rest,168.0,20
+653,Strangeways Brewing Martian Spring Biere de Mars,BIÈRE DE GARDE,OTHER,,5,Mash Out,168.0,10
+654,Red Rock Brewing Black Bier,DARK LAGER,LAGER,2010.0,1,Rest,149.0,60
+655,Atlas Brew Works Rowdy Rye Ale,WHEAT & RYE BEER,WHEAT_BEER,,1,Mash,154.0,90
+656,Jester King Brewery Figlet Farmhouse Amber Ale,AMBER ALE,AMBER_ALE,,1,Mash,152.0,60
+657,Roadhouse Brewing Co. Family Vacation Cream Ale,CREAM ALE,BLONDE_PALE,,1,Mash at 152\u00b0F (67\u00b0C),152.0,60
+658,Tennessee Valley Brewing Co. DIVARTY Redlegs,AMBER ALE,AMBER_ALE,,1,,153.0,60
+659,IMBĪB Custom Brews Nevada Weisse,BERLINER WEISSE,SOUR,,1,Main Mash,148.0,45
+660,Biloxi Brewing Company Pale Ale,AMERICAN PALE ALE,IPA,,1,Mash,150.0,75
+661,Holy City Brewing Pluff Mud Porter,AMERICAN PORTER,PORTER,,1,Mash,149.0,45
+662,Red Door Brewing Company New England IPA,HAZY / NEW ENGLAND IPA,IPA,,1,Mash,154.0,60
+663,Missouri Beer Company English Dark Mild,BROWN ALE,BROWN_ALE,,1,Mash,150.0,60
+664,Providence Brewing Company Battlecow Galacticose New England IPA,HAZY / NEW ENGLAND IPA,IPA,,1,Mash,155.0,60
+665,River Horse Brewing Company Tripel Horse,BELGIAN ALE,BELGIAN,,1,Mash at 148\u00b0F,148.0,60
+666,Lupulin Brewing Straight Hash Homie IPA,AMERICAN IPA,IPA,,1,Mash,152.0,60
+667,Church Brew Works Pious Monk Dunkel,DARK LAGER,LAGER,2012.0,1,Start mash,140.0,0
+667,Church Brew Works Pious Monk Dunkel,DARK LAGER,LAGER,2012.0,2,Decoction raise,154.0,0
+668,Henniker Brewing Co. Rustique Saison,BELGIAN ALE,BELGIAN,,1,Mash,147.0,60
+669,Jolly Pumpkin Artisan Ales Bam Biére,FARMHOUSE BEER,BELGIAN,,1,Mash,148.0,60
+670,Von Ebert Brewing Sabrage Brut IPA,IPA,IPA,,1,Mash,142.0,60
+671,Boiler Brewing Co. Bobber’s Big Red Rye Pale Ale,AMBER ALE,AMBER_ALE,,1,Mash,155.0,60
+672,Bissel Brothers Brewing The Substance New England IPA,HAZY / NEW ENGLAND IPA,IPA,,1,Mash,151.0,60
+673,Iron Monk Brewing Co. Velvet Antler Amber,AMBER ALE,AMBER_ALE,,1,Mash,154.0,60
+673,Iron Monk Brewing Co. Velvet Antler Amber,AMBER ALE,AMBER_ALE,,2,Mash Out,170.0,10
+674,Fargo Brewing Company Wood Chipper IPA,AMERICAN IPA,IPA,,1,Mash at 155\u00b0F,155.0,60
+675,Seventh Son Brewing Co. Oubliette Russian Imperial Stout,IMPERIAL STOUT,STOUT,,1,Mash,148.0,60
+676,Wedge Brewing Co. Golem Belgian Strong Pale Ale,BELGIAN ALE,BELGIAN,2000.0,1,Initial Mash\n55\u00b0C,131.0,15
+676,Wedge Brewing Co. Golem Belgian Strong Pale Ale,BELGIAN ALE,BELGIAN,2000.0,2,Rest 1\n63-64\u00b0C,146.0,30
+676,Wedge Brewing Co. Golem Belgian Strong Pale Ale,BELGIAN ALE,BELGIAN,2000.0,3,Rest 2\n67\u00b0C,152.0,40
+676,Wedge Brewing Co. Golem Belgian Strong Pale Ale,BELGIAN ALE,BELGIAN,2000.0,4,Rest 3\n70-72\u00b0C,158.0,15
+676,Wedge Brewing Co. Golem Belgian Strong Pale Ale,BELGIAN ALE,BELGIAN,2000.0,5,Mash Out,168.0,30
+677,Great South Bay Brewery Massive IPA,AMERICAN IPA,IPA,,1,Mash at 151\u00b0F,151.0,60
+678,Outlaw Brewing Udder Madness Chocolate Milk Stout,CHOCOLATE BEER,OTHER,,1,,152.0,60
+679,Dreaming Creek Brewery 1792 Kentucky Common,AMBER LAGER,LAGER,,1,Mash,152.0,60
+680,Perfect Plain Brewing Co. Holy Spin American IPA,AMERICAN IPA,IPA,,1,Primary Mash,150.0,60
+681,Denali Brewing Co. Mother Ale Blonde,BLONDE ALE,BLONDE_PALE,,1,Mash,148.0,60
+682,Nortons Brewing Co. Don’t Poke the Bear Milk Stout,STOUT,STOUT,,1,Mash,152.0,60
+683,Crooked Hammock Brewery Haulin’ Oats Milk Stout,OATMEAL STOUT,STOUT,,1,Mash,151.0,60
+684,Triton Brewing Co. Fieldhouse Wheat,AMERICAN WHEAT,WHEAT_BEER,2017.0,1,Mash,154.0,60
+685,Two Roads Brewing Co. Worker’s Comp Farmhouse Ale,BELGIAN ALE,BELGIAN,,1,Mash,149.0,45
+686,Corridor Brewery Wizard Fight American IPA,AMERICAN IPA,IPA,,1,Mash,152.0,60
+687,Odell Brewing Company 90 Shilling Ale,AMBER ALE,AMBER_ALE,,1,main mash,153.0,90
+688,Boise Brewing Dark Daisy Chocolate Milk Stout,CHOCOLATE BEER,OTHER,,1,Mash,154.0,60
+689,Ladyface Ale Companie La Grisette,BELGIAN ALE,BELGIAN,2018.0,1,Mash,150.0,60
+690,Denizens Brewing Co. Lowest Lord ESB,AMBER ALE,AMBER_ALE,,1,Mash,152.0,90
+691,Exile Brewing Company Sir Moch-A-Lot Mocha Stout,COFFEE BEER,OTHER,,1,,154.0,60
+692,Pedal Haus Brewery Biere Blanche Belgian Witbier,BELGIAN ALE,BELGIAN,2018.0,1,Protein Rest,122.0,20
+692,Pedal Haus Brewery Biere Blanche Belgian Witbier,BELGIAN ALE,BELGIAN,2018.0,2,Beta Amylase Rest,149.0,20
+692,Pedal Haus Brewery Biere Blanche Belgian Witbier,BELGIAN ALE,BELGIAN,2018.0,3,Alpha Amylase Rest,158.0,20
+693,Night Shift Brewing Matisse Classic Saison,BELGIAN ALE,BELGIAN,2017.0,1,,151.0,60
+694,Honolulu BeerWorks CocoWeizen,HEFEWEIZEN,WHEAT_BEER,2018.0,1,Mash,150.0,60
+695,Ozark Beer Co. Belgian Golden Ale,BELGIAN ALE,BELGIAN,,1,Mash,152.0,30
+696,Parleaux Beer Lab Lemony Sippit Lager,AMERICAN LAGER,LAGER,,1,Mash in,152.0,90
+697,Back Forty Beer Co. Truck Stop Honey Brown Ale,BROWN ALE,BROWN_ALE,2011.0,1,Mash,160.0,60
+698,Juniper Rye Bock,BOCK,LAGER,,1,Rest at 104\u00b0F,104.0,15
+698,Juniper Rye Bock,BOCK,LAGER,,2,Rest at 130\u00b0F,130.0,15
+698,Juniper Rye Bock,BOCK,LAGER,,3,Rest at 148\u00b0F,148.0,15
+698,Juniper Rye Bock,BOCK,LAGER,,4,Rest at 172\u00b0F,172.0,15
+698,Juniper Rye Bock,BOCK,LAGER,,5,Mash out,190.0,15
+699,I Am Broot” Brut IPA,IPA,IPA,2019.0,1,,150.0,60
+700,Night Sky Black IPA,AMERICAN IPA,IPA,2018.0,1,Mash,153.0,75
+701,Flubadub Gansett Porter (all-grain),AMERICAN PORTER,PORTER,2018.0,1,Cereal mash,155.0,30
+701,Flubadub Gansett Porter (all-grain),AMERICAN PORTER,PORTER,2018.0,2,Main mash,155.0,30
+701,Flubadub Gansett Porter (all-grain),AMERICAN PORTER,PORTER,2018.0,3,Mash out,167.0,0
+702,Kein Bier Light Lager,AMERICAN LAGER,LAGER,2018.0,1,Infusion,148.0,60
+703,What The Helles!,HELLES,OTHER,2018.0,1,Protein Rest,122.0,30
+703,What The Helles!,HELLES,OTHER,2018.0,2,Saccharification Rest,154.0,30
+704,7k Czech Pale Lager,HELLES,OTHER,2018.0,1,,152.0,60
+705,Chris & Ryan’s Oktoberfest,AMBER LAGER,LAGER,2018.0,1,Mash,152.0,90
+705,Chris & Ryan’s Oktoberfest,AMBER LAGER,LAGER,2018.0,2,Mash Raise & Sparge,168.0,60
+706,Darkness Imprisoning Me Lager,DARK LAGER,LAGER,2018.0,1,Mash,148.0,60
+706,Darkness Imprisoning Me Lager,DARK LAGER,LAGER,2018.0,2,Mash Out,168.0,10
+707,Chew Bock-A Doppelbock,BOCK,LAGER,2018.0,1,Mash at 125\u00b0F,125.0,15
+707,Chew Bock-A Doppelbock,BOCK,LAGER,2018.0,2,Decoction step,155.0,15
+707,Chew Bock-A Doppelbock,BOCK,LAGER,2018.0,3,Decoction boil,155.0,15
+707,Chew Bock-A Doppelbock,BOCK,LAGER,2018.0,4,Main mash raise,155.0,45
+707,Chew Bock-A Doppelbock,BOCK,LAGER,2018.0,5,Second decoction boil,168.0,15
+707,Chew Bock-A Doppelbock,BOCK,LAGER,2018.0,6,Hold mash,168.0,10
+707,Chew Bock-A Doppelbock,BOCK,LAGER,2018.0,7,Mash out,170.0,10
+708,Spicy Nana Weissbier,HEFEWEIZEN,WHEAT_BEER,2018.0,1,In mash,105.0,0
+708,Spicy Nana Weissbier,HEFEWEIZEN,WHEAT_BEER,2018.0,2,Ferulic acid rest,112.0,10
+708,Spicy Nana Weissbier,HEFEWEIZEN,WHEAT_BEER,2018.0,3,Protein rest,126.0,10
+708,Spicy Nana Weissbier,HEFEWEIZEN,WHEAT_BEER,2018.0,4,Saccharification rest,149.0,5
+708,Spicy Nana Weissbier,HEFEWEIZEN,WHEAT_BEER,2018.0,5,Decoction process,158.0,20
+708,Spicy Nana Weissbier,HEFEWEIZEN,WHEAT_BEER,2018.0,6,Decoction boil,158.0,10
+708,Spicy Nana Weissbier,HEFEWEIZEN,WHEAT_BEER,2018.0,7,Final mash,169.0,10
+709,Now That’s A Knife Australian Sparking Ale,GOLDEN ALE,OTHER,2018.0,1,Mash,148.0,45
+709,Now That’s A Knife Australian Sparking Ale,GOLDEN ALE,OTHER,2018.0,2,Ramp to Mash Out,165.0,15
+710,Scarlett O’Hara Irish Red Ale,AMBER ALE,AMBER_ALE,2018.0,1,Primary Mash,152.0,75
+710,Scarlett O’Hara Irish Red Ale,AMBER ALE,AMBER_ALE,2018.0,2,Sparge,168.0,15
+711,Lee’s American Pale Ale,AMERICAN PALE ALE,IPA,2018.0,1,Mash,155.0,45
+712,Cookie Dough Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,2018.0,1,,149.0,60
+713,Cat Scratch Cali,Foreign / Tropical Stout,STOUT,2018.0,1,Mash,152.0,60
+713,Cat Scratch Cali,Foreign / Tropical Stout,STOUT,2018.0,2,Mash Out,168.0,10
+714,Hop Burst IPA,AMERICAN IPA,IPA,2018.0,1,Mash,145.0,60
+714,Hop Burst IPA,AMERICAN IPA,IPA,2018.0,2,Mash Out,168.0,5
+715,Star Maker Imperial Stout,IMPERIAL STOUT,STOUT,2018.0,1,Mash,155.0,60
+715,Star Maker Imperial Stout,IMPERIAL STOUT,STOUT,2018.0,2,Mashout,168.0,10
+716,Mendel’s Monster Double IPA,IMPERIAL / DOUBLE IPA,IPA,2018.0,1,Mash Rest,148.0,90
+717,Abbey Saison,BELGIAN ALE,BELGIAN,2018.0,1,FAN rest,122.0,15
+717,Abbey Saison,BELGIAN ALE,BELGIAN,2018.0,2,Protein rest,135.0,15
+717,Abbey Saison,BELGIAN ALE,BELGIAN,2018.0,3,Beta rest,145.0,30
+717,Abbey Saison,BELGIAN ALE,BELGIAN,2018.0,4,Alpha rest,158.0,30
+717,Abbey Saison,BELGIAN ALE,BELGIAN,2018.0,5,Mashout,170.0,15
+718,Neu Haus Belgian Dark Strong Ale,BELGIAN ALE,BELGIAN,2018.0,1,Mash,150.0,60
+719,Cherry Weisse,BERLINER WEISSE,SOUR,2018.0,1,Mash,148.0,75
+720,Smoked Helles,HELLES,OTHER,2018.0,1,Mash at 149\u00b0F,149.0,30
+720,Smoked Helles,HELLES,OTHER,2018.0,2,First decoction boil,149.0,10
+720,Smoked Helles,HELLES,OTHER,2018.0,3,Raise to 155\u00b0F,155.0,15
+720,Smoked Helles,HELLES,OTHER,2018.0,4,Second decoction boil,155.0,15
+720,Smoked Helles,HELLES,OTHER,2018.0,5,Raise to 170\u00b0F mashout,170.0,0
+721,BlytheStone Light Cream Ale,Cream Ale,BLONDE_PALE,2018.0,1,Mash,152.0,60
+722,Ryan’s Pale Lager,HELLES,OTHER,2018.0,1,Mash at 144\u00b0F,144.0,60
+722,Ryan’s Pale Lager,HELLES,OTHER,2018.0,2,Decoction boil,158.0,20
+722,Ryan’s Pale Lager,HELLES,OTHER,2018.0,3,Main mash,158.0,0
+723,Robert’s German Pils,GERMAN PILSNER,LAGER,2018.0,1,first mash,144.0,30
+723,Robert’s German Pils,GERMAN PILSNER,LAGER,2018.0,2,second mash,158.0,30
+723,Robert’s German Pils,GERMAN PILSNER,LAGER,2018.0,3,mash out,170.0,20
+724,Don’t Mess With Snickers Vienna Lager,AMBER LAGER,LAGER,2018.0,1,Mash,151.0,60
+725,Jonathan’s Schwarzbier,DARK LAGER,LAGER,2018.0,1,Protein Rest,135.0,30
+725,Jonathan’s Schwarzbier,DARK LAGER,LAGER,2018.0,2,Saccharification,150.0,45
+725,Jonathan’s Schwarzbier,DARK LAGER,LAGER,2018.0,3,Mash Out,169.0,20
+726,HBock Helles Bock,BOCK,LAGER,2018.0,1,Mash,150.0,60
+726,HBock Helles Bock,BOCK,LAGER,2018.0,2,Mash Out,168.0,10
+727,The Bizarro Jerry Weissbier,HEFEWEIZEN,WHEAT_BEER,2018.0,1,Decoction,160.0,15
+727,The Bizarro Jerry Weissbier,HEFEWEIZEN,WHEAT_BEER,2018.0,2,Main mash hold,148.0,15
+727,The Bizarro Jerry Weissbier,HEFEWEIZEN,WHEAT_BEER,2018.0,3,Decoction add back and heat,158.0,25
+727,The Bizarro Jerry Weissbier,HEFEWEIZEN,WHEAT_BEER,2018.0,4,Mash out,170.0,10
+728,More Special Strong Bitter,ENGLISH PALE ALE,IPA,2018.0,1,Mash,152.0,60
+729,Lost Art American Pale Ale,AMERICAN PALE ALE,IPA,2018.0,1,Mash,152.0,60
+730,The Goatsman Kentucky Common,AMBER LAGER,LAGER,2018.0,1,Mash,151.0,60
+731,Candies Wit English Porter,ENGLISH PORTER,PORTER,2018.0,1,Mash,153.0,60
+731,Candies Wit English Porter,ENGLISH PORTER,PORTER,2018.0,2,Mash Out,168.0,20
+732,Shadow Monster Imperial Stout,IMPERIAL STOUT,STOUT,2018.0,1,Mash,154.0,60
+733,Black Out IPA,AMERICAN IPA,IPA,2018.0,1,Mash,151.0,60
+734,The Gunners Dream American Barleywine,BARLEYWINE,STRONG_ALE,2018.0,1,,154.0,720
+735,BarleyQuad English Barleywine,BARLEYWINE,STRONG_ALE,2018.0,1,Mash Start,148.0,30
+735,BarleyQuad English Barleywine,BARLEYWINE,STRONG_ALE,2018.0,2,Mash Raise,154.0,60
+736,Red Keep Biere de Garde,BIÈRE DE GARDE,OTHER,2018.0,1,Mash,154.0,90
+737,Mmm Quad,BELGIAN ALE,BELGIAN,2018.0,1,Beta Rest,142.0,45
+737,Mmm Quad,BELGIAN ALE,BELGIAN,2018.0,2,Alpha Rest,155.0,30
+737,Mmm Quad,BELGIAN ALE,BELGIAN,2018.0,3,Mash Out,170.0,0
+738,Miss Mo’s Chocolate Raspberry Milk Stout,SPICE & HERB BEER,OTHER,2018.0,1,Mash,152.0,60
+739,Ass Kicking Cream Ale (Tequila-aged Lime/Jalapeno Ale),FRUIT BEER,OTHER,2018.0,1,Mash at 152\u00b0F,152.0,60
+739,Ass Kicking Cream Ale (Tequila-aged Lime/Jalapeno Ale),FRUIT BEER,OTHER,2018.0,2,Mash out at 168\u00b0F,168.0,10
+740,Wooden Bridge Barrel-aged Imperial Stout,IMPERIAL STOUT,STOUT,2018.0,1,Mash,152.0,60
+741,Dregs Of The Loon Wild Ale,WILD ALE,OTHER,2018.0,1,Mash,155.0,60
+742,Mike’s Rye Weizenbock,BOCK,LAGER,2018.0,1,Mash,150.0,90
+743,Daniel’s American IPA,AMERICAN IPA,IPA,2018.0,1,Saccharification rest,151.0,60
+744,John’s American Lager,AMERICAN LAGER,LAGER,2018.0,1,Mash,149.0,90
+744,John’s American Lager,AMERICAN LAGER,LAGER,2018.0,2,Mash Out,168.0,10
+745,Hayden’s Lager,AMERICAN LAGER,LAGER,2018.0,1,Mash,148.0,90
+746,Han Solo Shot First Imperial Stout,IMPERIAL STOUT,STOUT,2018.0,1,Mash,149.0,60
+747,TOF Joe IPA,AMERICAN IPA,IPA,2018.0,1,Mash,150.0,60
+748,Nuclear Winter White IPA,AMERICAN IPA,IPA,2017.0,1,first step,127.0,15
+748,Nuclear Winter White IPA,AMERICAN IPA,IPA,2017.0,2,second step,146.0,25
+748,Nuclear Winter White IPA,AMERICAN IPA,IPA,2017.0,3,third step,162.0,20
+748,Nuclear Winter White IPA,AMERICAN IPA,IPA,2017.0,4,fourth step,172.0,5
+749,Suicide Mission Double IPA,IMPERIAL / DOUBLE IPA,IPA,2018.0,1,Mash in,149.0,50
+749,Suicide Mission Double IPA,IMPERIAL / DOUBLE IPA,IPA,2018.0,2,Mash out,168.0,10
+750,Don’t Swallow the Cap Barleywine,BARLEYWINE,STRONG_ALE,2018.0,1,First mash,154.0,60
+750,Don’t Swallow the Cap Barleywine,BARLEYWINE,STRONG_ALE,2018.0,2,Second mash,150.0,60
+751,Paul and Nick’s Saison,BELGIAN ALE,BELGIAN,2018.0,1,Mash,152.0,90
+752,Brunchmaster 2000 Witbier,BELGIAN ALE,BELGIAN,2018.0,1,Mash,152.0,90
+753,Golden Diablo Belgian Strong Ale,BELGIAN ALE,BELGIAN,2018.0,1,Mash in,147.0,60
+753,Golden Diablo Belgian Strong Ale,BELGIAN ALE,BELGIAN,2018.0,2,Water heat to,151.0,0
+753,Golden Diablo Belgian Strong Ale,BELGIAN ALE,BELGIAN,2018.0,3,Hold,151.0,30
+753,Golden Diablo Belgian Strong Ale,BELGIAN ALE,BELGIAN,2018.0,4,Vorlauf,168.0,15
+753,Golden Diablo Belgian Strong Ale,BELGIAN ALE,BELGIAN,2018.0,5,Mash out,168.0,10
+754,Cuvee 863 Gueuze,GUEUZE,OTHER,2018.0,1,Sacch Rest 1,113.0,20
+754,Cuvee 863 Gueuze,GUEUZE,OTHER,2018.0,2,Sacch Rest 2,136.0,20
+754,Cuvee 863 Gueuze,GUEUZE,OTHER,2018.0,3,Sacch Rest 3,150.0,30
+754,Cuvee 863 Gueuze,GUEUZE,OTHER,2018.0,4,Sacch Rest 4,162.0,30
+754,Cuvee 863 Gueuze,GUEUZE,OTHER,2018.0,5,Sacch Rest 5,168.0,10
+755,Das Pash Berliner Weisse,BERLINER WEISSE,SOUR,2018.0,1,Mash,150.0,60
+756,Dr. Mantis Toboggan Winter Seasonal,SPICE & HERB BEER,OTHER,2018.0,1,mash,150.0,60
+757,Death Spiral Barrel-aged Barleywine,BARLEYWINE,STRONG_ALE,2018.0,1,,148.0,90
+757,Death Spiral Barrel-aged Barleywine,BARLEYWINE,STRONG_ALE,2018.0,2,Mash Out,168.0,10
+758,1879 Kulmbacher Export,DARK LAGER,LAGER,2018.0,1,Dough in,133.0,60
+758,1879 Kulmbacher Export,DARK LAGER,LAGER,2018.0,2,Rest,128.75,60
+758,1879 Kulmbacher Export,DARK LAGER,LAGER,2018.0,3,Secondary mash,162.5,45
+759,1834 Augsburger Lagerbier,DARK LAGER,LAGER,2018.0,1,Initial Rest,50.0,360
+759,1834 Augsburger Lagerbier,DARK LAGER,LAGER,2018.0,2,Rest after decoction,140.0,120
+759,1834 Augsburger Lagerbier,DARK LAGER,LAGER,2018.0,3,Set aside mash rest,153.0,120
+759,1834 Augsburger Lagerbier,DARK LAGER,LAGER,2018.0,4,Cool down and combine,189.0,0
+760,Old Ledger Lager,AMERICAN LAGER,LAGER,2018.0,1,Mash,149.0,60
+761,Inadweissable Florida Weisse,BERLINER WEISSE,SOUR,2018.0,1,sacch,150.0,60
+762,Halpatter Florida Weisse,BERLINER WEISSE,SOUR,2018.0,1,Mash 1,122.0,20
+762,Halpatter Florida Weisse,BERLINER WEISSE,SOUR,2018.0,2,Mash 2,150.0,40
+762,Halpatter Florida Weisse,BERLINER WEISSE,SOUR,2018.0,3,Mash Out,168.0,10
+763,Swamp Head Florida Weisse,BERLINER WEISSE,SOUR,2018.0,1,Mash,148.0,60
+764,Stechen Florida Weisse,BERLINER WEISSE,SOUR,2018.0,1,,155.0,60
+765,Bourbon Piñon Wee Heavy,AMBER ALE,AMBER_ALE,2018.0,1,Saccharification Rest,155.0,60
+766,Basic Bohemian Pilsner,CZECH / BOHO PILS,LAGER,2018.0,1,Saccharification rest,147.0,30
+766,Basic Bohemian Pilsner,CZECH / BOHO PILS,LAGER,2018.0,2,Decoction heating to boil,147.0,20
+766,Basic Bohemian Pilsner,CZECH / BOHO PILS,LAGER,2018.0,3,Decoction boil,147.0,15
+766,Basic Bohemian Pilsner,CZECH / BOHO PILS,LAGER,2018.0,4,Main mash hold,154.0,60
+766,Basic Bohemian Pilsner,CZECH / BOHO PILS,LAGER,2018.0,5,Mash out,168.0,10
+767,Dorada Pampeana Estilo Cerveza Zeppelin,Blonde Ale,BLONDE_PALE,2018.0,1,Mash,156.0,60
+768,Dorada Pampeana Estilo 1060 Cerveza,BLONDE ALE,BLONDE_PALE,2018.0,1,Mash,156.0,60
+769,Dorada Pampeana Estilo Cerveza Minga,Blonde Ale,BLONDE_PALE,2018.0,1,Main mash,153.0,60
+769,Dorada Pampeana Estilo Cerveza Minga,Blonde Ale,BLONDE_PALE,2018.0,2, Mash out/steep,169.0,10
+770,IPA Argenta,AMERICAN IPA,IPA,2018.0,1,Infusion,151.0,60
+771,Peaks & Priorities Juicy IPA (All-Grain),AMERICAN IPA,IPA,2018.0,1,saccharification rest,132.0,30
+771,Peaks & Priorities Juicy IPA (All-Grain),AMERICAN IPA,IPA,2018.0,2,mash out,167.0,0
+772,Van Dayum! Sour American Red Ale,AMBER ALE,AMBER_ALE,2018.0,1,Mash at 154\u00b0F for 1 hour,154.0,60
+773,Little Boss Sour Wheat Ale,SOUR ALE,SOUR,2018.0,1,Mash,148.0,60
+774,The Charlie Citrus Pale Ale,AMERICAN PALE ALE,IPA,,1,,150.0,75
+775,13th Day Imperial Stout,IMPERIAL STOUT,STOUT,2018.0,1,Mash,154.0,60
+776,Southern Highlander Wee Heavy,AMBER ALE,AMBER_ALE,2010.0,1,Mash,155.0,60
+777,Smokey the Beer II (All-Grain),RAUCHBIER,OTHER,2018.0,1,Initial mash,132.0,30
+777,Smokey the Beer II (All-Grain),RAUCHBIER,OTHER,2018.0,2,Mash out / raise temp,167.0,0
+778,Exulansis Raspberry Sour,FRUIT BEER,OTHER,2017.0,1,Mash,152.0,60
+779,Lichtenhainer,HISTORICAL BEER,OTHER,2017.0,1,Mash in,152.0,60
+780,Triple Down Belgian Tripel,BELGIAN ALE,BELGIAN,2017.0,1,Mash,154.0,60
+781,Dogfish Head Indian Brown Ale Clone,AMERICAN BROWN ALE,BROWN_ALE,2011.0,1,Mash at,152.0,60
+782,Toasted Coconut Black IPA,IPA,IPA,2017.0,1,mash,152.0,60
+783,Double IPA,IMPERIAL / DOUBLE IPA,IPA,2017.0,1,Mash,150.0,90
+783,Double IPA,IMPERIAL / DOUBLE IPA,IPA,2017.0,2,Mash Out,168.0,10
+784,Flatbed Pale Ale,AMERICAN PALE ALE,IPA,2017.0,1,mash in,150.0,60
+784,Flatbed Pale Ale,AMERICAN PALE ALE,IPA,2017.0,2,mash out,164.0,10
+785,Phil’s Lager,AMERICAN LAGER,LAGER,2017.0,1,Mash,152.0,90
+786,Razzhole Sour,FRUIT BEER,OTHER,2017.0,1,Mash in,154.0,60
+787,Sunsphere IPA,AMERICAN IPA,IPA,2017.0,1,Mash,153.0,60
+788,Scottish Light,AMBER ALE,AMBER_ALE,2017.0,1,Mash,154.0,60
+789,Mister Mayhem,BARLEYWINE,STRONG_ALE,2017.0,1,Infusion,152.0,60
+790,Session RIS,IMPERIAL STOUT,STOUT,2017.0,1,Mash,157.0,60
+791,Rocket Surgeon Summer Ale,ENGLISH PALE ALE,IPA,2017.0,1,Mash in,122.0,30
+791,Rocket Surgeon Summer Ale,ENGLISH PALE ALE,IPA,2017.0,2,Hold at 140\u00b0F,140.0,15
+791,Rocket Surgeon Summer Ale,ENGLISH PALE ALE,IPA,2017.0,3,Raise to 152\u00b0F,152.0,45
+793,The Olga Milk Stout,STOUT,STOUT,2017.0,1,Mash,156.0,60
+794,Exsanguinator,BOCK,LAGER,2017.0,1,Mash out,154.0,60
+795,Jeff’s Belgian Dark Strong Ale,BELGIAN ALE,BELGIAN,2017.0,1,Initial Mash,144.0,30
+795,Jeff’s Belgian Dark Strong Ale,BELGIAN ALE,BELGIAN,2017.0,2,Raise to Mash Temp,158.0,30
+795,Jeff’s Belgian Dark Strong Ale,BELGIAN ALE,BELGIAN,2017.0,3,Mash Out,172.0,5
+796,Big Ben,ENGLISH PORTER,PORTER,2017.0,1,Mash,151.0,60
+797,Entry 2,Dark Lager,LAGER,2017.0,1,Mash,152.0,60
+797,Entry 2,Dark Lager,LAGER,2017.0,2,Mash Out,169.0,10
+798,"Old Scotty"" Historical Scottish Heavy",AMBER ALE,AMBER_ALE,2017.0,1,Mash,152.0,60
+799,3 Philosophers with Attitude,BELGIAN ALE,BELGIAN,2017.0,1,Mash,156.0,45
+800,Elsie’s Marzen,AMBER LAGER,LAGER,2017.0,1,Protein Rest,126.0,20
+800,Elsie’s Marzen,AMBER LAGER,LAGER,2017.0,2,Mash Rest,144.0,20
+800,Elsie’s Marzen,AMBER LAGER,LAGER,2017.0,3,Mash Rest,158.0,30
+801,American Grisette,BELGIAN ALE,BELGIAN,2017.0,1,Mash,148.0,75
+802,Hackysack Superstar,HEFEWEIZEN,WHEAT_BEER,2017.0,1,Heat to 96\u00b0F (36\u00b0C),96.0,10
+802,Hackysack Superstar,HEFEWEIZEN,WHEAT_BEER,2017.0,2,Heat to 115\u00b0F (46\u00b0C),115.0,10
+802,Hackysack Superstar,HEFEWEIZEN,WHEAT_BEER,2017.0,3,Heat to 127\u00b0F (53\u00b0C),127.0,10
+802,Hackysack Superstar,HEFEWEIZEN,WHEAT_BEER,2017.0,4,Heat to 149\u00b0F (65\u00b0C),149.0,45
+803,VCR Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,2017.0,1,Mash in,145.0,30
+803,VCR Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,2017.0,2,Raise temp to mash out,162.0,30
+803,VCR Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,2017.0,3,Mash out,170.0,10
+804,Chickity Czech Yourself Pilsner,CZECH / BOHO PILS,LAGER,2017.0,1,Mash,158.0,90
+804,Chickity Czech Yourself Pilsner,CZECH / BOHO PILS,LAGER,2017.0,2,Mash Out,168.0,15
+805,Resurrection” Historical Grodziskie,HISTORICAL BEER,OTHER,2017.0,1,Mash in,136.0,20
+805,Resurrection” Historical Grodziskie,HISTORICAL BEER,OTHER,2017.0,2,Raise temp,148.0,20
+805,Resurrection” Historical Grodziskie,HISTORICAL BEER,OTHER,2017.0,3,Raise temp,156.0,45
+806,Go Big Black IPA,AMERICAN IPA,IPA,2017.0,1,Mash at 152\u00b0F (67\u00b0C),152.0,60
+807,Townie Yacht Club,AMERICAN WHEAT,WHEAT_BEER,2017.0,1,Mash,153.0,75
+808,Munich Gold 2016,HELLES,OTHER,2017.0,1,Mash,146.0,0
+808,Munich Gold 2016,HELLES,OTHER,2017.0,2,Decoction,156.0,30
+808,Munich Gold 2016,HELLES,OTHER,2017.0,3,Decoction boil,170.0,10
+809,Vitoria Vienna Pilsner,GERMAN PILSNER,LAGER,2013.0,1,initial,140.0,30
+809,Vitoria Vienna Pilsner,GERMAN PILSNER,LAGER,2013.0,2,mash out,155.0,30
+809,Vitoria Vienna Pilsner,GERMAN PILSNER,LAGER,2013.0,3,final,167.0,0
+810,Argentine Strong Scotch Ale,AMBER ALE,AMBER_ALE,2007.0,1,Mash,150.0,60
+811,Weekday Bock (All-Grain),BOCK,LAGER,2018.0,1,Initial rest,132.0,30
+811,Weekday Bock (All-Grain),BOCK,LAGER,2018.0,2,Saccharification rest,155.0,30
+811,Weekday Bock (All-Grain),BOCK,LAGER,2018.0,3,Mash out,167.0,0
+812,Saint Arnold Fancy Lawnmower Beer,HYBRID BEER,OTHER,2017.0,1,Mash,151.0,60
+813,Squatters Full Suspension Pale Ale,AMERICAN PALE ALE,IPA,2017.0,1,Mash In,155.0,30
+813,Squatters Full Suspension Pale Ale,AMERICAN PALE ALE,IPA,2017.0,2,Mash Off,168.0,0
+815,Choconut Brown Porter,AMERICAN PORTER,PORTER,2017.0,1,Mash,154.0,50
+816,Joe Gillian’s Red,AMBER ALE,AMBER_ALE,,1,Mash,150.0,90
+817,Überbrew White Noise American Wheat Ale,AMERICAN WHEAT,WHEAT_BEER,2016.0,1,Mash,149.0,90
+818,Danado de Bom Oatmeal Stout,OATMEAL STOUT,STOUT,2009.0,1,Saccharification,132.0,30
+818,Danado de Bom Oatmeal Stout,OATMEAL STOUT,STOUT,2009.0,2,Mash Out,167.0,0
+819,Coriandered Mild Brown Ale,BROWN ALE,BROWN_ALE,2006.0,1,Initial Rest,132.0,30
+819,Coriandered Mild Brown Ale,BROWN ALE,BROWN_ALE,2006.0,2,Conversion Rest,155.0,30
+819,Coriandered Mild Brown Ale,BROWN ALE,BROWN_ALE,2006.0,3,Mash Out,167.0,0
+820,German WeizenBock,WEIZEN BOCK,LAGER,2017.0,1,Acid Rest,111.0,15
+820,German WeizenBock,WEIZEN BOCK,LAGER,2017.0,2,Protein Rest,122.0,15
+820,German WeizenBock,WEIZEN BOCK,LAGER,2017.0,3,Saccharification Rest,154.0,60
+820,German WeizenBock,WEIZEN BOCK,LAGER,2017.0,4,Mash Out Rest,168.0,10
+821,American IPA Aged on Spanish Cedar Wood,AMERICAN IPA,IPA,2017.0,1,Mash,152.0,60
+821,American IPA Aged on Spanish Cedar Wood,AMERICAN IPA,IPA,2017.0,2,Mash Out,168.0,10
+822,Hammonds 1903 XXXX,ENGLISH PALE ALE,IPA,2017.0,1,Mash,154.0,60
+823,Brewlab 1995 Best Bitter,ENGLISH PALE ALE,IPA,2017.0,1,Mash,154.0,60
+824,Elbro Nerkte Remake 2017 Brown Ale,BROWN ALE,BROWN_ALE,2017.0,1,initial mash,132.0,30
+824,Elbro Nerkte Remake 2017 Brown Ale,BROWN ALE,BROWN_ALE,2017.0,2,mash hold,155.0,30
+824,Elbro Nerkte Remake 2017 Brown Ale,BROWN ALE,BROWN_ALE,2017.0,3,mash out,167.0,0
+825,Roughtail Brewing Co. Hoptometrist Double IPA,IMPERIAL / DOUBLE IPA,IPA,,1,Mash,147.0,60
+826,Adroit Theory Triptych Tart Rambutan Saison,BELGIAN ALE,BELGIAN,,1,Mash,148.0,60
+827,Boxing Bear Brewing Co. The Red Glove Double Red Ale,AMBER ALE,AMBER_ALE,2016.0,1,,154.0,60
+828,Big Dog’s Brewing Red Hydrant English Brown Ale,BROWN ALE,BROWN_ALE,,1,Mash,154.0,60
+829,Boise Brewing Co. Down Down Extra Pale Ale,AMERICAN PALE ALE,IPA,2014.0,1,,149.0,60
+830,Back East Brewery Porter,AMERICAN PORTER,PORTER,,1,Mash,149.0,45
+831,Firehouse Brewing Co. Swarthy Beaver English Pale Ale,ENGLISH PALE ALE,IPA,,1,Mash at 158\u00b0F (70\u00b0C),158.0,50
+832,Fossil Cove Brewing La Brea Brown,BELGIAN ALE,BELGIAN,,1,Mash at 150-151\u00b0F,150.0,30
+833,Gnarly Barley Brewing Co. Korova Milk Porter,PORTER,PORTER,,1,,150.0,60
+834,Jekyll Brewing Seven Bridges Oktoberfest,OKTOBERFEST,OTHER,,1,Saccharification Rest,153.0,60
+834,Jekyll Brewing Seven Bridges Oktoberfest,OKTOBERFEST,OTHER,,2,Mash Out,168.0,10
+835,Free State Brewing Co. Garden Party Lager,PALE LAGER,LAGER,,1,Mash,147.0,60
+836,Indeed Brewing Co. Day Tripper Pale Ale,AMERICAN PALE ALE,IPA,,1,,150.0,60
+837,Brooklyn Brewery Brooklyn Lager,AMBER LAGER,LAGER,,1,Mash,156.0,75
+838,Historic Brewing Company’s Deer Lord Altbier,ALTBIER,OTHER,,1,Mash,151.0,60
+839,Coppertail Brewing Co. Unholy Trippel,BELGIAN ALE,BELGIAN,,1,Mash,149.0,60
+840,Flying Fish Brewing Co. Red Fish Hoppy Red Ale,AMBER ALE,AMBER_ALE,,1,Initial mash,141.0,0
+840,Flying Fish Brewing Co. Red Fish Hoppy Red Ale,AMBER ALE,AMBER_ALE,,2,Raise temp to 144\u00b0F,144.0,15
+840,Flying Fish Brewing Co. Red Fish Hoppy Red Ale,AMBER ALE,AMBER_ALE,,3,Raise temp to 151\u00b0F,151.0,35
+840,Flying Fish Brewing Co. Red Fish Hoppy Red Ale,AMBER ALE,AMBER_ALE,,4,Mash out,168.0,0
+841,Hutton & Smith Brewing Co. On-Sight Alt,ALTBIER,OTHER,2016.0,1,Mash at 150-152\u00b0F for 60-90 minutes,151.0,60
+842,Maui Brewing Company POG IPA,AMERICAN IPA,IPA,,1,Mash,150.0,75
+843,Lazy Magnolia Brewery Southern Hops’pitality IPA,AMERICAN IPA,IPA,,1,,152.0,60
+844,Lynnwood Brewing Drop Bear APA,AMERICAN PALE ALE,IPA,,1,Mash at temperature,153.0,60
+845,Lion Bridge Brewing Co. Compensation English Dark Mild,BROWN ALE,BROWN_ALE,,1,,154.0,75
+846,Melvin Brewing Homebrewer’s Hop Bomb,IMPERIAL / DOUBLE IPA,IPA,,1,Mash,152.0,60
+847,Maine Beer Co. Peeper Ale,AMERICAN PALE ALE,IPA,2009.0,1,Single infusion,150.0,60
+848,Maplewood Brewing Co. Charlatan American Pale Ale,AMERICAN PALE ALE,IPA,,1,,152.0,45
+849,Paducah Beer Werks Traditional English Pale Ale,ENGLISH PALE ALE,IPA,,1,Mash,152.0,60
+850,Weathered Ground Brewery R.K. Double IPA,IMPERIAL / DOUBLE IPA,IPA,,1,Mash,152.0,70
+851,Evolution Craft Brewing Co. Crystal Row,Old Ale,OTHER,2015.0,1,Mash at 148\u00b0F for 40 minutes,148.0,40
+851,Evolution Craft Brewing Co. Crystal Row,Old Ale,OTHER,2015.0,2,Raise mash to 156\u00b0F for 15 minutes,156.0,15
+851,Evolution Craft Brewing Co. Crystal Row,Old Ale,OTHER,2015.0,3,Mash at 169\u00b0F for 5 minutes,169.0,5
+852,Revelry Brewing Co Oh My Darlyn! Scotch Ale,AMBER ALE,AMBER_ALE,2016.0,1,Mash,152.0,60
+853,Postdoc Brewing Demon Star Imperial Stout,IMPERIAL STOUT,STOUT,,1,Mash,152.0,60
+854,Uinta Brewing Co. Hop Nosh Tangerine,AMERICAN IPA,IPA,,1,,154.0,60
+855,Trinity Brewhouse Red Devils Belgian Pale Ale,BELGIAN ALE,BELGIAN,,1,Mash,152.0,60
+856,Zipline Brewing Co. NZ IPA,AMERICAN IPA,IPA,,1,,152.0,60
+857,Bale So Hard Dry-Hopped Saison,BELGIAN ALE,BELGIAN,2016.0,1,Mash,150.0,60
+858,Terra Firma Brown IPA,AMERICAN BROWN ALE,BROWN_ALE,,1,,153.0,60
+859,Vello’s Gotlandsdricke,HISTORICAL BEER,OTHER,2017.0,1,Initial mash,132.0,30
+859,Vello’s Gotlandsdricke,HISTORICAL BEER,OTHER,2017.0,2,Raise to 155\u00b0F,155.0,30
+859,Vello’s Gotlandsdricke,HISTORICAL BEER,OTHER,2017.0,3,Raise to 167\u00b0F,167.0,0
+860,Oh Mama! American Pale Ale,AMERICAN PALE ALE,IPA,2017.0,1,mash,151.0,90
+861,Brew-in-a-Bag Cranberry Ale,FRUIT BEER,OTHER,2017.0,1,Mash,149.0,120
+862,Pisswasser Lite,AMERICAN LAGER,LAGER,2017.0,1,Acid rest,100.0,20
+862,Pisswasser Lite,AMERICAN LAGER,LAGER,2017.0,2,Protein rest,122.0,30
+862,Pisswasser Lite,AMERICAN LAGER,LAGER,2017.0,3,Raise to beta amylase,156.0,15
+862,Pisswasser Lite,AMERICAN LAGER,LAGER,2017.0,4,Recombination and hold,146.0,120
+863,Grodziskie,HISTORICAL BEER,OTHER,2017.0,1,Mash,149.0,60
+864,Oatmeal Belgian Pale Ale,BELGIAN ALE,BELGIAN,2005.0,1,,150.0,60
+865,Hobo Devil,CZECH / BOHO PILS,LAGER,2015.0,1,Protein Rest,122.0,30
+865,Hobo Devil,CZECH / BOHO PILS,LAGER,2015.0,2,Mash Out,168.0,10
+866,Rushmore IPA (All-Grain),IPA,IPA,2017.0,1,Mash,153.0,60
+867,Klang Freudenfest Oktoberfest (All-Grain),OKTOBERFEST,OTHER,2017.0,1,Mash in,129.0,5
+867,Klang Freudenfest Oktoberfest (All-Grain),OKTOBERFEST,OTHER,2017.0,2,Raise to mash temp,150.0,30
+867,Klang Freudenfest Oktoberfest (All-Grain),OKTOBERFEST,OTHER,2017.0,3,Decoction mash,158.0,15
+867,Klang Freudenfest Oktoberfest (All-Grain),OKTOBERFEST,OTHER,2017.0,4,Mash boil return,162.0,5
+867,Klang Freudenfest Oktoberfest (All-Grain),OKTOBERFEST,OTHER,2017.0,5,Mash out,167.0,10
+868,Battre L’oie Saison (All-Grain),BELGIAN ALE,BELGIAN,2017.0,1,Mash,153.0,60
+869,Ryan’s Schwarzbier,DARK LAGER,LAGER,2016.0,1,Infusion Mash,152.0,60
+870,Dream Steam California Common,AMBER LAGER,LAGER,2016.0,1,Mash,152.0,60
+871,Dreg Pirate Roberts,WHEAT & RYE BEER,WHEAT_BEER,2016.0,1,Mash,154.0,60
+872,StOaked Brown,BROWN ALE,BROWN_ALE,2016.0,1,Mash,152.0,60
+872,StOaked Brown,BROWN ALE,BROWN_ALE,2016.0,2,Mash Out,168.0,10
+873,"Girl Scout Cookies"" Mint Chocolate Chip Sweet Stout",SPICE & HERB BEER,OTHER,2016.0,1,Mash,156.0,45
+873,"Girl Scout Cookies"" Mint Chocolate Chip Sweet Stout",SPICE & HERB BEER,OTHER,2016.0,2,Mash Out,168.0,10
+874,If You Like Pi Coladas Berliner Weisse,FRUIT BEER,OTHER,2016.0,1,,150.0,60
+875,Split Thy Skull English Barleywine,BARLEYWINE,STRONG_ALE,2016.0,1,,148.0,60
+876,Queen B*tch Belgian Dark Strong Ale,BELGIAN ALE,BELGIAN,2016.0,1,Mash,149.0,90
+877,This is Not a Gueuze Gueuze,GUEUZE,OTHER,2016.0,1,Mash,158.0,70
+878,Mandy & Wesley’s French Saison,BELGIAN ALE,BELGIAN,2016.0,1,Dough-in,102.0,15
+878,Mandy & Wesley’s French Saison,BELGIAN ALE,BELGIAN,2016.0,2,Mash,148.0,60
+878,Mandy & Wesley’s French Saison,BELGIAN ALE,BELGIAN,2016.0,3,Step Mash,154.0,30
+878,Mandy & Wesley’s French Saison,BELGIAN ALE,BELGIAN,2016.0,4,Mash Out,175.0,15
+879,Barb’s Hef Weissbier,HEFEWEIZEN,WHEAT_BEER,2016.0,1,Ferulic acid rest,115.0,10
+879,Barb’s Hef Weissbier,HEFEWEIZEN,WHEAT_BEER,2016.0,2,Protein rest,127.0,10
+879,Barb’s Hef Weissbier,HEFEWEIZEN,WHEAT_BEER,2016.0,3,Mash,149.0,60
+880,The Duke English IPA,ENGLISH IPA,IPA,2016.0,1,Mash,152.0,60
+881,Sandy American IPA,AMERICAN IPA,IPA,2016.0,1,Mash,144.0,60
+882,Kaos Returns,IMPERIAL STOUT,STOUT,2016.0,1,,152.0,75
+883,Padraig Irish Stout,IRISH STOUT,STOUT,2016.0,1,Mash,148.0,60
+884,Old Hound Dog Pre-Prohibition Porter,AMERICAN PORTER,PORTER,2016.0,1,Mash,152.0,60
+884,Old Hound Dog Pre-Prohibition Porter,AMERICAN PORTER,PORTER,2016.0,2,Mash Out,165.0,10
+885,Blackson Brown Ale,BROWN ALE,BROWN_ALE,2016.0,1,Mash,149.0,60
+885,Blackson Brown Ale,BROWN ALE,BROWN_ALE,2016.0,2,Mash out,168.0,10
+886,Cali Amber,AMBER ALE,AMBER_ALE,2016.0,1,,154.0,60
+886,Cali Amber,AMBER ALE,AMBER_ALE,2016.0,2,Mash Out,170.0,10
+887,Rainy Day American Pale Ale,AMERICAN PALE ALE,IPA,2016.0,1,Mash,153.0,60
+888,D3 Scottish Ale,AMBER ALE,AMBER_ALE,2016.0,1,Mash in,156.0,60
+888,D3 Scottish Ale,AMBER ALE,AMBER_ALE,2016.0,2,Mash out,168.0,10
+889,Golden Delight,ENGLISH PALE ALE,IPA,2016.0,1,Mash at 152\u00b0 F (67\u00b0 C) for 60 minutes,152.0,60
+890,Joe’s Kolsch,HYBRID BEER,OTHER,2016.0,1,Mash,148.0,60
+890,Joe’s Kolsch,HYBRID BEER,OTHER,2016.0,2,Mash Out,164.0,10
+891,The King of Eisbocks!,BOCK,LAGER,2016.0,1,Mash,154.0,70
+891,The King of Eisbocks!,BOCK,LAGER,2016.0,2,Mash Out,168.0,10
+892,"Thanks for the (Decoction) Pot, Dan"" Vienna Lager",AMBER LAGER,LAGER,2016.0,1,Mash in,158.0,60
+892,"Thanks for the (Decoction) Pot, Dan"" Vienna Lager",AMBER LAGER,LAGER,2016.0,2,Decoction boil,168.0,15
+892,"Thanks for the (Decoction) Pot, Dan"" Vienna Lager",AMBER LAGER,LAGER,2016.0,3,Hold at temperature,168.0,10
+893,Pilz Czech Pale Lager,CZECH / BOHO PILS,LAGER,2016.0,1,Hold,152.0,90
+894,Barstool Blues American Lite Lager,AMERICAN LAGER,LAGER,2016.0,1,Mash,148.0,90
+894,Barstool Blues American Lite Lager,AMERICAN LAGER,LAGER,2016.0,2,Mash out,168.0,10
+895,Sean’s Bock Doppelbock,BOCK,LAGER,2016.0,1,Mash,155.0,60
+896,Weavers Gold British Golden Ale,ENGLISH PALE ALE,IPA,2016.0,1,Mash,151.0,60
+897,Lov-a-ly Bunch of Coconuts,SPICE & HERB BEER,OTHER,2016.0,1,Mash,156.0,60
+898,Jared’s Galaxy Pale Ale,AMERICAN PALE ALE,IPA,2016.0,1,,150.0,75
+899,Gunn Clan Scotch Ale,AMBER ALE,AMBER_ALE,2011.0,1,Mash,158.0,120
+900,Stairway to Heaven Belgian Specialty Ale,BELGIAN ALE,BELGIAN,2008.0,1,Mash In,148.0,60
+900,Stairway to Heaven Belgian Specialty Ale,BELGIAN ALE,BELGIAN,2008.0,2,Mash Out,168.0,0
+901,Bill’s Farmhouse Ale,BELGIAN ALE,BELGIAN,2005.0,1,Main Mash,153.0,60
+902,Springtime in Amarillo Saison,BELGIAN ALE,BELGIAN,2008.0,1,Mash,153.0,60
+903,#BiggestSmallBeerEver Porter,AMERICAN PORTER,PORTER,2016.0,1,Mash in,150.0,60
+904,Snowdrop (Kottbusser),FARMHOUSE BEER,BELGIAN,2015.0,1,Mash,152.0,60
+905,English Pale Ale (ESB) by AHA Members,ENGLISH PALE ALE,IPA,,1,Mash,152.0,60
+906,"Milk Stout with Pumpkin, Coffee & Vanilla",COFFEE BEER,OTHER,,1,Mash,153.0,60
+907,Spencer Brewery Trappist Ale,BELGIAN ALE,BELGIAN,,1,Mash In,122.0,0
+907,Spencer Brewery Trappist Ale,BELGIAN ALE,BELGIAN,,2,Heat and hold,145.0,45
+907,Spencer Brewery Trappist Ale,BELGIAN ALE,BELGIAN,,3,Raise temperature,162.0,15
+907,Spencer Brewery Trappist Ale,BELGIAN ALE,BELGIAN,,4,Heat and transfer,172.0,0
+908,Saison D’Potiron,BELGIAN ALE,BELGIAN,2013.0,1,Protein Rest,120.0,10
+908,Saison D’Potiron,BELGIAN ALE,BELGIAN,2013.0,2,Saccharification Rest,154.0,60
+908,Saison D’Potiron,BELGIAN ALE,BELGIAN,2013.0,3,Mash Out,168.0,10
+909,Duck Slippers Session Helles,HELLES,OTHER,2014.0,1,Infusion,132.0,30
+909,Duck Slippers Session Helles,HELLES,OTHER,2014.0,2,Mash Out,155.0,30
+909,Duck Slippers Session Helles,HELLES,OTHER,2014.0,3,Rinse,167.0,0
+910,Summer Rye,WHEAT & RYE BEER,WHEAT_BEER,,1,Protein Rest,131.0,15
+910,Summer Rye,WHEAT & RYE BEER,WHEAT_BEER,,2,Mash,151.0,60
+911,An English Braggot,BRAGGOT,OTHER,,1,Mash,154.0,60
+912,Dave’s Dreaded Sunday Steam Beer,AMBER LAGER,LAGER,1999.0,1,Mash,156.0,60
+913,Beast Mauler Tripel,BELGIAN ALE,BELGIAN,2005.0,1,Mash,152.0,90
+914,Easter Quad,BELGIAN ALE,BELGIAN,,1,Saccharification Rest,152.0,60
+916,AG24 Oktoberfest,OKTOBERFEST,OTHER,2012.0,1,Protein Rest,122.0,25
+916,AG24 Oktoberfest,OKTOBERFEST,OTHER,2012.0,2,Main Rest,152.0,90
+917,Anchor Steam Clone,Amber Lager,LAGER,2003.0,1,Mash,148.0,60
+918,Joe’s Tripel,BELGIAN ALE,BELGIAN,2013.0,1,Mash,152.0,60
+918,Joe’s Tripel,BELGIAN ALE,BELGIAN,2013.0,2,Mash Out,170.0,30
+919,Portlandmunder X,HELLES,OTHER,2014.0,1,Primary mash,149.0,90
+920,AOK,PILSNER,LAGER,2014.0,1,Mash,150.0,90
+921,Rodtoberfest,AMBER LAGER,LAGER,2014.0,1,Rest,146.0,60
+921,Rodtoberfest,AMBER LAGER,LAGER,2014.0,2,Decoction boil,155.0,20
+922,Michael’s Dunkel,DARK LAGER,LAGER,2014.0,1,Protein Rest,130.0,20
+922,Michael’s Dunkel,DARK LAGER,LAGER,2014.0,2,Maltose Rest,143.0,60
+922,Michael’s Dunkel,DARK LAGER,LAGER,2014.0,3,Dextrin Rest,154.0,40
+922,Michael’s Dunkel,DARK LAGER,LAGER,2014.0,4,Mash Out,168.0,20
+923,Schmitten Doppelbock,BOCK,LAGER,2014.0,1,Mash,154.0,60
+925,Neue Altbier,ALTBIER,OTHER,2014.0,1,Mash,150.0,90
+926,Fully Monty British Ale,ENGLISH PALE ALE,IPA,2014.0,1,Mash,152.0,60
+927,Way Off Kilter,Amber Ale,AMBER_ALE,2014.0,1,Mash,155.0,60
+928,Big Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,2014.0,1,initial mash,145.0,30
+928,Big Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,2014.0,2,raise temp,158.0,40
+929,Mister Manners,BROWN ALE,BROWN_ALE,2014.0,1,Mash In,154.0,45
+930,Baltic Porter 13,BALTIC PORTER,PORTER,2014.0,1,Mash,152.0,75
+931,Rob’s Oatmeal Stout,OATMEAL STOUT,STOUT,2014.0,1,Mash,154.0,60
+932,Hop-Fu! IPA,IMPERIAL / DOUBLE IPA,IPA,2014.0,1,Saccharification rest,152.0,60
+932,Hop-Fu! IPA,IMPERIAL / DOUBLE IPA,IPA,2014.0,2,Mash out,168.0,15
+933,Yyy’s Man Says,BOCK,LAGER,2014.0,1,acid rest,111.0,15
+933,Yyy’s Man Says,BOCK,LAGER,2014.0,2,protein rest,125.0,15
+933,Yyy’s Man Says,BOCK,LAGER,2014.0,3,saccharification rest,153.0,60
+935,Red Headed Stranger,FLANDERS RED,OTHER,2014.0,1,Mash,152.0,60
+936,Evil Beavr,BELGIAN ALE,BELGIAN,2014.0,1,Mash,150.0,60
+937,Bellanio Farms,BARLEYWINE,STRONG_ALE,2014.0,1,Mash,145.0,60
+938,Razz-Ma-Tazz,CHOCOLATE BEER,OTHER,2014.0,1,Mash at 150\u00b0F (66\u00b0C),150.0,60
+939,Hop Canyon Habanero IPA,IPA,IPA,2014.0,1,Mash at 155\u00b0F (68\u00b0C) for 75 minutes,155.0,75
+940,Rauch Me Baby!,RAUCHBIER,OTHER,2014.0,1,Mash,154.0,90
+941,Emily,COFFEE BEER,OTHER,2014.0,1,Mash,152.0,90
+947,Springside Armenian Dunkel,DARK LAGER,LAGER,2006.0,1,,132.0,30
+947,Springside Armenian Dunkel,DARK LAGER,LAGER,2006.0,2,,155.0,30
+947,Springside Armenian Dunkel,DARK LAGER,LAGER,2006.0,3,,167.0,0
+948,Saison de Craisin,BELGIAN ALE,BELGIAN,2002.0,1,Mash,149.0,90
+949,Bon-Bon Kölsch,HYBRID BEER,OTHER,,1,Single Infusion,104.0,90
+949,Bon-Bon Kölsch,HYBRID BEER,OTHER,,2,Rest,140.0,90
+949,Bon-Bon Kölsch,HYBRID BEER,OTHER,,3,Rest,158.0,60
+950,Dubbel Your Pleasure,BELGIAN ALE,BELGIAN,2011.0,1,Dough-in,95.0,15
+950,Dubbel Your Pleasure,BELGIAN ALE,BELGIAN,2011.0,2,,122.0,15
+950,Dubbel Your Pleasure,BELGIAN ALE,BELGIAN,2011.0,3,,135.0,15
+950,Dubbel Your Pleasure,BELGIAN ALE,BELGIAN,2011.0,4,Saccharification rest,148.0,120
+950,Dubbel Your Pleasure,BELGIAN ALE,BELGIAN,2011.0,5,Mash out,165.0,15
+951,Summer Time American Wheat Wine,AMERICAN WHEAT,WHEAT_BEER,2007.0,1,Mash rest,150.0,60
+952,Regal Pale Ale,AMERICAN PALE ALE,IPA,2013.0,1,Mash,154.0,60
+953,Mike’s Belgian Saison,BELGIAN ALE,BELGIAN,2005.0,1, mash,153.0,90
+954,Peanut Butter Jelly Time,SPICE & HERB BEER,OTHER,,1,Mash,153.0,60
+956,Bosmo’s Imperial Cream Ale,CREAM ALE,BLONDE_PALE,2008.0,1,Initial Rest,121.0,30
+956,Bosmo’s Imperial Cream Ale,CREAM ALE,BLONDE_PALE,2008.0,2,Mid Rest,145.0,45
+956,Bosmo’s Imperial Cream Ale,CREAM ALE,BLONDE_PALE,2008.0,3,Saccharification Rest,158.0,60
+957,Russian River HopTime Harvest Ale Clone,AMERICAN IPA,IPA,2001.0,1,Mash,154.0,60
+958,Cucurbita Pepo (Pumpkin Ale),PUMPKIN BEER,OTHER,2001.0,1,Protein Rest,122.0,30
+958,Cucurbita Pepo (Pumpkin Ale),PUMPKIN BEER,OTHER,2001.0,2,Saccharification,148.0,60
+958,Cucurbita Pepo (Pumpkin Ale),PUMPKIN BEER,OTHER,2001.0,3,Mash Out,165.0,10
+959,Saison Du Mont,BELGIAN ALE,BELGIAN,2009.0,1,Mash,156.0,60
+960,Hoegaarden White Clone,BELGIAN ALE,BELGIAN,2011.0,1,Initial Stabilization,130.0,30
+960,Hoegaarden White Clone,BELGIAN ALE,BELGIAN,2011.0,2,Conversion Hold,150.0,60
+960,Hoegaarden White Clone,BELGIAN ALE,BELGIAN,2011.0,3,Mash Out and Lauter,167.0,0
+961,German Pils,GERMAN PILSNER,LAGER,2013.0,1,Dough-in,126.0,15
+961,German Pils,GERMAN PILSNER,LAGER,2013.0,2,Mash,150.0,75
+961,German Pils,GERMAN PILSNER,LAGER,2013.0,3,Mash Out,168.0,10
+962,A Festbier For the Rest Of Us,AMBER LAGER,LAGER,2013.0,1,Initial Mash,130.0,0
+962,A Festbier For the Rest Of Us,AMBER LAGER,LAGER,2013.0,2,Decoction Heat-up,212.0,0
+962,A Festbier For the Rest Of Us,AMBER LAGER,LAGER,2013.0,3,Decoction Rest,154.0,15
+962,A Festbier For the Rest Of Us,AMBER LAGER,LAGER,2013.0,4,Decoction Boil,212.0,20
+962,A Festbier For the Rest Of Us,AMBER LAGER,LAGER,2013.0,5,Combined Mash,136.0,0
+962,A Festbier For the Rest Of Us,AMBER LAGER,LAGER,2013.0,6,Mash Rest 1,154.0,15
+962,A Festbier For the Rest Of Us,AMBER LAGER,LAGER,2013.0,7,Mash Rest 2,156.0,15
+962,A Festbier For the Rest Of Us,AMBER LAGER,LAGER,2013.0,8,Mash Out,168.0,5
+963,Black Dog Lager,DARK LAGER,LAGER,2013.0,1,Initial Mash,129.0,5
+963,Black Dog Lager,DARK LAGER,LAGER,2013.0,2,Hold at 144\u00b0F,144.0,50
+963,Black Dog Lager,DARK LAGER,LAGER,2013.0,3,Hold at 158\u00b0F,158.0,30
+963,Black Dog Lager,DARK LAGER,LAGER,2013.0,4,Mash Out,165.0,5
+964,Maibock,BOCK,LAGER,2013.0,1,Mash,156.0,60
+965,Wheat Heavy,AMERICAN WHEAT,WHEAT_BEER,2013.0,1,acid rest,112.0,30
+965,Wheat Heavy,AMERICAN WHEAT,WHEAT_BEER,2013.0,2,protein rest,130.0,30
+965,Wheat Heavy,AMERICAN WHEAT,WHEAT_BEER,2013.0,3,rest 148\u00b0F,148.0,45
+965,Wheat Heavy,AMERICAN WHEAT,WHEAT_BEER,2013.0,4,rest 158\u00b0F,158.0,20
+965,Wheat Heavy,AMERICAN WHEAT,WHEAT_BEER,2013.0,5,mash out,165.0,15
+966,Rauch Katze,ALTBIER,OTHER,2013.0,1,Mash,152.0,90
+967,Ol’ Bitter Bastard,ENGLISH PALE ALE,IPA,2013.0,1,,152.0,60
+968,Russell’s Scottish 80,AMBER ALE,AMBER_ALE,2013.0,1,Mash,158.0,60
+969,Regal Pale Ale,AMERICAN PALE ALE,IPA,2013.0,1,,154.0,60
+970,Country Mild,BROWN ALE,BROWN_ALE,2013.0,1,Mash,150.0,60
+971,Scooter’s Lager,BALTIC PORTER,PORTER,2013.0,1,Mash,156.0,60
+972,Split Open and Melt,IMPERIAL STOUT,STOUT,2013.0,1,Mash,152.0,60
+973,Pike Ale,AMERICAN IPA,IPA,2013.0,1,Mash,151.5,60
+974,El Hefe (2013),HEFEWEIZEN,WHEAT_BEER,2013.0,1,Acid rest,113.0,15
+974,El Hefe (2013),HEFEWEIZEN,WHEAT_BEER,2013.0,2,Protein rest,126.0,15
+974,El Hefe (2013),HEFEWEIZEN,WHEAT_BEER,2013.0,3,Mash at 146\u00b0F (63\u00b0C),146.0,20
+974,El Hefe (2013),HEFEWEIZEN,WHEAT_BEER,2013.0,4,Mash at 158\u00b0F (70\u00b0C),158.0,20
+974,El Hefe (2013),HEFEWEIZEN,WHEAT_BEER,2013.0,5,Mash out at 167\u00b0F (75\u00b0C),167.0,10
+975,Soma,BELGIAN ALE,BELGIAN,2013.0,1,Saccharification Rest,152.0,60
+975,Soma,BELGIAN ALE,BELGIAN,2013.0,2,Raise Temp,170.0,0
+975,Soma,BELGIAN ALE,BELGIAN,2013.0,3,Cool to Incubation Temp,120.0,0
+975,Soma,BELGIAN ALE,BELGIAN,2013.0,4,Incubation at 100-120\u00b0F,110.0,24
+976,Jam Out… Peach Lambic,FRUIT BEER,OTHER,2013.0,1,Mash,148.0,45
+977,Tripel,BELGIAN ALE,BELGIAN,2013.0,1,Mash,152.0,60
+977,Tripel,BELGIAN ALE,BELGIAN,2013.0,2,Mash out,170.0,30
+978,2010 Barleywine,BARLEYWINE,STRONG_ALE,2013.0,1,Mash,149.0,90
+979,Fruity McFruitFruit,FRUIT BEER,OTHER,2013.0,1,Mash rest,150.0,90
+980,Scott’s Nutty Brown Ale,BROWN ALE,BROWN_ALE,2013.0,1,Mash,152.0,90
+981,Slightly Smoked Helles,HELLES,OTHER,2013.0,1,Mash,152.0,60
+981,Slightly Smoked Helles,HELLES,OTHER,2013.0,2,Mash Out,168.0,10
+982,Sto-Lat!,HISTORICAL BEER,OTHER,2013.0,1,Acid Rest,100.0,30
+982,Sto-Lat!,HISTORICAL BEER,OTHER,2013.0,2,Protein Rest,125.0,15
+982,Sto-Lat!,HISTORICAL BEER,OTHER,2013.0,3,Mash Conversion,149.0,10
+982,Sto-Lat!,HISTORICAL BEER,OTHER,2013.0,4,Saccharification Rest,158.0,30
+982,Sto-Lat!,HISTORICAL BEER,OTHER,2013.0,5,Mash Out,167.0,10
+988,Cranberry “Lambic”,FRUIT BEER,OTHER,1995.0,1,First Step,124.0,30
+988,Cranberry “Lambic”,FRUIT BEER,OTHER,1995.0,2,Second Step,153.0,60
+988,Cranberry “Lambic”,FRUIT BEER,OTHER,1995.0,3,Saccharification Rest,168.0,10
+989,Pointon Proper,BROWN ALE,BROWN_ALE,2012.0,1,Mash,152.0,60
+989,Pointon Proper,BROWN ALE,BROWN_ALE,2012.0,2,Mash Out,162.0,10
+990,More Fun Blonde Ale,BLONDE ALE,BLONDE_PALE,2013.0,1,Mash,152.0,60
+991,Wheat ‘n’ Berry Ale,FRUIT BEER,OTHER,1995.0,1,First Rest,128.0,30
+991,Wheat ‘n’ Berry Ale,FRUIT BEER,OTHER,1995.0,2,Saccharification Rest,154.0,60
+991,Wheat ‘n’ Berry Ale,FRUIT BEER,OTHER,1995.0,3,Mash Out,168.0,10
+993,Deck-Head Stout,IRISH STOUT,STOUT,,1,Mash at 98\u00b0F (37\u00b0C) for 20 minutes,98.0,20
+993,Deck-Head Stout,IRISH STOUT,STOUT,,2,Hold at 122\u00b0F (50\u00b0C) for 20 minutes,122.0,20
+993,Deck-Head Stout,IRISH STOUT,STOUT,,3,Raise to 154\u00b0F (68\u00b0C) for mash,154.0,65
+993,Deck-Head Stout,IRISH STOUT,STOUT,,4,Raise to 170\u00b0F (77\u00b0C) for mash out,170.0,5
+995,Addicted Coffee Stout,COFFEE BEER,OTHER,2012.0,1,Mash,151.0,60
+996,Brasserie Grain d’Orge,BELGIAN ALE,BELGIAN,,1,Initial rest,122.0,30
+996,Brasserie Grain d’Orge,BELGIAN ALE,BELGIAN,,2,Saccharification,155.0,60
+996,Brasserie Grain d’Orge,BELGIAN ALE,BELGIAN,,3,Mash out,167.0,10
+997,Chai Tea Brown Ale,BROWN ALE,BROWN_ALE,,1,Mash,150.0,60
+997,Chai Tea Brown Ale,BROWN ALE,BROWN_ALE,,2,Mash-out,170.0,0
+998,Saison d’Hiver,BELGIAN ALE,BELGIAN,2008.0,1,Mash in,149.0,60
+999,Raspberry Basil Porter Aged on Palo Santo Wood,Baltic Porter,PORTER,2008.0,1,Mash Rest,152.0,30
+1001,Big Basin Amber Ale,AMBER ALE,AMBER_ALE,,1,Mash At,155.0,60
+1002,Crabapple Lambicky Ale,FRUITED SOUR,SOUR,,1,Mash Rest,145.0,120
+1004,Punkin Head,PUMPKIN BEER,OTHER,,1,Protein Rest,122.0,30
+1004,Punkin Head,PUMPKIN BEER,OTHER,,2,Saccharification Rest,155.0,60
+1004,Punkin Head,PUMPKIN BEER,OTHER,,3,Mash Out,165.0,10
+1005,I See Your Schwartz Is As Big As Mine,DARK LAGER,LAGER,,1,Mash,151.0,90
+1006,Before Capone,AMERICAN PILSNER,LAGER,2011.0,1,Protein Rest,122.0,20
+1006,Before Capone,AMERICAN PILSNER,LAGER,2011.0,2,Mash,144.0,30
+1006,Before Capone,AMERICAN PILSNER,LAGER,2011.0,3,Mash,158.0,30
+1006,Before Capone,AMERICAN PILSNER,LAGER,2011.0,4,Mash Out,168.0,15
+1007,Potato Vacation Beer,SPICE & HERB BEER,OTHER,2004.0,1,Mash,156.0,20
+1008,Ettonante,BELGIAN ALE,BELGIAN,2001.0,1,Mash,153.0,60
+1009,Big Ass Barleywine,BARLEYWINE,STRONG_ALE,2005.0,1,Mash,151.0,60
+1010,Sitzung Helles,HELLES,OTHER,2012.0,1,,154.0,60
+1011,Barky Pilsner,GERMAN PILSNER,LAGER,2012.0,1,Mash,147.0,90
+1013,Endless Mountains Sour Summer Ale,BELGIAN ALE,BELGIAN,2012.0,1,mash,149.0,90
+1014,Stephen & Hayley's Winter Warmer 2011,BELGIAN ALE,BELGIAN,2012.0,1,,131.0,15
+1014,Stephen & Hayley's Winter Warmer 2011,BELGIAN ALE,BELGIAN,2012.0,2,,140.0,15
+1014,Stephen & Hayley's Winter Warmer 2011,BELGIAN ALE,BELGIAN,2012.0,3,,145.0,60
+1014,Stephen & Hayley's Winter Warmer 2011,BELGIAN ALE,BELGIAN,2012.0,4,Mash out,158.0,15
+1015,Old Ball and Chain,OLD ALE,OTHER,2012.0,1,Mash in,151.0,90
+1015,Old Ball and Chain,OLD ALE,OTHER,2012.0,2,Mash out,168.0,15
+1016,Koko’s Nut Stout,FRUIT BEER,OTHER,2012.0,1,mash,152.0,70
+1016,Koko’s Nut Stout,FRUIT BEER,OTHER,2012.0,2,mash out,167.0,6
+1017,Hibiscus Sauvante,SPICE & HERB BEER,OTHER,2012.0,1,Mash,152.0,60
+1018,Black Friday Stout,IMPERIAL STOUT,STOUT,2012.0,1,,154.0,60
+1019,Urban UFO,IPA,IPA,2012.0,1,Mash,155.0,75
+1025,Poor Richard’s Ale,HISTORICAL BEER,OTHER,,1,Mash,154.0,45
+1026,Dragon’s Milk October Beer,OLD ALE,OTHER,,1,Mash rest,153.0,60
+1026,Dragon’s Milk October Beer,OLD ALE,OTHER,,2,Mash out,168.0,10
+1027,Ray Spangler’s Pumpkin Spice Beer,PUMPKIN BEER,OTHER,,1,Mash,154.0,60
+1028,Dark Night Tangerine Porter,FRUIT BEER,OTHER,,1,Initial mash,150.0,15
+1028,Dark Night Tangerine Porter,FRUIT BEER,OTHER,,2,Protein rest and main mash,154.0,30
+1028,Dark Night Tangerine Porter,FRUIT BEER,OTHER,,3,Mash out,170.0,0
+1029,Viking Gold,HELLES,OTHER,2011.0,1,Initial Mash,142.0,30
+1029,Viking Gold,HELLES,OTHER,2011.0,2,Rest,152.0,30
+1029,Viking Gold,HELLES,OTHER,2011.0,3,Mash Out,165.0,15
+1030,Stop Looking for Malt Complexity in Pilsners,CZECH / BOHO PILS,LAGER,2011.0,1,Mash at 155\u00b0F,155.0,60
+1031,Vienna Lager,AMBER LAGER,LAGER,2011.0,1,Mash,152.0,90
+1032,Black Saxon,DARK LAGER,LAGER,2011.0,1,Mash,153.0,60
+1033,Tri-Paul-Bock,BOCK,LAGER,2011.0,1,Mash,155.0,60
+1033,Tri-Paul-Bock,BOCK,LAGER,2011.0,2,Mash Out,168.0,5
+1034,$12 Cream Ale,CREAM ALE,BLONDE_PALE,2011.0,1,Mash,154.0,60
+1034,$12 Cream Ale,CREAM ALE,BLONDE_PALE,2011.0,2,Mash Out,168.0,10
+1035,Daily Bread German Ale,ALTBIER,OTHER,2011.0,1,Mash,147.0,60
+1036,ESB,ENGLISH PALE ALE,IPA,2011.0,1,Initial Mash,132.0,10
+1036,ESB,ENGLISH PALE ALE,IPA,2011.0,2,Hold,150.0,60
+1036,ESB,ENGLISH PALE ALE,IPA,2011.0,3,Mash Out,168.0,1
+1037,Brown-Eyed Woman,AMBER ALE,AMBER_ALE,2011.0,1,Mash,154.0,90
+1038,Amber Waves of Grain,AMBER ALE,AMBER_ALE,2011.0,1,Mash,152.0,60
+1039,Northern English Brown Ale,BROWN ALE,BROWN_ALE,2011.0,1,Initial Mash,145.0,30
+1039,Northern English Brown Ale,BROWN ALE,BROWN_ALE,2011.0,2,Hold,152.0,60
+1039,Northern English Brown Ale,BROWN ALE,BROWN_ALE,2011.0,3,Mash Out,165.0,15
+1040,Dreaded Robust Porter,BALTIC PORTER,PORTER,2011.0,1,Mash,156.0,90
+1040,Dreaded Robust Porter,BALTIC PORTER,PORTER,2011.0,2,Mash Out,168.0,15
+1041,Badenov Russian Imperial Stout,IMPERIAL STOUT,STOUT,2011.0,1,Mash,158.0,60
+1042,Tsunami IPA,AMERICAN IPA,IPA,2011.0,1,Mash,155.0,60
+1043,Roggen (2011),ROGGENBIER,OTHER,2011.0,1,Protein rest,128.0,35
+1043,Roggen (2011),ROGGENBIER,OTHER,2011.0,2,Main mash (hold at 151\u00b0F),151.0,45
+1043,Roggen (2011),ROGGENBIER,OTHER,2011.0,3,Mash out,168.0,0
+1044,Shane’s Witbier,BELGIAN ALE,BELGIAN,2011.0,1,Mash wheat,148.0,15
+1044,Shane’s Witbier,BELGIAN ALE,BELGIAN,2011.0,2,Main mash,148.0,30
+1044,Shane’s Witbier,BELGIAN ALE,BELGIAN,2011.0,3,Protein rest,156.0,45
+1044,Shane’s Witbier,BELGIAN ALE,BELGIAN,2011.0,4,Mash out,168.0,0
+1046,Chimayo Azul,BELGIAN ALE,BELGIAN,2011.0,1,Saccharification Rest,149.0,60
+1047,Neural Rust,Barleywine,STRONG_ALE,2011.0,1,Mash,150.0,90
+1048,Hop Fruity,AMERICAN PALE ALE,IPA,2011.0,1,,149.0,90
+1049,Stef’s Olive Beer,SPICE & HERB BEER,OTHER,2011.0,1,Mash,152.0,60
+1050,Smoke Screen,RAUCHBIER,OTHER,2011.0,1,Mash in,122.0,10
+1050,Smoke Screen,RAUCHBIER,OTHER,2011.0,2,Decoction boil,154.0,10
+1050,Smoke Screen,RAUCHBIER,OTHER,2011.0,3,Main mash hold,154.0,40
+1051,Urban UFO,BARLEYWINE,STRONG_ALE,2011.0,1,Mash In,154.0,60
+1051,Urban UFO,BARLEYWINE,STRONG_ALE,2011.0,2,Mash Out,168.0,10
+1057,Rogerfest Cherry Wood Lager,AMBER LAGER,LAGER,2009.0,1,Mash,132.0,30
+1057,Rogerfest Cherry Wood Lager,AMBER LAGER,LAGER,2009.0,2,Raise to mash out,155.0,30
+1057,Rogerfest Cherry Wood Lager,AMBER LAGER,LAGER,2009.0,3,Raise for lautering,167.0,0
+1059,Eisbock,BOCK,LAGER,,1,Mash In,150.0,60
+1061,Marzen,AMBER LAGER,LAGER,,1,Mash,152.0,60
+1062,Biere de Garde,BELGIAN ALE,BELGIAN,,1,,160.0,70
+1063,Classic American Pilsner,AMERICAN PILSNER,LAGER,,1,Protein Rest,119.0,5
+1063,Classic American Pilsner,AMERICAN PILSNER,LAGER,,2, mash hold,153.0,90
+1064,Grey Skies Porter,BALTIC PORTER,PORTER,,1,Mash,154.0,60
+1065,Rose’s Russian Imperial Stout,IMPERIAL STOUT,STOUT,1992.0,1,Initial,130.0,30
+1065,Rose’s Russian Imperial Stout,IMPERIAL STOUT,STOUT,1992.0,2,Raise to 150\u00b0F,150.0,60
+1065,Rose’s Russian Imperial Stout,IMPERIAL STOUT,STOUT,1992.0,3,Raise to 156\u00b0F,156.0,30
+1066,Buffalo Pass Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,1995.0,1,Protein Rest,130.0,25
+1066,Buffalo Pass Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,1995.0,2,Conversion Rest 1,151.0,25
+1066,Buffalo Pass Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,1995.0,3,Conversion Rest 2,153.0,15
+1066,Buffalo Pass Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,1995.0,4,Conversion Rest 3,157.0,20
+1067,461 Dortmunder Export,HELLES,OTHER,2010.0,1,Mash,148.0,60
+1068,BoPils,CZECH / BOHO PILS,LAGER,2010.0,1,Initial,122.0,15
+1068,BoPils,CZECH / BOHO PILS,LAGER,2010.0,2,Rest,148.0,15
+1068,BoPils,CZECH / BOHO PILS,LAGER,2010.0,3,Mash Out,155.0,60
+1069,Maerzen,AMBER LAGER,LAGER,2010.0,1,Mash,152.0,90
+1070,Tara’s Slam Dunkel,DARK LAGER,LAGER,2010.0,1,Saccharification Rest,122.0,30
+1070,Tara’s Slam Dunkel,DARK LAGER,LAGER,2010.0,2,Decoction,158.0,20
+1070,Tara’s Slam Dunkel,DARK LAGER,LAGER,2010.0,3,Main Mash,149.0,20
+1070,Tara’s Slam Dunkel,DARK LAGER,LAGER,2010.0,4,Decoction for Mash Out,158.0,20
+1070,Tara’s Slam Dunkel,DARK LAGER,LAGER,2010.0,5,Mash Out,167.0,0
+1071,Isebock,BOCK,LAGER,2010.0,1,Protein Rest,122.0,20
+1071,Isebock,BOCK,LAGER,2010.0,2,Saccharification Rest,153.0,60
+1071,Isebock,BOCK,LAGER,2010.0,3,Mash Out,170.0,30
+1072,Helios Kölsch,HYBRID BEER,OTHER,2010.0,1,Mash,150.0,75
+1072,Helios Kölsch,HYBRID BEER,OTHER,2010.0,2,Mash Out,168.0,15
+1073,NJ Steam 143,AMBER LAGER,LAGER,2010.0,1,Mash,153.0,60
+1073,NJ Steam 143,AMBER LAGER,LAGER,2010.0,2,Mash Out,165.0,0
+1074,Guvnah,ENGLISH PALE ALE,IPA,2010.0,1,Mash,154.0,60
+1074,Guvnah,ENGLISH PALE ALE,IPA,2010.0,2,Mash Out,167.0,10
+1075,Scotch Bingerson’s Rehydration Fluid,AMBER ALE,AMBER_ALE,2010.0,1,Mash,156.0,60
+1076,Opening Day Pale Ale,AMERICAN PALE ALE,IPA,2010.0,1,,153.0,60
+1077,Thomas Toes Mild,Brown Ale,BROWN_ALE,2010.0,1,Mash,154.0,60
+1083,O’bama-lot,AMERICAN LAGER,LAGER,2009.0,1,Mash,148.0,90
+1084,Steve’s Classic American Pilsner,PILSNER,LAGER,2009.0,1,Mash,149.0,60
+1084,Steve’s Classic American Pilsner,PILSNER,LAGER,2009.0,2,Mash Out,170.0,0
+1085,Oktoberfest Hallertau,OKTOBERFEST,OTHER,2009.0,1,Mash,151.0,80
+1085,Oktoberfest Hallertau,OKTOBERFEST,OTHER,2009.0,2,Mash Out,161.0,5
+1086,Brian’s Eisbock,BOCK,LAGER,2009.0,1,Mash,156.0,90
+1087,"Bye Bye, Miss American Rye",WHEAT & RYE BEER,WHEAT_BEER,2009.0,1,Mash,150.0,75
+1087,"Bye Bye, Miss American Rye",WHEAT & RYE BEER,WHEAT_BEER,2009.0,2,Mash Out,168.0,15
+1088,Michael’s Dusseldorf Alt,ALTBIER,OTHER,2009.0,1,Mash,150.0,60
+1089,Janet’s Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,2004.0,1,Mash at 154\u00b0F,154.0,30
+1089,Janet’s Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,2004.0,2,Raise to 170\u00b0F and hold,170.0,15
+1089,Janet’s Brown Ale,AMERICAN BROWN ALE,BROWN_ALE,2004.0,3,Sparge,170.0,45
+1095,Billy Bob Mississippi Lager,AMERICAN LAGER,LAGER,2008.0,1,Mash,149.0,60
+1096,Liquid Sunshine,CZECH / BOHO PILS,LAGER,2008.0,1,Mash,150.0,70
+1097,Jim’s Vienna,AMBER LAGER,LAGER,2008.0,1,Mash,149.0,75
+1098,Eric’s Munich Dunkel,DARK LAGER,LAGER,2008.0,1,Mash,150.0,60
+1100,Kari’s Cream Ale,CREAM ALE,BLONDE_PALE,2008.0,1, Mash,149.0,60
+1101,SummersALT,ALTBIER,OTHER,2008.0,1,Mash at 134\u00b0F (57\u00b0C),134.0,20
+1101,SummersALT,ALTBIER,OTHER,2008.0,2,Raise mash to 158\u00b0F (70\u00b0C) and mash for 60 minutes,158.0,60
+1102,Kevin’s Standard Bitter,ENGLISH PALE ALE,IPA,2008.0,1,Mash,151.0,60
+1103,"If It Ain’t Scottish, It’s Crap!",AMBER ALE,AMBER_ALE,2008.0,1,Mash,153.0,60
+1104,Lara Pale Ale (2008),AMERICAN PALE ALE,IPA,2008.0,1,Mash,152.0,60
+1105,Nutty Professor Ale,BROWN ALE,BROWN_ALE,2008.0,1,Mash,154.0,90
+1106,Paul’s Robust Porter,BALTIC PORTER,PORTER,2008.0,1,Mash,152.0,60
+1107,Fostag Stout,AMERICAN STOUT,STOUT,2008.0,1,Mash,154.0,90
+1108,Pliny the Elder Clone,AMERICAN IPA,IPA,2008.0,1,Mash,152.0,60
+1109,England-Weizen,HEFEWEIZEN,WHEAT_BEER,2008.0,1,Rest 1,122.0,30
+1109,England-Weizen,HEFEWEIZEN,WHEAT_BEER,2008.0,2,Rest 2,142.0,30
+1109,England-Weizen,HEFEWEIZEN,WHEAT_BEER,2008.0,3,Rest 3,158.0,30
+1109,England-Weizen,HEFEWEIZEN,WHEAT_BEER,2008.0,4,Mash out,168.0,10
+1110,100% Brettanomyces,BELGIAN ALE,BELGIAN,2008.0,1,Mash at 148\u00b0F (64\u00b0C),148.0,60
+1110,100% Brettanomyces,BELGIAN ALE,BELGIAN,2008.0,2,Mash at 168\u00b0F (76\u00b0C),168.0,15
+1112,Have a Nice Tripel,BELGIAN ALE,BELGIAN,2008.0,1,Protein Rest,122.0,30
+1112,Have a Nice Tripel,BELGIAN ALE,BELGIAN,2008.0,2,Protein Rest to mash-in,147.0,90
+1112,Have a Nice Tripel,BELGIAN ALE,BELGIAN,2008.0,3,Mash Out,160.0,15
+1113,Cheap Leather Jackety Barley Wine,BARLEYWINE,STRONG_ALE,2008.0,1,Mash,152.0,60
+1114,It’s All Mine So Keep Back Berliner Weisse,BERLINER WEISSE,SOUR,2008.0,1,Mash in,150.0,60
+1115,Paul’s American Wheat Ale with Lemon,AMERICAN WHEAT,WHEAT_BEER,2008.0,1,Rest at 125\u00b0 F (52\u00b0C),125.0,15
+1115,Paul’s American Wheat Ale with Lemon,AMERICAN WHEAT,WHEAT_BEER,2008.0,2,Rest at 144\u00b0 F (62\u00b0C),144.0,15
+1115,Paul’s American Wheat Ale with Lemon,AMERICAN WHEAT,WHEAT_BEER,2008.0,3,Rest at 154\u00b0 F (68\u00b0C),154.0,15
+1115,Paul’s American Wheat Ale with Lemon,AMERICAN WHEAT,WHEAT_BEER,2008.0,4,Rest at 168\u00b0 F (76\u00b0C),168.0,15
+1116,Burnin’ Down the House,BOCK,LAGER,2008.0,1,Mash In,127.0,10
+1116,Burnin’ Down the House,BOCK,LAGER,2008.0,2,Rest,146.0,40
+1116,Burnin’ Down the House,BOCK,LAGER,2008.0,3,Decoction Heat,162.0,10
+1116,Burnin’ Down the House,BOCK,LAGER,2008.0,4,Boil Decoction,162.0,5
+1116,Burnin’ Down the House,BOCK,LAGER,2008.0,5,Main Mash Hold,158.0,10
+1116,Burnin’ Down the House,BOCK,LAGER,2008.0,6,Mash Out,168.0,10
+1117,Ben Franklin’s Ale,HISTORICAL BEER,OTHER,2008.0,1,Mash,154.0,60
+1123,Kristen and Orsolya’s Munich Helles,HELLES,OTHER,2007.0,1,Decoction Rest 1,95.0,15
+1123,Kristen and Orsolya’s Munich Helles,HELLES,OTHER,2007.0,2,Decoction Rest 2,110.0,15
+1123,Kristen and Orsolya’s Munich Helles,HELLES,OTHER,2007.0,3,Decoction Rest 3,144.0,15
+1123,Kristen and Orsolya’s Munich Helles,HELLES,OTHER,2007.0,4,Decoction Rest 4,158.0,15
+1124,Greg and Liz’s Pilsner,PILSNER,LAGER,2007.0,1,protein rest,119.0,5
+1124,Greg and Liz’s Pilsner,PILSNER,LAGER,2007.0,2,sacch rest,153.0,90
+1125,Saison d’Ete,BELGIAN ALE,BELGIAN,2007.0,1,Mash at 150\u00b0F,150.0,60
+1125,Saison d’Ete,BELGIAN ALE,BELGIAN,2007.0,2,Raise to 155\u00b0F,155.0,15
+1126,Jamil’s Flanders Red,FLANDERS RED,OTHER,2007.0,1,Mash,154.0,60
+1127,John5s Belgian Dark Strong,BELGIAN ALE,BELGIAN,2007.0,1,Mash in,153.0,60
+1127,John5s Belgian Dark Strong,BELGIAN ALE,BELGIAN,2007.0,2,Mash out,168.0,10
+1128,Old Blood & Guys – California,BARLEYWINE,STRONG_ALE,2007.0,1,Mash,152.0,60
+1129,Summer Breeze,AMERICAN WHEAT,WHEAT_BEER,2007.0,1,Mash in,150.0,60
+1130,Mild Jalape,AMBER ALE,AMBER_ALE,2007.0,1,Main Mash,158.0,90
+1131,Dare to Roeselare,FLANDERS RED,OTHER,2007.0,1,Mash,158.0,90
+1132,Richard’s Chipotle Pepper Bock,BOCK,LAGER,2007.0,1,Mash,156.0,60
+1138,Champagne Lager,AMERICAN LAGER,LAGER,2006.0,1,Mash,152.0,60
+1139,Drei Liebchen Deutsche Pils,GERMAN PILSNER,LAGER,2006.0,1,Mash,152.0,60
+1139,Drei Liebchen Deutsche Pils,GERMAN PILSNER,LAGER,2006.0,2,Mash out,170.0,10
+1140,Oface Ofest,OKTOBERFEST,OTHER,2006.0,1,Rest at 95\u00b0F,95.0,10
+1140,Oface Ofest,OKTOBERFEST,OTHER,2006.0,2,Rest at 110\u00b0F,110.0,10
+1140,Oface Ofest,OKTOBERFEST,OTHER,2006.0,3,Rest at 144\u00b0F,144.0,30
+1140,Oface Ofest,OKTOBERFEST,OTHER,2006.0,4,Rest at 158\u00b0F,158.0,30
+1140,Oface Ofest,OKTOBERFEST,OTHER,2006.0,5,Mash Out at 165\u00b0F,165.0,10
+1141,Jonathon’s Dark Lager,DARK LAGER,LAGER,2006.0,1,Mash,155.0,120
+1142,Dominator,BOCK,LAGER,2006.0,1,,152.0,90
+1143,Ted’s Cream Ale,CREAM ALE,BLONDE_PALE,2006.0,1,Mash,153.0,60
+1144,Bob’s Bitter,ENGLISH PALE ALE,IPA,2006.0,1,Mash,150.0,60
+1145,Sand Hill Scottie,AMBER ALE,AMBER_ALE,2006.0,1,Mash,154.0,90
+1145,Sand Hill Scottie,AMBER ALE,AMBER_ALE,2006.0,2,Mash Out,168.0,30
+1146,Drunk Monk Pale Ale,AMERICAN PALE ALE,IPA,2006.0,1,Mash,152.0,60
+1148,Greg and Liz’s Baltic Porter,BALTIC PORTER,PORTER,2006.0,1,Protein Rest,126.0,20
+1148,Greg and Liz’s Baltic Porter,BALTIC PORTER,PORTER,2006.0,2,Saccharification Rest,154.0,70
+1148,Greg and Liz’s Baltic Porter,BALTIC PORTER,PORTER,2006.0,3,Mash Out,170.0,5
+1149,RIS,IMPERIAL STOUT,STOUT,2006.0,1,Mash,152.0,60
+1150,Chicken Creek IPA,AMERICAN IPA,IPA,2006.0,1,Mash,154.0,60
+1151,Peter Nelson’s RoggenBier,ROGGENBIER,OTHER,2006.0,1,Mash,158.0,75
+1153,Throwing the Dice Again!,BELGIAN ALE,BELGIAN,2006.0,1,Mash,151.0,120
+1154,Jamil’s Belgian Strong Dark Ale,BELGIAN ALE,BELGIAN,2006.0,1,Mash,153.0,60
+1154,Jamil’s Belgian Strong Dark Ale,BELGIAN ALE,BELGIAN,2006.0,2,Mash Out,168.0,10
+1155,Jeff’s Old ale,OLD ALE,OTHER,2006.0,1,Mash,154.0,60
+1156,Blackberry & Cream,FRUIT BEER,OTHER,2006.0,1,Mash in,152.0,60
+1157,Vanilla Cream Stout,SPICE & HERB BEER,OTHER,2006.0,1,Mash,155.0,60
+1158,Jamil’s Classic Rauchbier,RAUCHBIER,OTHER,2006.0,1,Mash,154.0,60
+1158,Jamil’s Classic Rauchbier,RAUCHBIER,OTHER,2006.0,2,Mash Out,168.0,5
+1159,Garden Gruit,HISTORICAL BEER,OTHER,2006.0,1,Protein Rest,120.0,30
+1159,Garden Gruit,HISTORICAL BEER,OTHER,2006.0,2,Saccharification Rest,153.0,30
+1159,Garden Gruit,HISTORICAL BEER,OTHER,2006.0,3,Mash Out,168.0,10
+1165,Golden Era Lager,PILSNER,LAGER,2005.0,1,Mash,154.0,60
+1166,Little Vienna,AMBER LAGER,LAGER,2005.0,1,Mash,150.0,60
+1167,Heilige Helles,BOCK,LAGER,2005.0,1,Mash,145.0,60
+1168,Summer Kölsch,HYBRID BEER,OTHER,2005.0,1,Mash,152.0,60
+1169,Ed’s Alt,ALTBIER,OTHER,2005.0,1,Mash,150.0,90
+1170,True Brit,ENGLISH PALE ALE,IPA,2005.0,1,Mash,152.0,60
+1171,Curt and Kathy’s Scottish 60/-,AMBER ALE,AMBER_ALE,2005.0,1,Mash,152.0,60
+1172,Screaming Viking Pale Ale,AMERICAN PALE ALE,IPA,2005.0,1,Mash,158.0,45
+1173,Jamil’s English Brown,BROWN ALE,BROWN_ALE,2005.0,1,Mash at 154\u00b0F,154.0,60
+1173,Jamil’s English Brown,BROWN ALE,BROWN_ALE,2005.0,2,Mash out at 168\u00b0F,168.0,10
+1174,Black Hills Porter,BALTIC PORTER,PORTER,2005.0,1,Mash at 104\u00b0F,104.0,30
+1174,Black Hills Porter,BALTIC PORTER,PORTER,2005.0,2,Hold at 140\u00b0F,140.0,30
+1174,Black Hills Porter,BALTIC PORTER,PORTER,2005.0,3,Hold at 158\u00b0F,158.0,30
+1176,13 Mile IPA,ENGLISH IPA,IPA,2005.0,1,Mash,152.0,60
+1177,Paul’s Hefeweizen,HEFEWEIZEN,WHEAT_BEER,2005.0,1,Mash,150.0,60
+1179,Oh To Daisy,BELGIAN ALE,BELGIAN,2005.0,1,Mash,150.0,120
+1180,Blunt Trauma,BELGIAN ALE,BELGIAN,2005.0,1,Mash in,160.0,60
+1181,Arrogant Barrister,BARLEYWINE,STRONG_ALE,2005.0,1,Mash,150.0,60
+1182,Kölsch Abuse,FRUIT BEER,OTHER,2005.0,1,Mash,152.0,30
+1183,Love Potino #9,IMPERIAL STOUT,STOUT,2005.0,1,Rest 1,122.0,30
+1183,Love Potino #9,IMPERIAL STOUT,STOUT,2005.0,2,Rest 2,141.0,30
+1183,Love Potino #9,IMPERIAL STOUT,STOUT,2005.0,3,Rest 3,154.0,60
+1183,Love Potino #9,IMPERIAL STOUT,STOUT,2005.0,4,Mash Out,170.0,10
+1184,Bellringer,HISTORICAL BEER,OTHER,2005.0,1,Main Mash,155.0,90
+1190,Whiz-Bang! Belgian Dark Strong Ale,BELGIAN DARK STRONG ALE,STRONG_ALE,2023.0,1,Mash at 148\u00b0F,148.0,50
+1190,Whiz-Bang! Belgian Dark Strong Ale,BELGIAN DARK STRONG ALE,STRONG_ALE,2023.0,2,Mash at 168\u00b0F,168.0,10
+1191,Challenge Accepted American Amber Ale,AMERICAN AMBER ALE,AMBER_ALE,2023.0,1,Mash in,154.0,60
+1192,Philly Sour Saison,SAISON,BELGIAN,2024.0,1,Mash,149.0,60
+1193,Horizon Pale Ale,AMERICAN PALE ALE,IPA,2023.0,1,,148.0,60
+1194,One Way or Another Guava Blonde Ale,FRUIT BEER,OTHER,2023.0,1,Mash,152.0,60
+1195,Old Man Johnson’s Farm Catharina Sour,SOUR ALE,SOUR,2023.0,1,Mash in,149.0,45
+1195,Old Man Johnson’s Farm Catharina Sour,SOUR ALE,SOUR,2023.0,2,Mash temp raise,154.0,15
+1195,Old Man Johnson’s Farm Catharina Sour,SOUR ALE,SOUR,2023.0,3,Mash out,168.0,15
+1196,Iceberg! Kölsch,KOLSCH,OTHER,2023.0,1,Dough In,144.0,0
+1196,Iceberg! Kölsch,KOLSCH,OTHER,2023.0,2,Step 1,148.0,45
+1196,Iceberg! Kölsch,KOLSCH,OTHER,2023.0,3,Step 2,153.0,10
+1196,Iceberg! Kölsch,KOLSCH,OTHER,2023.0,4,Step 3,163.0,45
+1196,Iceberg! Kölsch,KOLSCH,OTHER,2023.0,5,Step 4,170.0,15
+1197,Kilt Dropper Wee Heavy,AMBER ALE,AMBER_ALE,2023.0,1,Mash,154.0,60
+1200,Extra Special Beautiful ESB,ENGLISH BITTER,OTHER,2024.0,1,Mash,147.0,60
+1200,Extra Special Beautiful ESB,ENGLISH BITTER,OTHER,2024.0,2,Mash Out,168.8,1
+1201,Oak Flower Hazy IPA,IPA,IPA,2023.0,1,Mash,154.0,60
+1201,Oak Flower Hazy IPA,IPA,IPA,2023.0,2,Mashout,168.0,0
+1202,Fubarleywine,Barleywine,STRONG_ALE,2021.0,1,mash,149.0,60
+1202,Fubarleywine,Barleywine,STRONG_ALE,2021.0,2,mash out,168.0,10
+1204,Roger That Roggenbier,ROGGENBIER,OTHER,2018.0,1,Mash,154.0,60
+1205,Lou’s Best ESB,ENGLISH PALE ALE,IPA,2018.0,1,Mash,150.0,60
+1206,Stewpid Propino Scottish Ale,AMBER ALE,AMBER_ALE,2018.0,1,Mash,152.0,60
+1207,Alabama Hopslammer American Pale Ale,AMERICAN PALE ALE,IPA,2018.0,1,Mash at 154\u00b0F,154.0,45
+1207,Alabama Hopslammer American Pale Ale,AMERICAN PALE ALE,IPA,2018.0,2,Mash at 162\u00b0F,162.0,20
+1207,Alabama Hopslammer American Pale Ale,AMERICAN PALE ALE,IPA,2018.0,3,Mash at 172\u00b0F,172.0,10
+1208,Wood St. Common,AMBER LAGER,LAGER,2018.0,1,Mash,152.0,60
+1209,Hey Man Dark Mild,BROWN ALE,BROWN_ALE,2018.0,1,Mash,152.0,60
+1210,Beerwreckdus Oatmeal Stout,OATMEAL STOUT,STOUT,2018.0,1,Mash,155.0,60
+1211,George and Aaron’s Pre-Prohibition Porter,PORTER,PORTER,2018.0,1,,152.0,60
+1212,Scottish Crème Brulee Ale,AMBER ALE,AMBER_ALE,2018.0,1,Mash,156.0,60
+1213,Blue Barrel Sour,SOUR ALE,SOUR,2018.0,1,Start,130.0,60
+1213,Blue Barrel Sour,SOUR ALE,SOUR,2018.0,2,Raise to mash temp,160.0,60
+1214,Benedictus Gruit Ale,HISTORICAL BEER,OTHER,2018.0,1,,155.0,60
+1215,No Fail Stout (Gluten-free),STOUT,STOUT,2017.0,1,Mash,155.0,60
+1217,Kevin’s Mom,HEFEWEIZEN,WHEAT_BEER,2018.0,1,Main mash,104.0,0
+1217,Kevin’s Mom,HEFEWEIZEN,WHEAT_BEER,2018.0,2,Rest at 113\u00b0F,113.0,5
+1217,Kevin’s Mom,HEFEWEIZEN,WHEAT_BEER,2018.0,3,Raise to 122\u00b0F,122.0,15
+1217,Kevin’s Mom,HEFEWEIZEN,WHEAT_BEER,2018.0,4,Rest at 122\u00b0F,122.0,15
+1217,Kevin’s Mom,HEFEWEIZEN,WHEAT_BEER,2018.0,5,Decoction boil,158.0,20
+1217,Kevin’s Mom,HEFEWEIZEN,WHEAT_BEER,2018.0,6,Rest at 158\u00b0F,158.0,0
+1217,Kevin’s Mom,HEFEWEIZEN,WHEAT_BEER,2018.0,7,Heat to 168\u00b0F,168.0,0
+1218,Holier than Meow Hefeweizen,HEFEWEIZEN,WHEAT_BEER,2018.0,1,,149.0,75
+1219,Left on Colden Hefeweizen,HEFEWEIZEN,WHEAT_BEER,2018.0,1,Steep malts,150.0,45
+1220,Corn Tripel,BELGIAN ALE,BELGIAN,2005.0,1,Mash,150.0,60
+1221,No Quarter Smoked Porter,PORTER,PORTER,,1,Mash in,154.0,30
+1221,No Quarter Smoked Porter,PORTER,PORTER,,2,Raise temperature,168.0,30
+1222,Walkin’ with the Man Strong Belgian Ale,BELGIAN ALE,BELGIAN,2003.0,1,Mash,154.0,60
+1223,Zane’s NZ Pale Ale,AMERICAN PALE ALE,IPA,2013.0,1,Mash,167.0,60
+1224,Wynkoop Colorojo Clone,AMBER ALE,AMBER_ALE,2013.0,1,single infusion,154.0,50
+1225,South Cyde Brown Ale Recipe,BROWN ALE,BROWN_ALE,2012.0,1,Mash,152.0,45
+1226,Bald Belgian Blonde,BELGIAN ALE,BELGIAN,2012.0,1,Mash in,150.0,70
+1227,Poblano Wit,BELGIAN ALE,BELGIAN,2013.0,1,Main mash,149.0,90
+1228,Dark English Barleywine,BARLEYWINE,STRONG_ALE,2010.0,1,Mash,152.0,90
+1229,Miss Vickie,Blonde Ale,BLONDE_PALE,2012.0,1,Mash,150.0,60
+1230,Ctrl + Alt + Delete,ALTBIER,OTHER,2012.0,1,Mash,151.0,75
+1231,Bit of Bitter,ENGLISH PALE ALE,IPA,2012.0,1,Mash in,149.0,60
+1231,Bit of Bitter,ENGLISH PALE ALE,IPA,2012.0,2,Mash out,170.0,10
+1232,Albanach Láidir,AMBER ALE,AMBER_ALE,2012.0,1,,155.0,60
+1233,West Coast Blaster,AMBER ALE,AMBER_ALE,2012.0,1,Mash,152.0,60
+1234,Nick’s Northern English Brown Ale,BROWN ALE,BROWN_ALE,2012.0,1,Mash in,152.0,60
+1234,Nick’s Northern English Brown Ale,BROWN ALE,BROWN_ALE,2012.0,2,Mash out,168.0,10
+1235,Brown Bag Brown Porter,AMERICAN PORTER,PORTER,2012.0,1,Mash,153.0,60
+1235,Brown Bag Brown Porter,AMERICAN PORTER,PORTER,2012.0,2,Mash out,170.0,15
+1236,Chernaya Polnoch RIS,IMPERIAL STOUT,STOUT,2012.0,1,Mash,152.0,60
+1237,Hop-Fu,AMERICAN IPA,IPA,2012.0,1,Mash in,152.0,60
+1237,Hop-Fu,AMERICAN IPA,IPA,2012.0,2,Mash out,168.0,15
+1238,Three King’s Baltic Porter,BALTIC PORTER,PORTER,2010.0,1,Mash,155.0,60
+1239,Glenn’s Oatmeal Stout,OATMEAL STOUT,STOUT,2010.0,1,Mash,154.0,90
+1240,Hop-Fu,AMERICAN IPA,IPA,2010.0,1,Mash in,152.0,60
+1240,Hop-Fu,AMERICAN IPA,IPA,2010.0,2,Mash out,168.0,15
+1241,Roggen (2010),ROGGENBIER,OTHER,2010.0,1,Protein Rest,122.0,35
+1241,Roggen (2010),ROGGENBIER,OTHER,2010.0,2,Saccharification Rest,165.0,30
+1242,Saison Lite 139,BELGIAN ALE,BELGIAN,2010.0,1,Mash,150.0,70
+1242,Saison Lite 139,BELGIAN ALE,BELGIAN,2010.0,2,Mash Out,165.0,0
+1243,Zed’s Dead Red,FLANDERS RED,OTHER,2010.0,1,Mash,158.0,60
+1244,Sully’s Belgian Blonde,BELGIAN ALE,BELGIAN,2010.0,1,Mash,150.0,60
+1245,JJs Barleywine,BARLEYWINE,STRONG_ALE,2010.0,1,Mash,150.0,60
+1246,Peaches – N – Cream Hefe,FRUIT BEER,OTHER,2010.0,1,initial mash,112.0,20
+1246,Peaches – N – Cream Hefe,FRUIT BEER,OTHER,2010.0,2,infuse to 144\u00b0F,144.0,20
+1246,Peaches – N – Cream Hefe,FRUIT BEER,OTHER,2010.0,3,raise to 152\u00b0F,152.0,60
+1246,Peaches – N – Cream Hefe,FRUIT BEER,OTHER,2010.0,4,raise to 159\u00b0F,159.0,30
+1246,Peaches – N – Cream Hefe,FRUIT BEER,OTHER,2010.0,5,mash out,168.0,0
+1247,Zingibier,BELGIAN ALE,BELGIAN,2010.0,1,Mash,152.0,60
+1248,Spanish Cedar IPA,IPA,IPA,2010.0,1,Mash,150.0,60
+1249,Old Ale with Grapes and Honey,FRUIT BEER,OTHER,2010.0,1,Mash,146.0,60
+1250,Jimmy’s ESB,ENGLISH PALE ALE,IPA,2009.0,1,mash,154.0,60
+1251,Lara Pale Ale (2009),AMERICAN PALE ALE,IPA,2009.0,1,Mash,153.0,60
+1252,Modest Mild,BROWN ALE,BROWN_ALE,2009.0,1,,156.0,60
+1253,Geoff’s Robust Porter,Baltic Porter,PORTER,2009.0,1,Mash,151.0,60
+1253,Geoff’s Robust Porter,Baltic Porter,PORTER,2009.0,2,Mash Out,151.0,5
+1254,Redridge Stout,FOREIGN / TROPICAL STOUT,STOUT,2009.0,1,Mash,145.0,60
+1255,Blitzkrieg Hops,ENGLISH IPA,IPA,2009.0,1,,150.0,75
+1256,El Hefe (2009),HEFEWEIZEN,WHEAT_BEER,2009.0,1,Dough-in,111.0,15
+1256,El Hefe (2009),HEFEWEIZEN,WHEAT_BEER,2009.0,2,Rest,131.0,10
+1256,El Hefe (2009),HEFEWEIZEN,WHEAT_BEER,2009.0,3,Decoction Heatup,158.0,20
+1256,El Hefe (2009),HEFEWEIZEN,WHEAT_BEER,2009.0,4,Main Mash,149.0,0
+1256,El Hefe (2009),HEFEWEIZEN,WHEAT_BEER,2009.0,5,Recombine & Hold,158.0,10
+1256,El Hefe (2009),HEFEWEIZEN,WHEAT_BEER,2009.0,6,Mash Out,170.0,0
+1257,Jeff’s Belgian Ale,BELGIAN ALE,BELGIAN,2009.0,1,Mash,147.0,90
+1258,Creative Destruction Barleywine,BARLEYWINE,STRONG_ALE,2009.0,1,Mash,151.0,60
+1259,Mashing Pumpkins Spiced Saison,BELGIAN ALE,BELGIAN,2009.0,1,Mash,153.0,60
+1260,Ramon’s Kölsch,HYBRID BEER,OTHER,2007.0,1,Mash,148.0,60
+1261,JZ Alt,ALTBIER,OTHER,2007.0,1,Mash,148.0,90
+1262,Bears Bitter,ENGLISH PALE ALE,IPA,2007.0,1,Mash,152.0,60
+1263,Kaltrauch Rauchbier (2023),RAUCHBIER,OTHER,2023.0,1,Initial mash,115.0,15
+1263,Kaltrauch Rauchbier (2023),RAUCHBIER,OTHER,2023.0,2,Main mash,154.0,60
+1264,Kyle’s Bavarian Pils,German Pilsner,LAGER,2018.0,1,,151.0,240
+1264,Kyle’s Bavarian Pils,German Pilsner,LAGER,2018.0,2,,142.0,240
+1264,Kyle’s Bavarian Pils,German Pilsner,LAGER,2018.0,3,,156.0,0
+1265,Lovelace Vienna Lager,AMBER LAGER,LAGER,2018.0,1,Mash Step 1,144.0,30
+1265,Lovelace Vienna Lager,AMBER LAGER,LAGER,2018.0,2,Mash Step 2,158.0,30
+1265,Lovelace Vienna Lager,AMBER LAGER,LAGER,2018.0,3,Mash Step 3,170.0,15
+1266,Dark Rhine Schwarzbier,DARK LAGER,LAGER,2018.0,1,Mash,148.0,60
+1267,Aurora Helles Bock,BOCK,LAGER,2018.0,1,Mash at 150\u00b0F,150.0,30
+1269,Black Saxon 2,DARK LAGER,LAGER,2012.0,1,Rest 1,110.0,30
+1269,Black Saxon 2,DARK LAGER,LAGER,2012.0,2,Decoction 1,128.0,20
+1269,Black Saxon 2,DARK LAGER,LAGER,2012.0,3,Rest 2,151.0,20
+1269,Black Saxon 2,DARK LAGER,LAGER,2012.0,4,Rest 3,161.0,20
+1269,Black Saxon 2,DARK LAGER,LAGER,2012.0,5,Recombine to 129\u00b0F,129.0,0
+1269,Black Saxon 2,DARK LAGER,LAGER,2012.0,6,Decoction 2,149.0,20
+1269,Black Saxon 2,DARK LAGER,LAGER,2012.0,7,Rest 4,161.0,20
+1269,Black Saxon 2,DARK LAGER,LAGER,2012.0,8,Recombine to 153\u00b0F,153.0,0
+1269,Black Saxon 2,DARK LAGER,LAGER,2012.0,9,Decoction 3,161.0,20
+1269,Black Saxon 2,DARK LAGER,LAGER,2012.0,10,Recombine to 168\u00b0F,168.0,0
+1270,The Noidinator,BOCK,LAGER,2012.0,1,Mash,150.0,60
+1270,The Noidinator,BOCK,LAGER,2012.0,2,Mash Out,168.0,10
+1271,Zen Bock,BOCK,LAGER,2012.0,1,Rest 1,126.0,20
+1271,Zen Bock,BOCK,LAGER,2012.0,2,Rest 2,146.0,60
+1271,Zen Bock,BOCK,LAGER,2012.0,3,Rest 3,160.0,30
+1272,"Thanks, Curt",FRUIT BEER,OTHER,2009.0,1,First step,105.0,10
+1272,"Thanks, Curt",FRUIT BEER,OTHER,2009.0,2,Second step,135.0,5
+1272,"Thanks, Curt",FRUIT BEER,OTHER,2009.0,3,Main mash,158.0,90
+1273,Brisket in a Bottle,RAUCHBIER,OTHER,2009.0,1,Mash,154.0,60
+1274,GB Märzen,AMBER LAGER,LAGER,2007.0,1,Mash at 152\u00b0F,152.0,60
+1275,Steve and Dan’s Schwarzbier,DARK LAGER,LAGER,2007.0,1,Mash,153.0,90
+1276,Bitezen Bock,BOCK,LAGER,2007.0,1,,154.0,60
+1382,Can’t Wait To See Where This Gueuze,GUEUZE,OTHER,2023.0,1,Main Mash,152.0,60
+1383,Sticky Fingers Saison,SAISON,BELGIAN,2022.0,1,Mash,148.0,60
+1384,Pinot Grigio Oenobeer: Italian Grape Ale,FRUIT BEER,OTHER,2021.0,1,Mash,152.0,45
+1385,Jazz Flute Norwegian Kveik Farmhouse,FARMHOUSE BEER,BELGIAN,2018.0,1,,149.0,90
+1386,Lao Kang’s Cream Ale,CREAM ALE,BLONDE_PALE,2002.0,1,Step 1,122.0,20
+1386,Lao Kang’s Cream Ale,CREAM ALE,BLONDE_PALE,2002.0,2,Step 2,134.0,20
+1386,Lao Kang’s Cream Ale,CREAM ALE,BLONDE_PALE,2002.0,3,Step 3,154.0,60
+1386,Lao Kang’s Cream Ale,CREAM ALE,BLONDE_PALE,2002.0,4,Step 4,168.0,20
+1387,Kristen and Orsolya’s Scottish Light 60/-,AMBER ALE,AMBER_ALE,2007.0,1,,150.0,90
+1388,Amarillo Pale Ale,AMERICAN PALE ALE,IPA,2007.0,1,Mash,153.0,60
+1389,Jamil’s Brown Ale,BROWN ALE,BROWN_ALE,2007.0,1,Mash,154.0,60
+1389,Jamil’s Brown Ale,BROWN ALE,BROWN_ALE,2007.0,2,Mash out,168.0,10
+1390,BJ’s Robust Porter,BALTIC PORTER,PORTER,2007.0,1,,154.0,60
+1391,Leap Second Imperial Stout,IMPERIAL STOUT,STOUT,2007.0,1,Mash,140.0,15
+1391,Leap Second Imperial Stout,IMPERIAL STOUT,STOUT,2007.0,2,Raise & Hold,153.0,115
+1391,Leap Second Imperial Stout,IMPERIAL STOUT,STOUT,2007.0,3,Mash Out,166.0,19
+1392,Longbrook IPA,AMERICAN IPA,IPA,2007.0,1,Mash,153.0,90
+1393,Jon’s American Lager,,UNKNOWN,2005.0,1,Dough in,165.0,15
+1393,Jon’s American Lager,,UNKNOWN,2005.0,2,Mash grains,155.0,80

@@ -305,6 +305,12 @@ def load_and_validate_data(input_file):
     # Add recipe_id as first column
     df.insert(0, 'recipe_id', range(len(df)))
 
+    # Convert original_category to uppercase
+    if 'original_category' in df.columns:
+        df['original_category'] = df['original_category'].apply(
+            lambda x: x.upper() if pd.notna(x) and isinstance(x, str) else x
+        )
+
     print(f"  ✓ Loaded {len(df)} recipes")
 
     # Check for required fields
@@ -475,22 +481,57 @@ def process_hops(recipes_df):
             else:
                 amount_oz = amount
 
-            usage = hop.get('usage', '')
+            usage = hop.get('usage', '').lower() if hop.get('usage') else ''
             time_min = hop.get('time_min')
 
-            # Classify hop type
-            if usage == 'boil' and time_min and time_min > 30:
+            # Classify hop type based on comprehensive keyword-based logic
+            # 🟥 Bittering - Early hot-side additions whose primary purpose is IBUs
+            # 🟧 Flavour - Mid–late boil additions (still hot-side, still some IBUs)
+            # 🟩 Aroma - Late hot-side, post-boil, or cold-side additions
+
+            hop_type = 'other'  # Default
+
+            # 🟥 BITTERING keywords - Early hot-side additions
+            bittering_keywords = [
+                'first wort', 'fwh', 'mash', 'lauter',
+                'start of boil', 'bittering'
+            ]
+
+            # 🟧 FLAVOUR keywords - Mid–late boil
+            flavour_keywords = [
+                'flavor', 'flavour', 'last 10 min', 'last minutes',
+                'continuous hopping'
+            ]
+
+            # 🟩 AROMA keywords - Late hot-side, post-boil, cold-side
+            aroma_keywords = [
+                'flameout', 'whirlpool', 'hop stand', 'knockout',
+                'hopback', 'steep', 'dry hop', 'dry-hop', 'dryhop',
+                'fermentation', 'secondary', 'keg', 'hop oil',
+                'aroma', 'post-boil', 'cold side'
+            ]
+
+            # Check bittering keywords first
+            if any(keyword in usage for keyword in bittering_keywords):
                 hop_type = 'bittering'
-            elif usage == 'boil' and time_min and time_min <= 30:
-                hop_type = 'flavor'
-            elif usage in ['flameout', 'whirlpool', 'hop stand']:
+            # Check aroma keywords (before flavour, as they're more specific)
+            elif any(keyword in usage for keyword in aroma_keywords):
                 hop_type = 'aroma'
-            elif usage == 'dry hop':
-                hop_type = 'dry_hop'
-            elif usage == 'FWH':
-                hop_type = 'fwh'
-            else:
-                hop_type = 'other'
+            # Check flavour keywords
+            elif any(keyword in usage for keyword in flavour_keywords):
+                hop_type = 'flavour'
+            # Check boil time if usage is 'boil' or similar
+            elif 'boil' in usage and time_min is not None:
+                if time_min >= 45:
+                    hop_type = 'bittering'
+                elif time_min >= 15:
+                    hop_type = 'flavour'
+                else:
+                    hop_type = 'aroma'
+
+            # Calculate hop rates
+            oz_per_gal = amount_oz / batch_size_gal
+            oz_per_liter = oz_per_gal / 3.78541  # 1 gallon = 3.78541 liters
 
             hops_rows.append({
                 'recipe_id': idx,
@@ -506,19 +547,21 @@ def process_hops(recipes_df):
                 'time_min': time_min,
                 'hop_type': hop_type,
                 'batch_size_gal': batch_size_gal,
-                'oz_per_gal': amount_oz / batch_size_gal,
+                'oz_per_gal': oz_per_gal,
+                'oz_per_liter': oz_per_liter,
                 'biotransformation': hop.get('biotransformation'),
             })
 
     hops_df = pd.DataFrame(hops_rows)
 
     # Calculate hop schedule metrics per recipe
+    # Note: 'flavour' uses British spelling to match the classification
     hop_schedule = hops_df.groupby('recipe_id').apply(
         lambda x: {
             'bittering_oz_gal': (x[x['hop_type'] == 'bittering']['oz_per_gal'].sum()) if len(x[x['hop_type'] == 'bittering']) > 0 else 0,
-            'flavor_oz_gal': (x[x['hop_type'] == 'flavor']['oz_per_gal'].sum()) if len(x[x['hop_type'] == 'flavor']) > 0 else 0,
+            'flavor_oz_gal': (x[x['hop_type'] == 'flavour']['oz_per_gal'].sum()) if len(x[x['hop_type'] == 'flavour']) > 0 else 0,
             'aroma_oz_gal': (x[x['hop_type'] == 'aroma']['oz_per_gal'].sum()) if len(x[x['hop_type'] == 'aroma']) > 0 else 0,
-            'dry_hop_oz_gal': (x[x['hop_type'] == 'dry_hop']['oz_per_gal'].sum()) if len(x[x['hop_type'] == 'dry_hop']) > 0 else 0,
+            'dry_hop_oz_gal': 0,  # Deprecated: dry hop is now part of aroma
         }
     ).to_dict()
 
@@ -675,7 +718,81 @@ def process_yeast(recipes_df):
 
 
 # ============================================================================
-# Step 9: Competition/Award Analysis
+# Step 9: Mash Steps Normalization
+# ============================================================================
+
+def process_mash_steps(recipes_df):
+    """Extract and normalize mash step data."""
+    print("\nStep 9: Processing mash steps...")
+
+    mash_rows = []
+
+    for idx, row in recipes_df.iterrows():
+        mash_steps = parse_json_safe(row.get('mash_steps_json', '[]'), [])
+
+        if not mash_steps:
+            continue
+
+        for step_num, step in enumerate(mash_steps, start=1):
+            mash_rows.append({
+                'recipe_id': idx,
+                'recipe_title': row['title'],
+                'style': row['style'],
+                'style_group': row.get('style_group'),
+                'year': row['year'],
+                'step_number': step_num,
+                'step_name': step.get('name', ''),
+                'temp_F': step.get('temp_F'),
+                'time_min': step.get('time_min'),
+            })
+
+    mash_df = pd.DataFrame(mash_rows)
+
+    print(f"  ✓ Processed {len(mash_df)} mash steps from {mash_df['recipe_id'].nunique()} recipes")
+
+    return recipes_df, mash_df
+
+
+# ============================================================================
+# Step 10: Fermentation Stages Normalization
+# ============================================================================
+
+def process_fermentation_stages(recipes_df):
+    """Extract and normalize fermentation stage data."""
+    print("\nStep 10: Processing fermentation stages...")
+
+    fermentation_rows = []
+
+    for idx, row in recipes_df.iterrows():
+        fermentation_stages = parse_json_safe(row.get('fermentation_stages_json', '[]'), [])
+
+        if not fermentation_stages:
+            continue
+
+        for stage_num, stage in enumerate(fermentation_stages, start=1):
+            fermentation_rows.append({
+                'recipe_id': idx,
+                'recipe_title': row['title'],
+                'style': row['style'],
+                'style_group': row.get('style_group'),
+                'year': row['year'],
+                'stage_number': stage_num,
+                'stage': stage.get('stage', ''),
+                'start_temp_F': stage.get('start_temp_F'),
+                'end_temp_F': stage.get('end_temp_F'),
+                'duration_days': stage.get('duration_days'),
+                'ramp_per_day_F': stage.get('ramp_per_day_F'),
+            })
+
+    fermentation_df = pd.DataFrame(fermentation_rows)
+
+    print(f"  ✓ Processed {len(fermentation_df)} fermentation stages from {fermentation_df['recipe_id'].nunique()} recipes")
+
+    return recipes_df, fermentation_df
+
+
+# ============================================================================
+# Step 11: Competition/Award Analysis
 # ============================================================================
 
 def process_competition(recipes_df):
@@ -802,7 +919,13 @@ def main():
     # Step 8: Yeast normalization
     recipes_df, yeast_df = process_yeast(recipes_df)
 
-    # Step 9: Competition/awards
+    # Step 9: Mash steps normalization
+    recipes_df, mash_steps_df = process_mash_steps(recipes_df)
+
+    # Step 10: Fermentation stages normalization
+    recipes_df, fermentation_df = process_fermentation_stages(recipes_df)
+
+    # Step 11: Competition/awards
     recipes_df = process_competition(recipes_df)
 
     # BJCP Reference data
@@ -827,6 +950,8 @@ def main():
         ('hops_normalized.csv', hops_df),
         ('water_normalized.csv', water_df),
         ('yeast_normalized.csv', yeast_df),
+        ('mash_steps_normalized.csv', mash_steps_df),
+        ('fermentation_stages_normalized.csv', fermentation_df),
     ]
 
     for filename, df in tables:
@@ -852,9 +977,11 @@ def main():
     print("\nGenerated tables:")
     print("  • recipes_normalized.csv - Main normalized recipe data")
     print("  • malts_normalized.csv - Malt ingredient details")
-    print("  • hops_normalized.csv - Hop ingredient details")
+    print("  • hops_normalized.csv - Hop ingredient details (with hop_type classification)")
     print("  • water_normalized.csv - Water chemistry profiles")
     print("  • yeast_normalized.csv - Yeast strain details")
+    print("  • mash_steps_normalized.csv - Mash step details (temperature profiles)")
+    print("  • fermentation_stages_normalized.csv - Fermentation stage details (temp schedules)")
     print("\nReference tables:")
     print("  • bjcp_guidelines.csv - BJCP style guidelines")
     print("  • recipe_lookup.csv - Recipe ID to URL mapping (PK)")
